@@ -2,12 +2,12 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              http://vkblog.github.io
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
-baseurl:          /hydejack
+baseurl:          ''
 
-title:            Hydejack
+title:            Woman. Legend.Blog
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
