@@ -18,6 +18,9 @@ disqus: womanlegendblog
 
 google_analytics: UA-74036868-1
 
+#RSS
+
+
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
   This blog has it all: Russian despair, American cynicism, and Nutella. Welcome!
