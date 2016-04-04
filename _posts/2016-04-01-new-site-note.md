@@ -21,7 +21,7 @@ D) Feeling blocked because of my writing environment.
 
 I've loved Wordpress for a very long time. Since I got started blogging in 2009, in fact.  For all of that time, 
 Wordpress allowed me to publish quickly without worrying about the back-end details, namely since Mr. B handled 
-a lot of that in exchange for [delicious dinners[(http://vkblog.github.io/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/). 
+a lot of that in exchange for [delicious dinners](http://vkblog.github.io/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/). 
 I still love Wordpress and think it's an extremely important tool for the open Internet.  
 I still 100% recommend it to anyone looking to get into writing online. 
 
