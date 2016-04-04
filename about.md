@@ -18,10 +18,10 @@ title: About
 I&#8217;m Vicki.  I used to be [a nerd](http://www.amazon.com/Theres-Something-about-Scotland-Boykis-ebook/dp/B007TQ8370), then I moved to the Philly suburbs and had a baby. Now I'm even lamer.   
   
 I was born in Russia. I didn&#8217;t have a first name for a month</a>, then I  was named after a breed of strawberry growing on my grandmother&#8217;s dacha in Nizhniy Novgorod, Russia. My full name is Victoria but I hate being called that because I don&#8217;t think I&#8217;ll ever grow into it.
-</p>
+
 
  When I was five, my parents decided that Russia was unhealthy for human beings and hightailed it to America.
-</p>
+
 
 <p style="text-align: center;">
   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/scan0001.jpg"><img title="scan0001" alt="" src="http://blog.vickiboykis.com/wp-content/uploads/2009/01/scan0001.jpg" width="389" height="287" /></a>

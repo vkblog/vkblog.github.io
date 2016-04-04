@@ -17,14 +17,14 @@ description:      >
 # sidebar_tags:     [jekyll, hyde]
 
 # Fallback image and color if not overwritten for tag or post
-image:            /public/img/thinker.jpeg
+image:            https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/thinker.jpg
 color:            '#A85641'
 
 author:
   name:           'Vicki Boykis'
   twitter:        vboykis
   github:         veekaybee
-  photo:          public/img/profile.jpg
+  photo:          https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/profile.jpeg
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # about:          |
