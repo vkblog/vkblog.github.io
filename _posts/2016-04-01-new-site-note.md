@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: Technical note: New site!
----
+--
 
 Hi! It's been a while. A couple months, in fact. 
 
@@ -49,7 +48,7 @@ The tradeoff that the migration from Wordpress has been keeping me up much more 
 Namely, here are the things I'm still working on: 
 
 + Adding back comments (migrating to/from Disqus and integrating into Jekyll is annoying)
-+ Fixing broken XML feeds
++ Links to XML feeds
 + Getting back to blogging at a regular cadence !
 
 But if I don't release this site now, I'm going to go insane. So, here it is, warts and all. 
