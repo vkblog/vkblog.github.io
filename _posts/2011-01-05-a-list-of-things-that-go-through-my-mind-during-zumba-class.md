@@ -4,7 +4,7 @@ title: A List of Things That Go Through My Mind During Zumba Class
 date: 2011-01-05T12:00:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4162
+guid: https://vkblog.github.io/?p=4162
 permalink: /2011/01/a-list-of-things-that-go-through-my-mind-during-zumba-class/
 categories:
   - Uncategorized
@@ -13,12 +13,12 @@ tags:
   - SKRUG
   - zumba
 ---
-_P.S. (It is P.S. if the P comes before the actual S?) If you&#8217;re stopping by because of the JTA 100, welcome. I write about my life which entails being Jewish, being Russian, being married to a [Landau-type](http://en.wikipedia.org/wiki/Lev_Landau), economics, Nutella, international escapades, women, and sometimes Golda Meir. [Here&#8217;s my last year in blog posts.](http://blog.vickiboykis.com/wlb/2010/12/30/2010-in-blog-posts/) Ch-ch-ch-eck it out._ 
+_P.S. (It is P.S. if the P comes before the actual S?) If you&#8217;re stopping by because of the JTA 100, welcome. I write about my life which entails being Jewish, being Russian, being married to a [Landau-type](http://en.wikipedia.org/wiki/Lev_Landau), economics, Nutella, international escapades, women, and sometimes Golda Meir. [Here&#8217;s my last year in blog posts.](https://vkblog.github.io/2010/12/30/2010-in-blog-posts/) Ch-ch-ch-eck it out._ 
 
-8:03 P.M., Tuesday in early January, [SKRUG](http://blog.vickiboykis.com/wlb/2010/11/18/skrug/).  Latin music is blasting and 25 women are making various aerobics-like movements so close to each other you can almost hear the eggs sweating in the ovaries of the woman next to you .
+8:03 P.M., Tuesday in early January, [SKRUG](https://vkblog.github.io/2010/11/18/skrug/).  Latin music is blasting and 25 women are making various aerobics-like movements so close to each other you can almost hear the eggs sweating in the ovaries of the woman next to you .
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/zumba.jpg"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/zumba2.jpg"><img class="aligncenter size-full wp-image-4170" title="zumba2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/zumba2.jpg" alt="" width="406" height="305" /></a><em>Not my class but close enough. </em>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/01/zumba.jpg"></a><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/01/zumba2.jpg"><img class="aligncenter size-full wp-image-4170" title="zumba2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/01/zumba2.jpg" alt="" width="406" height="305" /></a><em>Not my class but close enough. </em>
 </p>
 
 _Why are all these people here? New Year&#8217;s resolutions? It&#8217;s ok.  They&#8217;re going to weed out in three weeks faster than my college chemistry class after our first exam._ 
@@ -29,7 +29,7 @@ _ _Oh, right, I took it FOR FUN.
   
 _ _what&#8217;s wrong with me?_
 
-_That gaggle of Russian girls my age standing to the left of me all look like [Zvonareva](http://en.wikipedia.org/wiki/Vera_Zvonareva). Also like they just got back from doing lines at a club. A club where it&#8217;s still ok to smoke inside.  And they&#8217;re looking at me like I look like [Safina](http://en.wikipedia.org/wiki/Dinara_Safina). Which, actually, I [kind of do](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg). Or possibly [Vinny-Puh](http://grainedit.com/2008/07/10/vinni-puh-video-the-russian-winnie-the-pooh/), who I more resemble at the moment, which is the reason I&#8217;m at this class to begin with._ 
+_That gaggle of Russian girls my age standing to the left of me all look like [Zvonareva](http://en.wikipedia.org/wiki/Vera_Zvonareva). Also like they just got back from doing lines at a club. A club where it&#8217;s still ok to smoke inside.  And they&#8217;re looking at me like I look like [Safina](http://en.wikipedia.org/wiki/Dinara_Safina). Which, actually, I [kind of do](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/11/Photo-on-2010-11-19-at-06.28-2.jpg). Or possibly [Vinny-Puh](http://grainedit.com/2008/07/10/vinni-puh-video-the-russian-winnie-the-pooh/), who I more resemble at the moment, which is the reason I&#8217;m at this class to begin with._ 
 
  __Shuffle left, shuffle right, punch the air, turn around.
 

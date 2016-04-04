@@ -4,7 +4,7 @@ title: Friday Comic and Friday Links!
 date: 2009-10-29T21:12:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1592
+guid: https://vkblog.github.io/?p=1592
 permalink: /2009/10/friday-comic-and-links/
 categories:
   - fridaylinks
@@ -15,13 +15,13 @@ tags:
 ---
 It&#8217;s [baby fever time in the family](http://www.mouthyhousewives.com/kelcey/the-baby-pressure-is-on/)!
 
-[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg)
+[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/Page_112.jpg)
 
 Links:
 
   1. Pictures of the [It&#8217;s [baby fever time in the family](http://www.mouthyhousewives.com/kelcey/the-baby-pressure-is-on/)!
 
-[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_112.jpg)
+[<img class="aligncenter size-full wp-image-1594" title="Page_1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/Page_112.jpg" alt="Page_1" width="612" height="792" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/Page_112.jpg)
 
 Links:
 

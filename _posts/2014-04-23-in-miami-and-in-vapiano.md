@@ -4,7 +4,7 @@ title: In Miami and in Vapiano
 date: 2014-04-23T08:21:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9632
+guid: https://vkblog.github.io/?p=9632
 permalink: /2014/04/in-miami-and-in-vapiano/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
   - travel
   - trips
 ---
-[<img class="aligncenter size-medium wp-image-9662" alt="south-beach-bathers-1908 (1)" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/south-beach-bathers-1908-1-580x477.jpg" width="580" height="477" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/south-beach-bathers-1908-1.jpg)
+[<img class="aligncenter size-medium wp-image-9662" alt="south-beach-bathers-1908 (1)" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/south-beach-bathers-1908-1-580x477.jpg" width="580" height="477" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/south-beach-bathers-1908-1.jpg)
 
 <h4 style="text-align: center;">
   South Beach Bathers, John French Sloan 1907
@@ -30,25 +30,25 @@ Swamplandia! by Karen Russell, is a weird jewel of a novel about a nuclear famil
 
 The seeming impossibility of a tropical paradise combined with the exuberance and proximity of South America, the salt and heat, and, of course, a <a href="http://www.miamiherald.com/2013/01/12/3179250/dave-barry-on-man-vs-snake-everglades.html" target="_blank">python-killing contest</a>, makes for a unique atmosphere unlike anywhere else in the U.S.  It&#8217;s a unique brand of chaos and laziness.   It&#8217;s Florida:
 
-[<img class="aligncenter size-medium wp-image-9659" alt="Screen Shot 2014-04-13 at 4.13.15 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM-580x256.png" width="580" height="256" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM.png)
+[<img class="aligncenter size-medium wp-image-9659" alt="Screen Shot 2014-04-13 at 4.13.15 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM-580x256.png" width="580" height="256" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-13-at-4.13.15-PM.png)
 
 Mr. B and I flew down to Florida for a weekend in March, the week of Spring Break. We went with two friends to visit a third friend who had moved there recently from Philadelphia. It was actually in no way like Spring Break since all of us have full-time jobs, some of us have kids, and none of us want to do wet-t shirt contests because our Gap cotton blends are tumble-dry only.
 
 We weren&#8217;t going to shotgun beers, go to clubs where they played Pitbull, or stay out past 12. But damnit, did we need spring.
 
-Just a couple months ago, <a href="http://blog.vickiboykis.com/wlb/2014/01/the-two-types-of-cold/" target="_blank">I wrote</a>,
+Just a couple months ago, <a href="https://vkblog.github.io/2014/01/the-two-types-of-cold/" target="_blank">I wrote</a>,
 
 <p style="padding-left: 30px;">
   It’s cold enough to heat up the car for fifteen minutes before you go anywhere. It’s cold enough for soup every week, almost every day, for scarves and for the wind to bite your lungs as you walk outside. It’s cold enough to be sick every week, which I am, and it’s cold enough for my thighs to tingle through three pairs of pants on the walk to the train.  It’s cold as hell. It’s cold and miserable,  and the world seems large, dark, and unforgiving outside of our small house.
 </p>
 
-Going back through my archives, I realize that I&#8217;ve bitched about winter <a href="http://blog.vickiboykis.com/wlb/2011/02/weather-update-winter-still-wintering-being-bleak/" target="_blank">almost</a> <a href="http://blog.vickiboykis.com/wlb/2010/12/the-winter-solstice-is-over/" target="_blank">every </a>year, which makes me believe I need to either move to Florida or stop blogging from September to March for the sake of humanity.
+Going back through my archives, I realize that I&#8217;ve bitched about winter <a href="https://vkblog.github.io/2011/02/weather-update-winter-still-wintering-being-bleak/" target="_blank">almost</a> <a href="https://vkblog.github.io/2010/12/the-winter-solstice-is-over/" target="_blank">every </a>year, which makes me believe I need to either move to Florida or stop blogging from September to March for the sake of humanity.
 
 But, the plane emerged from the clouds and into Florida air space into blobs of green, brilliant and sparkling, oceans and pools of water lapping in marshy, lazy bays, life, pulsing on its very vein! Here it was! Warm Valhalla!
 
 &#8220;That&#8217;ll be $6 if you want the in-flight snack,&#8221; the stewardess said.
 
-<img class="aligncenter" alt="Screen Shot 2014-04-05 at 4.05.30 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-05-at-4.05.30-PM-580x967.png" width="580" height="967" />
+<img class="aligncenter" alt="Screen Shot 2014-04-05 at 4.05.30 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-05-at-4.05.30-PM-580x967.png" width="580" height="967" />
 
 We landed in West Palm Beach, about an hour from Miami and rented a car. It was so warm that we opened the windows.  We turned on the club mixes. You can turn on the song below and feel like you&#8217;re in Florida, too.
 
@@ -60,7 +60,7 @@ Coming to Miami from the buttoned-up, rigidEast Coast in the winter is an exhale
 
 So we exhaled.  We drank coconut water out of coconuts that a guy hacked at with a huge machete.
 
-[<img class="aligncenter size-medium wp-image-9670" alt="IMG_20140308_120633805_HDR" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/IMG_20140308_120633805_HDR-580x326.jpg" width="580" height="326" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/IMG_20140308_120633805_HDR.jpg)
+[<img class="aligncenter size-medium wp-image-9670" alt="IMG_20140308_120633805_HDR" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/IMG_20140308_120633805_HDR-580x326.jpg" width="580" height="326" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/IMG_20140308_120633805_HDR.jpg)
 
 We ate paella out of shared plates.
 
@@ -68,7 +68,7 @@ We smoked cigars in Little Cuba. Some of us with the chromosomal capability to d
 
 We laughed at them and looked seaward. Some of us unfortunately continued to look like Fidel Castro in the 1940s.
 
-<span style="line-height: 1.7;"><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM.png"><img class="aligncenter size-medium wp-image-9675" alt="Screen Shot 2014-04-22 at 10.05.43 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM-580x314.png" width="580" height="314" /></a>We did all the Florida things you&#8217;re supposed to do, and while we were doing them, I was thinking about how eclectic, weird, and wonderful Florida is, and what joy it was to be able to experience it. </span>
+<span style="line-height: 1.7;"><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM.png"><img class="aligncenter size-medium wp-image-9675" alt="Screen Shot 2014-04-22 at 10.05.43 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-22-at-10.05.43-PM-580x314.png" width="580" height="314" /></a>We did all the Florida things you&#8217;re supposed to do, and while we were doing them, I was thinking about how eclectic, weird, and wonderful Florida is, and what joy it was to be able to experience it. </span>
 
 If I were a normal person, I would end the post here on a high note. But you know me.  I can&#8217;t have normal-people fun. I&#8217;m neurotic.  I&#8217;m Slavic-pessimistic, and I&#8217;m pretty sure if I&#8217;m having a good time, the world&#8217;s going to end tomorrow. So I&#8217;m going to tell you that there was one shadow in our sunshine-y vacation, and that shadow&#8217;s name is Vapiano.
 

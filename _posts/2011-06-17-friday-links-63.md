@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-06-17T08:57:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5127
+guid: https://vkblog.github.io/?p=5127
 permalink: /2011/06/friday-links-63/
 categories:
   - fridaylinks
@@ -15,7 +15,7 @@ tags:
 ---
 Hello. Are you enjoying your Friday? I&#8217;m not.
 
-[<img class="aligncenter size-full wp-image-5128" title="Screen shot 2011-06-17 at 8.39.47 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png" alt="" width="562" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png)
+[<img class="aligncenter size-full wp-image-5128" title="Screen shot 2011-06-17 at 8.39.47 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png" alt="" width="562" height="280" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-17-at-8.39.47-AM.png)
 
 **Links:**
 

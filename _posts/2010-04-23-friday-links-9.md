@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-04-23T07:18:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2816
+guid: https://vkblog.github.io/?p=2816
 permalink: /2010/04/friday-links-9/
 categories:
   - fridaylinks
@@ -15,7 +15,7 @@ tags:
 How do I know we&#8217;re close to the Pentagon? Agents have been surreptitiously checking out  our apartment all the time.  I hope this is not [Nicki](http://www.motherhoodinnyc.com/category/nicki).
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -28,7 +28,7 @@ How do I know we&#8217;re close to the Pentagon? Agents have been surreptitiousl
   4. Emily on [How do I know we&#8217;re close to the Pentagon? Agents have been surreptitiously checking out  our apartment all the time.  I hope this is not [Nicki](http://www.motherhoodinnyc.com/category/nicki).
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/04/DSC_0044.jpg"><img class="aligncenter size-full wp-image-2817" title="DSC_0044" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/04/DSC_0044.jpg" alt="" width="600" height="300" /></a>
 </p>
 
 <p style="text-align: left;">

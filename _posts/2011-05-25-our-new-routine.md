@@ -4,7 +4,7 @@ title: Our New Routine
 date: 2011-05-25T10:47:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4996
+guid: https://vkblog.github.io/?p=4996
 permalink: /2011/05/our-new-routine/
 categories:
   - Uncategorized
@@ -78,6 +78,6 @@ tags:
   * Work
   * Think about how you will have to go to IKEA today again after work.
   * Contemplate homicide.
-  * Read your [to-do list](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/judgementday.jpg)
+  * Read your [to-do list](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/05/judgementday.jpg)
   * It is not getting any smaller.
   * Cry quietly.

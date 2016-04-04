@@ -4,7 +4,7 @@ title: The laME generation
 date: 2013-05-13T07:49:15+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8707
+guid: https://vkblog.github.io/?p=8707
 permalink: /2013/05/the-lame-generation/
 categories:
   - geny
@@ -18,7 +18,7 @@ tags:
   - Time
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/PAYWALL.png"><img class="aligncenter  wp-image-8708" alt="PAYWALL" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/PAYWALL-580x770.png" width="464" height="616" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/05/PAYWALL.png"><img class="aligncenter  wp-image-8708" alt="PAYWALL" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/05/PAYWALL-580x770.png" width="464" height="616" /></a>
 </p>
 
 <p style="text-align: center;">

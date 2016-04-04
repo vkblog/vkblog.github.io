@@ -4,7 +4,7 @@ title: Wearing engagement rings to interviews
 date: 2011-08-23T07:29:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5633
+guid: https://vkblog.github.io/?p=5633
 permalink: /2011/08/wearing-engagement-rings-to-interviews/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
 
 To which I said,
 
-[<img class="aligncenter size-full wp-image-5654" title="Screen shot 2011-08-23 at 7.20.50 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-23-at-7.20.50-AM.png" alt="" width="428" height="104" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-23-at-7.20.50-AM.png)
+[<img class="aligncenter size-full wp-image-5654" title="Screen shot 2011-08-23 at 7.20.50 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Screen-shot-2011-08-23-at-7.20.50-AM.png" alt="" width="428" height="104" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Screen-shot-2011-08-23-at-7.20.50-AM.png)
 
 And trust me, I&#8217;ve interviewed A LOT over the past year.
 
@@ -29,7 +29,7 @@ But is this really a problem?  Honestly? Or just another way to give women anxi
 
 But then I found <a href="http://thegloss.com/career/huffpo-wonders-whether-women-should-wear-engagement-rings-to-job-interviews/" target="_blank">this comment</a>:
 
-[<img class="aligncenter size-full wp-image-5655" title="Screen shot 2011-08-23 at 7.26.34 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-23-at-7.26.34-AM.png" alt="" width="681" height="159" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-23-at-7.26.34-AM.png)
+[<img class="aligncenter size-full wp-image-5655" title="Screen shot 2011-08-23 at 7.26.34 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Screen-shot-2011-08-23-at-7.26.34-AM.png" alt="" width="681" height="159" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Screen-shot-2011-08-23-at-7.26.34-AM.png)
 
 and it made me wonder. Do men really look at women this way sometimes? Do women look at women this way sometimes?
 

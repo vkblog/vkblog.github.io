@@ -4,7 +4,7 @@ title: OH MY GOD MY SCOTLAND EBOOK IS OUT
 date: 2012-04-16T06:25:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6632
+guid: https://vkblog.github.io/?p=6632
 permalink: /2012/04/oh-my-god-my-scotland-ebook-is-out/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg"><img class="aligncenter  wp-image-6698" title="f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg" alt="" width="384" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg"><img class="aligncenter  wp-image-6698" title="f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/f0f21154644f6090cc29a4d2602a4f08304c3ccd_wmeg.jpg" alt="" width="384" height="512" /></a>
 </p>
 
 <p style="text-align: left;">

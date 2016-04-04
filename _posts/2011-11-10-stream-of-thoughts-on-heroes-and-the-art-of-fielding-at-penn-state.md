@@ -4,7 +4,7 @@ title: Stream of thoughts on heroes and the Art of Fielding at Penn State
 date: 2011-11-10T13:24:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5905
+guid: https://vkblog.github.io/?p=5905
 permalink: /2011/11/stream-of-thoughts-on-heroes-and-the-art-of-fielding-at-penn-state/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   - undergrad
 ---
 <div>
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/n9301935_41502245_8489.jpg"><img class="aligncenter size-full wp-image-5906" title="n9301935_41502245_8489" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/n9301935_41502245_8489.jpg" alt="" width="360" height="270" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/11/n9301935_41502245_8489.jpg"><img class="aligncenter size-full wp-image-5906" title="n9301935_41502245_8489" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/11/n9301935_41502245_8489.jpg" alt="" width="360" height="270" /></a>
 </div>
 
 <div>

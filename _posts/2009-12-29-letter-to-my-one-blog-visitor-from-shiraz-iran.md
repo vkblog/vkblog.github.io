@@ -4,7 +4,7 @@ title: Letter to my one blog visitor from Shiraz, Iran
 date: 2009-12-29T13:28:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2000
+guid: https://vkblog.github.io/?p=2000
 permalink: /2009/12/letter-to-my-one-blog-visitor-from-shiraz-iran/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/shiraz-analytics.bmp"><img class="aligncenter size-full wp-image-2001" title="shiraz analytics" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/shiraz-analytics.bmp" alt="shiraz analytics" width="574" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/shiraz-analytics.bmp"><img class="aligncenter size-full wp-image-2001" title="shiraz analytics" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/shiraz-analytics.bmp" alt="shiraz analytics" width="574" height="333" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -33,7 +33,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Tashkent-Road-Sign.jpg"><img class="aligncenter size-full wp-image-2004" title="Wegweiser am SÃ¼drand von Taschkent" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Tashkent-Road-Sign.jpg" alt="Wegweiser am SÃ¼drand von Taschkent" width="372" height="512" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/Tashkent-Road-Sign.jpg"><img class="aligncenter size-full wp-image-2004" title="Wegweiser am SÃ¼drand von Taschkent" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/Tashkent-Road-Sign.jpg" alt="Wegweiser am SÃ¼drand von Taschkent" width="372" height="512" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -62,5 +62,5 @@ tags:
   </p>
   
   <p style="text-align: left;">
-    On the Blog: <a href="http://blog.vickiboykis.com/wlb/2009/03/26/the-women-of-kabul-a-lost-time/">The Women of Kabul</a>;  <a href="http://blog.vickiboykis.com/wlb/2009/03/11/the-iranian-threat-isnt/">The Iranian Threat-Isn&#8217;t</a><br /> On the Web: <a href="http://www.iranchamber.com/culture/articles/iranian_women_contemporary_memoirs.php">Iranian Women and Contemporary Memoirs</a>
+    On the Blog: <a href="https://vkblog.github.io/2009/03/26/the-women-of-kabul-a-lost-time/">The Women of Kabul</a>;  <a href="https://vkblog.github.io/2009/03/11/the-iranian-threat-isnt/">The Iranian Threat-Isn&#8217;t</a><br /> On the Web: <a href="http://www.iranchamber.com/culture/articles/iranian_women_contemporary_memoirs.php">Iranian Women and Contemporary Memoirs</a>
   </p>

@@ -4,7 +4,7 @@ title: Dead Goats, Growing Babies in Pickle Jars, and Yak Polo.
 date: 2011-06-08T08:26:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5062
+guid: https://vkblog.github.io/?p=5062
 permalink: /2011/06/dead-goats-growing-babies-in-pickle-jars-and-yak-polo/
 categories:
   - Uncategorized
@@ -65,7 +65,7 @@ Soon after, we arrived at Sam&#8217;s Club, and we pretty much had sensory overl
 Look at this jar of pickles we bought:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0847.jpg"><img class="aligncenter size-full wp-image-5064" title="wpid-IMAG0847.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0847.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0847.jpg"><img class="aligncenter size-full wp-image-5064" title="wpid-IMAG0847.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0847.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 If we ate all the pickles in this jar, we would have enough room to fit a baby in there, [Brave New World-style](http://www.huxley.net/bnw/one.html).  Or maybe a goat.

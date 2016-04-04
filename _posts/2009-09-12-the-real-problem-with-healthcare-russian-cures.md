@@ -4,7 +4,7 @@ title: 'The real problem with healthcare: Russian cures.'
 date: 2009-09-12T21:46:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1225
+guid: https://vkblog.github.io/?p=1225
 permalink: /2009/09/the-real-problem-with-healthcare-russian-cures/
 categories:
   - Uncategorized
@@ -18,9 +18,9 @@ I am sick.
 
 As if it weren&#8217;t evident by my recent Tweets:
 
-[<img class="aligncenter size-full wp-image-1226" title="Picture 1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-1.png" alt="Picture 1" width="415" height="192" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-1.png)
+[<img class="aligncenter size-full wp-image-1226" title="Picture 1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/Picture-1.png" alt="Picture 1" width="415" height="192" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/Picture-1.png)
 
-[<img class="aligncenter size-full wp-image-1228" title="Picture 3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-3.png" alt="Picture 3" width="395" height="183" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Picture-3.png)
+[<img class="aligncenter size-full wp-image-1228" title="Picture 3" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/Picture-3.png" alt="Picture 3" width="395" height="183" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/Picture-3.png)
 
 What can I say? I suffer in silence. Like a martyr.
 
@@ -36,7 +36,7 @@ I attempted this procedure with Mr. B when he was sick in the fall, to continue 
 
 If THAT didn&#8217;t work, I&#8217;d move on to banki.  Banki (jars) is the worst.  I believe in English, banki are known as [fire cupping](http://en.wikipedia.org/wiki/Fire_cupping), which, right away makes it sound as bad as it is.  Basically, what happens is illustrated below:
 
-[<img class="aligncenter size-full wp-image-1232" title="Banki" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Banki.jpg" alt="Banki" width="522" height="390" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/Banki.jpg)
+[<img class="aligncenter size-full wp-image-1232" title="Banki" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/Banki.jpg" alt="Banki" width="522" height="390" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/Banki.jpg)
 
 Also here:
 

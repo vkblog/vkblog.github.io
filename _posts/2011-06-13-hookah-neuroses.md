@@ -4,7 +4,7 @@ title: Hookah Neuroses
 date: 2011-06-13T10:11:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5084
+guid: https://vkblog.github.io/?p=5084
 permalink: /2011/06/hookah-neuroses/
 categories:
   - Uncategorized
@@ -12,12 +12,12 @@ tags:
   - hookah
   - house
 ---
-Last night, as Mr. B was busy engaging in a <a href="http://www.hbo.com/game-of-thrones/index.html" target="_blank">nerfest of epic proportions</a>, I took some time to unwind and prepare for the week ahead by lighting my hookah that [we bought in Israel](http://blog.vickiboykis.com/wlb/2009/09/28/our-trip-to-israel-the-youtube/) for the first time in our new house.
+Last night, as Mr. B was busy engaging in a <a href="http://www.hbo.com/game-of-thrones/index.html" target="_blank">nerfest of epic proportions</a>, I took some time to unwind and prepare for the week ahead by lighting my hookah that [we bought in Israel](https://vkblog.github.io/2009/09/28/our-trip-to-israel-the-youtube/) for the first time in our new house.
 
 My rule was, no technology, no distractions, just relaxation.
 
 <div id="attachment_5087" style="width: 310px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0857.jpg"><img class="size-full wp-image-5087" title="wpid-IMAG0857.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0857.jpg" alt="" width="300" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0857.jpg"><img class="size-full wp-image-5087" title="wpid-IMAG0857.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0857.jpg" alt="" width="300" height="500" /></a>
   
   <p class="wp-caption-text">
     This is NOT illegal. Not yet.

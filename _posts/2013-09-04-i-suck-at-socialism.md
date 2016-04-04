@@ -4,7 +4,7 @@ title: I suck at socialism
 date: 2013-09-04T07:43:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9056
+guid: https://vkblog.github.io/?p=9056
 permalink: /2013/09/i-suck-at-socialism/
 categories:
   - MBA
@@ -13,13 +13,13 @@ tags:
   - mba
   - socialism
 ---
-[<img class="aligncenter size-full wp-image-9060" alt="Kennedy-Khrushchev" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Kennedy-Khrushchev.jpg" width="425" height="329" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Kennedy-Khrushchev.jpg)
+[<img class="aligncenter size-full wp-image-9060" alt="Kennedy-Khrushchev" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/09/Kennedy-Khrushchev.jpg" width="425" height="329" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/09/Kennedy-Khrushchev.jpg)
 
 One of the things they tell you to do at the beginning of every MBA is to talk to the people in your classes, because the biggest value of an MBA is in the connections you&#8217;ll make. I&#8217;m basically paying upwards of $5k a semester for in-person Facebook. Thanks, guys.
 
 It&#8217;s not a problem for other MBA students, apparently, because in my first class the professor asked how many people were extroverts.Over 80% of the class raised their hands.
 
-But the biggest problem is not that business school is a pyramid scheme. It&#8217;s that I  suck at making small talk. In <a href="http://blog.vickiboykis.com/wlb/2010/09/blogging-with-integrity-i-hate-small-talk/" target="_blank">elevators</a>. With <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">my husband.</a> With <a href="http://blog.vickiboykis.com/wlb/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">my family</a>. With anyone.  I&#8217;m terrible at responding to it. &#8220;Just think of small talk like a tennis game,&#8221; all the extroverts advise, beaming. Extroverts love people like bees love flowers. Extroverts are in books, chatting up a storm, trying to get all their five daughters married off to Mr. Bingley.  Introverts write the extroverts so they don&#8217;t have to actually deal with real people.
+But the biggest problem is not that business school is a pyramid scheme. It&#8217;s that I  suck at making small talk. In <a href="https://vkblog.github.io/2010/09/blogging-with-integrity-i-hate-small-talk/" target="_blank">elevators</a>. With <a href="https://vkblog.github.io/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">my husband.</a> With <a href="https://vkblog.github.io/2011/11/a-very-russian-family-thanksgiving-complete-with-russian-movies/" target="_blank">my family</a>. With anyone.  I&#8217;m terrible at responding to it. &#8220;Just think of small talk like a tennis game,&#8221; all the extroverts advise, beaming. Extroverts love people like bees love flowers. Extroverts are in books, chatting up a storm, trying to get all their five daughters married off to Mr. Bingley.  Introverts write the extroverts so they don&#8217;t have to actually deal with real people.
 
 <!--more-->
 

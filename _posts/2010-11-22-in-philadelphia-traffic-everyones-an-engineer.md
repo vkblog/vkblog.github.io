@@ -4,7 +4,7 @@ title: 'In Philadelphia traffic, everyone&#8217;s an engineer*'
 date: 2010-11-22T08:36:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3805
+guid: https://vkblog.github.io/?p=3805
 permalink: /2010/11/in-philadelphia-traffic-everyones-an-engineer/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - traffic
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-22-at-08.18.jpg"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0436.jpg"><img class="aligncenter size-full wp-image-3905" title="wpid-IMAG0436.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/wpid-IMAG0436.jpg" alt="" width="350" height="583" /></a><em>Welcome to Hell! We have cheesesteak! </em>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/11/Photo-on-2010-11-22-at-08.18.jpg"></a><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/11/wpid-IMAG0436.jpg"><img class="aligncenter size-full wp-image-3905" title="wpid-IMAG0436.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/11/wpid-IMAG0436.jpg" alt="" width="350" height="583" /></a><em>Welcome to Hell! We have cheesesteak! </em>
 </p>
 
 <p style="text-align: left;">
@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-22-at-08.18.jpg"><img class="aligncenter" title="Photo on 2010-11-22 at 08.18" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/11/Photo-on-2010-11-22-at-08.18.jpg" alt="" width="448" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/11/Photo-on-2010-11-22-at-08.18.jpg"><img class="aligncenter" title="Photo on 2010-11-22 at 08.18" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/11/Photo-on-2010-11-22-at-08.18.jpg" alt="" width="448" height="336" /></a>
 </p>
 
 <p style="text-align: center;">

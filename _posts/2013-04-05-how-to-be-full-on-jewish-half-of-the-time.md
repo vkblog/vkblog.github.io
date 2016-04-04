@@ -4,7 +4,7 @@ title: How to be full-on Jewish half of the time
 date: 2013-04-05T08:14:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8555
+guid: https://vkblog.github.io/?p=8555
 permalink: /2013/04/how-to-be-full-on-jewish-half-of-the-time/
 categories:
   - family
@@ -20,9 +20,9 @@ tags:
 ---
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-8556" alt="IMG_20130330_073415" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130330_073415-580x435.jpg" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/IMG_20130330_073415.jpg)
+[<img class="aligncenter size-medium wp-image-8556" alt="IMG_20130330_073415" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/04/IMG_20130330_073415-580x435.jpg" width="580" height="435" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/04/IMG_20130330_073415.jpg)
 
-Several glasses deep into a bottle of wine a couple months ago, my friend and I decided we needed <a href="http://blog.vickiboykis.com/wlb/2012/12/our-religion-is-really-just-our-parents/" target="_blank">more Jewish rituals</a> in our lives. She has a toddler and wants to make sure he is steeped in Jewish tradition, but, also being ex-Soviet, is not sure how to go about doing it.
+Several glasses deep into a bottle of wine a couple months ago, my friend and I decided we needed <a href="https://vkblog.github.io/2012/12/our-religion-is-really-just-our-parents/" target="_blank">more Jewish rituals</a> in our lives. She has a toddler and wants to make sure he is steeped in Jewish tradition, but, also being ex-Soviet, is not sure how to go about doing it.
 
 So, this past weekend, Mr. B and I hosted a Passover seder. We probably shouldn&#8217;t have, because people really only do seder the first two nights, I think.  I&#8217;m not 100% clear on seder rules. But, I had some time last Saturday and all of our friends were free, and it was marginally during the week of Passover, so, that&#8217;s when we decided to have the seder.
 
@@ -34,7 +34,7 @@ Then, I had class three out of seven nights last week and worked late the other 
 
 Somewhere in the middle of the cooking and cleaning, I decided having a meal ready to feed hungry people was more important than following kashrut, so I made bourekas, which definitely have dough, to supplement the appetizers. Then, I decided I was craving a curry, so I made <a href="http://www.food.com/recipe/thai-red-curry-with-vegetables-63209" target="_blank">red thai curry</a>, Ashkenazi traditions be damned.
 
-[<img class="aligncenter size-medium wp-image-8557" alt="Screen Shot 2013-04-03 at 7.34.41 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM-580x235.png" width="580" height="235" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM.png)
+[<img class="aligncenter size-medium wp-image-8557" alt="Screen Shot 2013-04-03 at 7.34.41 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM-580x235.png" width="580" height="235" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/04/Screen-Shot-2013-04-03-at-7.34.41-AM.png)
 
 &nbsp;
 

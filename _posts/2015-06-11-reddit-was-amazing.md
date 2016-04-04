@@ -5,7 +5,7 @@ date: 2015-06-11T11:56:37+00:00
 author: Vicki
 excerpt: 'The old internet,whatever it was, is gone. The revolution is over. '
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9977
+guid: https://vkblog.github.io/?p=9977
 permalink: /2015/06/reddit-was-amazing/
 categories:
   - Uncategorized
@@ -16,39 +16,39 @@ Art, seen as a way to communicate  and gain favor with the population, which wa
 
 Art in the czars&#8217; time looked like this: traditional themes of portraits or the Russian landscape, nationalist in nature, harmless. <a href="http://mighty-whity.blogspot.com/2009/08/russian-treasury-of-art-ivan-shishkin.html" target="_blank">Shishkin</a> was particularly good at this.
 
-[<img class="aligncenter size-medium wp-image-9979" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/800px-Utro_v_sosnovom_lesu-580x393.jpg" alt="800px-Utro_v_sosnovom_lesu" width="580" height="393" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/800px-Utro_v_sosnovom_lesu.jpg)
+[<img class="aligncenter size-medium wp-image-9979" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/800px-Utro_v_sosnovom_lesu-580x393.jpg" alt="800px-Utro_v_sosnovom_lesu" width="580" height="393" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/800px-Utro_v_sosnovom_lesu.jpg)
 
-[<img class="aligncenter wp-image-9981 size-medium" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Catherine_II_by_I.Argunov_1762_Russian_museum-580x808.jpg" alt="Catherine_II_by_I.Argunov_(1762,_Russian_museum)" width="580" height="808" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Catherine_II_by_I.Argunov_1762_Russian_museum.jpg)
+[<img class="aligncenter wp-image-9981 size-medium" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Catherine_II_by_I.Argunov_1762_Russian_museum-580x808.jpg" alt="Catherine_II_by_I.Argunov_(1762,_Russian_museum)" width="580" height="808" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Catherine_II_by_I.Argunov_1762_Russian_museum.jpg)
 
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-9985" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/640px-Ilja_Jefimowitsch_Repin_0091-580x343.jpg" alt="640px-Ilja_Jefimowitsch_Repin_009" width="580" height="343" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/640px-Ilja_Jefimowitsch_Repin_0091.jpg)
+[<img class="aligncenter size-medium wp-image-9985" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/640px-Ilja_Jefimowitsch_Repin_0091-580x343.jpg" alt="640px-Ilja_Jefimowitsch_Repin_009" width="580" height="343" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/640px-Ilja_Jefimowitsch_Repin_0091.jpg)
 
 Now, artists were free to roam the entire breadth of their imaginations, and came up with <a href="https://myweb.rollins.edu/aboguslawski/Ruspaint/maleharv.html" target="_blank">things like this: </a>
 
-[<img class="aligncenter size-medium wp-image-9980" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Taking_in_the_Rye_Kazimir_Malevich_1911-580x554.jpeg" alt="Taking_in_the_Rye_Kazimir_Malevich_1911" width="580" height="554" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Taking_in_the_Rye_Kazimir_Malevich_1911.jpeg)
+[<img class="aligncenter size-medium wp-image-9980" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Taking_in_the_Rye_Kazimir_Malevich_1911-580x554.jpeg" alt="Taking_in_the_Rye_Kazimir_Malevich_1911" width="580" height="554" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Taking_in_the_Rye_Kazimir_Malevich_1911.jpeg)
 
 <div id="attachment_9982" style="width: 590px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Bathing_of_a_Red_Horse_Petrov-Vodkin.jpg"><img class="size-medium wp-image-9982" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Bathing_of_a_Red_Horse_Petrov-Vodkin-580x510.jpg" alt="Цифровая репродукция находится в интернет-музее Gallerix.ru" width="580" height="510" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Bathing_of_a_Red_Horse_Petrov-Vodkin.jpg"><img class="size-medium wp-image-9982" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Bathing_of_a_Red_Horse_Petrov-Vodkin-580x510.jpg" alt="Цифровая репродукция находится в интернет-музее Gallerix.ru" width="580" height="510" /></a>
   
   <p class="wp-caption-text">
     Цифровая репродукция находится в интернет-музее Gallerix.ru
   </p>
 </div>
 
-[<img class="aligncenter size-full wp-image-9983" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Proun_Vrashchenia_by_El_Lissitzky_ca._1919.jpg" alt="'Proun_Vrashchenia'_by_El_Lissitzky,_ca._1919" width="437" height="640" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/Proun_Vrashchenia_by_El_Lissitzky_ca._1919.jpg)
+[<img class="aligncenter size-full wp-image-9983" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Proun_Vrashchenia_by_El_Lissitzky_ca._1919.jpg" alt="'Proun_Vrashchenia'_by_El_Lissitzky,_ca._1919" width="437" height="640" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/Proun_Vrashchenia_by_El_Lissitzky_ca._1919.jpg)
 
 For a brief moment from 1917-1922, everyone was free to experiment with what socialism meant to them. Then, Proletkult started becoming too independent for the liking of the Soviet government, and it was disbanded. Art was cracked down on.Only state-sanctioned Soviet realist paintings that, according to the Party&#8217;s own objectives, lifted communism, were allowed. All Soviet artwork started looking like this:
 
-[<img class="aligncenter  wp-image-9986" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/leninpainting.bmp" alt="leninpainting" width="516" height="686" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/leninpainting.bmp)
+[<img class="aligncenter  wp-image-9986" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/leninpainting.bmp" alt="leninpainting" width="516" height="686" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/leninpainting.bmp)
 
-[<img class="aligncenter size-medium wp-image-9988" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/lenin-village1-580x382.jpg" alt="lenin-village" width="580" height="382" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/06/lenin-village1.jpg)
+[<img class="aligncenter size-medium wp-image-9988" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/lenin-village1-580x382.jpg" alt="lenin-village" width="580" height="382" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/06/lenin-village1.jpg)
 
 The socialist realism movement squashed any real creativity until after Stalin&#8217;s death, and even beyond, to the point where Russian artists are still hemmed in by the constraints of realism on the nation&#8217;s psyche.
 
 In the beginning, all new movements are free and unfettered, allowing for the mind to wade in the shallows of possibilities and play. <span style="line-height: 1.5;">Adam and Eve started out naked. Malevich and the other Proletkult members painted what they wanted.  </span>And when the internet as we know it began in the early 1990s, there were no rules, only possibilities. That&#8217;s why <a href="http://kernelmag.dailydot.com/issue-titles/12283/history-of-the-internet/" target="_blank">the early internet</a> <a href="http://gizmodo.com/9-reasons-to-be-nostalgic-about-the-early-internet-1659312938" target="_blank">was so much fun</a>.
 
-You could upload anything to YouTube. There was no Vevo, no copyright restrictions. You could talk to anyone on AOL chatrooms and maybe even meet them in person without being worried about who they were. Napster. Limewire. The crazy ugliness that was <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12216/death-life-great-american-geocities/" target="_blank">Geocities</a> (where I first learned to write HTML.) Early Twitter, where there were no discovery tools, where you had to fend for yourself, where I met dozens of people I have now met in real life. Blogger, <a href="http://blog.vickiboykis.com/wlb/2014/01/the-snarling-crowd-in-the-shadows-watching-us/" target="_blank">before blogging was monetized</a> and pictures of glossy, skinny women in jeans sponsored by advertisers.  <a href="http://www.techradar.com/us/news/internet/web/whatever-happened-to-digg-1093422" target="_blank">Digg.</a>
+You could upload anything to YouTube. There was no Vevo, no copyright restrictions. You could talk to anyone on AOL chatrooms and maybe even meet them in person without being worried about who they were. Napster. Limewire. The crazy ugliness that was <a href="http://kernelmag.dailydot.com/issue-sections/features-issue-sections/12216/death-life-great-american-geocities/" target="_blank">Geocities</a> (where I first learned to write HTML.) Early Twitter, where there were no discovery tools, where you had to fend for yourself, where I met dozens of people I have now met in real life. Blogger, <a href="https://vkblog.github.io/2014/01/the-snarling-crowd-in-the-shadows-watching-us/" target="_blank">before blogging was monetized</a> and pictures of glossy, skinny women in jeans sponsored by advertisers.  <a href="http://www.techradar.com/us/news/internet/web/whatever-happened-to-digg-1093422" target="_blank">Digg.</a>
 
 And then reddit came onto the scene. I was a relative late-comer to reddit, starting to read seriously only in 2011 or so.  I found out about it through Mr. B,who probably found out about it through <a href="http://slashdot.org/" target="_blank">Slashdot</a>, another early pioneer in tech news, now also floundering.  But once I really got into it, I was hooked.
 
@@ -56,7 +56,7 @@ Its mostly text-only format, no-nonsense posts, puns and humor abounding in the 
 
 Because no real names are required, people are free to share all kinds of information. I&#8217;ve learned about everything from other women&#8217;s <a href="http://www.reddit.com/r/babybumps" target="_blank">experiences with pregnancy</a>, to the <a href="http://www.reddit.com/r/talesfromtechsupport/" target="_blank">worst IT environments</a> to work in, <a href="http://www.reddit.com/r/books/" target="_blank">to the best books,</a> to what <a href="http://www.reddit.com/r/ANormalDayInRussia/" target="_blank">a normal day in Russia </a>is like, to what <a href="http://www.reddit.com/r/OldSchoolCool/" target="_blank">people looked like in 1914</a>, to <a href="http://www.reddit.com/r/personalfinance" target="_blank">how to manage my finances</a>, to <a href="http://www.reddit.com/r/philadelphia/" target="_blank">what&#8217;s going on in my city</a>, to <a href="http://www.reddit.com/r/linguistics/" target="_blank">why certain languages work the way they do</a>, to <a href="http://www.reddit.com/r/history/" target="_blank">reading actual professors write about history</a>.
 
-There are no &#8220;<a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/" target="_blank">You won&#8217;t believe what this guy did next</a>&#8221; ads, no slideshows, no SEO keywords, no &#8220;SHARE THIS ON FACEBOOK&#8221;, no b.s.
+There are no &#8220;<a href="https://vkblog.github.io/2012/12/how-to-watch-internet-news/" target="_blank">You won&#8217;t believe what this guy did next</a>&#8221; ads, no slideshows, no SEO keywords, no &#8220;SHARE THIS ON FACEBOOK&#8221;, no b.s.
 
 Reddit is amazing and one of my favorite places to be on the internet.
 
@@ -68,7 +68,7 @@ Only, every time the Reddit leadership tries to clean reddit up, it messes up, e
 
 This is not the Soviet Union, and reddit is not Proletkult.
 
-But over the past 15 years, we have been progressively moving to a model of consolidation and of squashing <a href="http://blog.vickiboykis.com/wlb/2011/11/the-internets-has-changed-how-we-think-about-people/" target="_blank">of creativity on the internet </a>driven by an intense need to monetize and sanitize everything, to control what is essentially, in some cases, uncontrollable, or requires an extra level of finesse.
+But over the past 15 years, we have been progressively moving to a model of consolidation and of squashing <a href="https://vkblog.github.io/2011/11/the-internets-has-changed-how-we-think-about-people/" target="_blank">of creativity on the internet </a>driven by an intense need to monetize and sanitize everything, to control what is essentially, in some cases, uncontrollable, or requires an extra level of finesse.
 
 And I am extremely concerned, especially with this latest at Reddit,  that we are moving to an internet version of socialist realism: the Buzzfeed model. Easy to implement, easy to get pageclicks, easy to get people to engage, friendly, sanitary, clean, safe.
 

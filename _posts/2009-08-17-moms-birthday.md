@@ -4,7 +4,7 @@ title: 'Mom&#8217;s birthday'
 date: 2009-08-17T21:38:19+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1076
+guid: https://vkblog.github.io/?p=1076
 permalink: /2009/08/moms-birthday/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
 It&#8217;s my mom&#8217;s birthday.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/DSC02198.JPG"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/DSC02023.JPG"><img class="aligncenter size-full wp-image-1079" title="DSC02023" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/DSC02023.JPG" alt="DSC02023" width="371" height="621" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/DSC02198.JPG"></a><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/DSC02023.JPG"><img class="aligncenter size-full wp-image-1079" title="DSC02023" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/DSC02023.JPG" alt="DSC02023" width="371" height="621" /></a>
 </p>
 
 <p style="text-align: left;">

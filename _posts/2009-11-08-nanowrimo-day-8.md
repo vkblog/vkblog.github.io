@@ -4,14 +4,14 @@ title: 'NaNoWriMo: Day 8'
 date: 2009-11-08T21:40:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1649
+guid: https://vkblog.github.io/?p=1649
 permalink: /2009/11/nanowrimo-day-8/
 categories:
   - Uncategorized
 tags:
   - NaNoWriMo
 ---
-[<img class="aligncenter size-full wp-image-1600" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-1600" title="Page_1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/Page_1.jpg" alt="Page_1" width="500" height="100" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/Page_1.jpg)
 
 **Total word count to date:**17121 and it&#8217;s starting to get harder and harder to write.
 

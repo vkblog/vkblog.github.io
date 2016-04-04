@@ -5,7 +5,7 @@ date: 2014-03-05T12:59:32+00:00
 author: Vicki
 excerpt: 'Should writers hold a day job? '
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9563
+guid: https://vkblog.github.io/?p=9563
 permalink: /2014/03/the-crapshoot-of-writing-for-money/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - nyc
   - writing
 ---
-[<img class="aligncenter size-medium wp-image-9565" alt="winter-twilight.jpg!Large" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/winter-twilight.jpgLarge-580x450.jpg" width="580" height="450" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/02/winter-twilight.jpgLarge.jpg)
+[<img class="aligncenter size-medium wp-image-9565" alt="winter-twilight.jpg!Large" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/02/winter-twilight.jpgLarge-580x450.jpg" width="580" height="450" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/02/winter-twilight.jpgLarge.jpg)
 
 I read recently that Karen Russell, who wrote one of my favorite short stories, <a href="http://www.amazon.com/Lucys-Raised-Wolves-Vintage-Contemporaries/dp/0307276678" target="_blank">St. Lucy&#8217;s Home for Girls Raised by Wolves</a>, won a MacArthur Genius Grant, which guarantees the recipient $625,000 over five years, interest and tax-free, to pursue whatever it is the author was doing that resulted in the Genius Grant award in the first place.  That&#8217;s $125k a year.
 
@@ -65,7 +65,7 @@ Writing is an art. Writing for pay is a crapshoot. And any writer worth their sa
 
 You have days of caffeine-fueled highs, where every word is a jewel, and you have days where you can&#8217;t write worth shit and you&#8217;re fat and other writers with book deals are drinking cafe in Paris wearing Burberry and you&#8217;re at home in your sweatshirt with a hole in the armpit, staring comatose out the window, because your mind-palace feels empty.
 
-At the end of three weeks of crying jags, you might have a piece ready. You might not. You might have moved in your chapter. The chapter might be in the trashcan. You might have <a href="http://blog.vickiboykis.com/wlb/2014/01/how-ive-been-avoiding-writing-i-got-a-typewriter/" target="_blank">purchased a typewriter</a> out of desperation. Every writer, even the very best ones, go through this.  The unfairness of the world is that it likes results. People who deal in might-nots don&#8217;t get paid for their effort.
+At the end of three weeks of crying jags, you might have a piece ready. You might not. You might have moved in your chapter. The chapter might be in the trashcan. You might have <a href="https://vkblog.github.io/2014/01/how-ive-been-avoiding-writing-i-got-a-typewriter/" target="_blank">purchased a typewriter</a> out of desperation. Every writer, even the very best ones, go through this.  The unfairness of the world is that it likes results. People who deal in might-nots don&#8217;t get paid for their effort.
 
 Writers are insecure and vain and crazy when left to their own devices, without the real world to be tethered to which is why I would never let writer-me provide for myself. Writer-me made $335.26 last year.
 
@@ -81,11 +81,11 @@ It is true that I love what I do.  I was lucky enough to get into tech when it 
 
 If you are a writer with a day job, it&#8217;s true that the job pays you, but you pay the job with your time and your attention, and, for waiters and baristas, with your physical energy, and this is what Writers with a capital W don&#8217;t like doing.
 
-Virigina Woolf said a woman needs a place of her own to work without distractions, which include money. But not every person has a rich, mysterious (and handsome, of course) benefactor waiting to swoop in.  So, I work so I can pay myself to be undistracted with bills at <a href="http://blog.vickiboykis.com/wlb/2013/02/writing-with-others/" target="_blank">6 a.m. on a Wednesday before work</a>, or at 7 PM on a train headed to New York. I get paid, and I pay in return with my time.  I have to be my own MacArthur Foundation, because the alternative is just too bleak.
+Virigina Woolf said a woman needs a place of her own to work without distractions, which include money. But not every person has a rich, mysterious (and handsome, of course) benefactor waiting to swoop in.  So, I work so I can pay myself to be undistracted with bills at <a href="https://vkblog.github.io/2013/02/writing-with-others/" target="_blank">6 a.m. on a Wednesday before work</a>, or at 7 PM on a train headed to New York. I get paid, and I pay in return with my time.  I have to be my own MacArthur Foundation, because the alternative is just too bleak.
 
 I am not alone. Anthony Trollope wrote two hours every day for twenty years before going to his job at the post office. Kurt Vonnegut worked at IBM. <a href="http://www.laphamsquarterly.org/visual/charts-graphs/day-jobs.php" target="_blank">Faulkner, a postmaster</a>.
 
-[<img class="aligncenter size-medium wp-image-9580" alt="DayJobs-thumb-612x964-1205" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/DayJobs-thumb-612x964-1205-580x913.png" width="580" height="913" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/DayJobs-thumb-612x964-1205.png)
+[<img class="aligncenter size-medium wp-image-9580" alt="DayJobs-thumb-612x964-1205" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/03/DayJobs-thumb-612x964-1205-580x913.png" width="580" height="913" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/03/DayJobs-thumb-612x964-1205.png)
 
 What about women, with children? Tina Fey, cranking out <a href="http://en.wikipedia.org/wiki/Bossypants" target="_blank">Bossypants</a> while  she was in the middle of a career and child-wrangling.
 

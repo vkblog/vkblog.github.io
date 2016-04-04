@@ -4,7 +4,7 @@ title: The recession is over
 date: 2012-06-11T07:40:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6955
+guid: https://vkblog.github.io/?p=6955
 permalink: /2012/06/the-recession-is-over/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
 ---
 Put down your Economists and Forbes magazines. They&#8217;re lying to you.  I&#8217;m here to tell you that the recession is over.
 
-[<img class="aligncenter size-full wp-image-6961" title="20120609_cna400" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/20120609_cna400.jpg" alt="" width="400" height="526" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/20120609_cna400.jpg)
+[<img class="aligncenter size-full wp-image-6961" title="20120609_cna400" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/06/20120609_cna400.jpg" alt="" width="400" height="526" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/06/20120609_cna400.jpg)
 
 How do I know? The movie trailers for upcoming films in the next couple months are getting better and better.
 

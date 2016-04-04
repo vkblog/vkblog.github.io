@@ -4,16 +4,16 @@ title: The tragedy of the human brain
 date: 2012-11-20T08:03:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7857
+guid: https://vkblog.github.io/?p=7857
 permalink: /2012/11/the-tragedy-of-the-human-brain/
 categories:
   - Uncategorized
 ---
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7869" title="9921_994206679774_3494823_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/9921_994206679774_3494823_n.jpg" alt="" width="604" height="453" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/9921_994206679774_3494823_n.jpg)
+[<img class="aligncenter size-full wp-image-7869" title="9921_994206679774_3494823_n" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/9921_994206679774_3494823_n.jpg" alt="" width="604" height="453" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/9921_994206679774_3494823_n.jpg)
 
-On Sunday morning, I turned on [Galei Tzahal,](http://tunein.com/radio/Galei-Zahal-1023-s24906/) as I&#8217;ve been doing <a href="http://blog.vickiboykis.com/wlb/2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/" target="_blank">every morning for the past week</a>, and lay in bed, listening to the news in Hebrew with my eyes closed and a hand over my face.  The news lately has been followed by <a href="http://www.balladtree.com/articles/010924a.htm" target="_blank">the kind of music</a> you usually hear in Israel during emergency situations. Every couple of minutes, the song faded out and a woman&#8217;s voice announced calmly, &#8220;Tzeva adom, b&#8217;Tel Aviv, b&#8217;Yad Mordechai, b&#8217; Ashdod,&#8221; meaning the red alert that gives you however many seconds to get to a bomb shelter was active, meaning that Hamas was firing rockets into Israel as I was listening to the radio.
+On Sunday morning, I turned on [Galei Tzahal,](http://tunein.com/radio/Galei-Zahal-1023-s24906/) as I&#8217;ve been doing <a href="https://vkblog.github.io/2011/12/this-post-is-kind-of-hipster-because-i-talk-about-old-school-radios-and-miss-them-but-i-also-love-my-ipad/" target="_blank">every morning for the past week</a>, and lay in bed, listening to the news in Hebrew with my eyes closed and a hand over my face.  The news lately has been followed by <a href="http://www.balladtree.com/articles/010924a.htm" target="_blank">the kind of music</a> you usually hear in Israel during emergency situations. Every couple of minutes, the song faded out and a woman&#8217;s voice announced calmly, &#8220;Tzeva adom, b&#8217;Tel Aviv, b&#8217;Yad Mordechai, b&#8217; Ashdod,&#8221; meaning the red alert that gives you however many seconds to get to a bomb shelter was active, meaning that Hamas was firing rockets into Israel as I was listening to the radio.
 
 <!--more-->
 
@@ -36,7 +36,7 @@ Or, look at any of the pictures real people are posting on Facebook. Pictures of
 > The bad news is that our building doesn&#8217;t have a reinforced security room or a shelter. The good news is after two years I finally met my neighbors.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/54535_535295979813731_934038876_o.jpg"><img class="aligncenter  wp-image-7870" title="54535_535295979813731_934038876_o" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/54535_535295979813731_934038876_o-768x1024.jpg" alt="" width="430" height="574" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/54535_535295979813731_934038876_o.jpg"><img class="aligncenter  wp-image-7870" title="54535_535295979813731_934038876_o" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/54535_535295979813731_934038876_o-768x1024.jpg" alt="" width="430" height="574" /></a>
 </p>
 
 No bombs blowing up. No dead babies. But this is the real tradgedy of the war. 5:30 at night, you just got home from work, and you have to figure out where to go in your building, with your dog, where it&#8217;s safe for you, and where it&#8217;s safe for him.  Then the rocket alarm ends, and you have to switch gears back to real life.  What if you don&#8217;t have a dog, but a baby?  I read a thread last week where a friend posted a question asking where she should go with her baby.

@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-01-28T09:14:25+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4284
+guid: https://vkblog.github.io/?p=4284
 permalink: /2011/01/friday-links-45/
 categories:
   - fridaylinks
@@ -13,7 +13,7 @@ categories:
 This is pretty much my life right now:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0577.jpg"><img class="aligncenter size-full wp-image-4285" title="wpid-IMAG0577.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/01/wpid-IMAG0577.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/01/wpid-IMAG0577.jpg"><img class="aligncenter size-full wp-image-4285" title="wpid-IMAG0577.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/01/wpid-IMAG0577.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 **Friday Links:**

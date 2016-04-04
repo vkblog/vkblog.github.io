@@ -4,7 +4,7 @@ title: 'The City that Doesn&#8217;t Sleep, but sure as hell sweats a lot'
 date: 2010-07-19T13:01:00+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3345
+guid: https://vkblog.github.io/?p=3345
 permalink: /2010/07/the-city-that-doesnt-sleep-but-sure-as-hell-sweats-a-lot/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - travel
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0211.jpg"><img class="aligncenter size-full wp-image-3346" title="DSC_0211" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0211.jpg" alt="" width="576" height="383" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0211.jpg"><img class="aligncenter size-full wp-image-3346" title="DSC_0211" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0211.jpg" alt="" width="576" height="383" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -52,7 +52,7 @@ tags:
     
     <p style="text-align: center;">
       <p style="text-align: center;">
-        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/wpid-IMAG0203.jpg"><img class="aligncenter size-full wp-image-3351" title="wpid-IMAG0203.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/wpid-IMAG0203.jpg" alt="" width="350" height="583" /></a>
+        <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/wpid-IMAG0203.jpg"><img class="aligncenter size-full wp-image-3351" title="wpid-IMAG0203.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/wpid-IMAG0203.jpg" alt="" width="350" height="583" /></a>
       </p>
       
       <p style="text-align: left;">
@@ -60,7 +60,7 @@ tags:
       </p>
       
       <p style="text-align: center;">
-        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0221.jpg"><img class="aligncenter size-full wp-image-3363" title="DSC_0221" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0221.jpg" alt="" width="480" height="319" /></a>
+        <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0221.jpg"><img class="aligncenter size-full wp-image-3363" title="DSC_0221" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0221.jpg" alt="" width="480" height="319" /></a>
       </p>
       
       <p style="text-align: left;">
@@ -68,7 +68,7 @@ tags:
       </p>
       
       <p style="text-align: center;">
-        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0218.jpg"><img class="aligncenter size-full wp-image-3364" title="DSC_0218" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0218.jpg" alt="" width="504" height="335" /></a>
+        <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0218.jpg"><img class="aligncenter size-full wp-image-3364" title="DSC_0218" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0218.jpg" alt="" width="504" height="335" /></a>
       </p>
       
       <p style="text-align: left;">
@@ -76,7 +76,7 @@ tags:
       </p>
       
       <p style="text-align: left;">
-        <span style="white-space: normal;"><img class="aligncenter size-full wp-image-3365" title="DSC_0243" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0243.jpg" alt="" width="504" height="335" /></span>
+        <span style="white-space: normal;"><img class="aligncenter size-full wp-image-3365" title="DSC_0243" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0243.jpg" alt="" width="504" height="335" /></span>
       </p>
       
       <p style="text-align: left;">
@@ -84,7 +84,7 @@ tags:
       </p>
       
       <p style="text-align: center;">
-        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0269.jpg"><img class="aligncenter size-full wp-image-3366" title="DSC_0269" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0269.jpg" alt="" width="432" height="287" /></a>
+        <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0269.jpg"><img class="aligncenter size-full wp-image-3366" title="DSC_0269" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0269.jpg" alt="" width="432" height="287" /></a>
       </p>
       
       <p style="text-align: center;">
@@ -93,7 +93,7 @@ tags:
         </p>
         
         <p style="text-align: center;">
-          <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0280.jpg"><img class="aligncenter size-full wp-image-3368" title="DSC_0280" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0280.jpg" alt="" width="560" height="372" /></a>
+          <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0280.jpg"><img class="aligncenter size-full wp-image-3368" title="DSC_0280" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0280.jpg" alt="" width="560" height="372" /></a>
         </p>
         
         <p style="text-align: left;">
@@ -105,7 +105,7 @@ tags:
         </p>
         
         <p style="text-align: left;">
-          <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0283.jpg"><img class="aligncenter size-full wp-image-3369" title="DSC_0283" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/DSC_0283.jpg" alt="" width="504" height="335" /></a>
+          <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0283.jpg"><img class="aligncenter size-full wp-image-3369" title="DSC_0283" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/DSC_0283.jpg" alt="" width="504" height="335" /></a>
         </p>
         
         <p style="text-align: left;">

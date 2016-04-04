@@ -4,7 +4,7 @@ title: Russian Medical Advice, Part Two
 date: 2011-07-18T10:16:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5312
+guid: https://vkblog.github.io/?p=5312
 permalink: /2011/07/russian-medical-advice-part-two/
 categories:
   - Uncategorized
@@ -29,11 +29,11 @@ It&#8217;s hard to predict how you&#8217;ll act in a medical emergency, and the 
 I told her the olive oil was stupid, and she washed off his hand.  &#8220;The GAUZE! Get the GAUZE!&#8221; she yelled.  And grabbed some gauze, beginning to wrap Mr. B&#8217;s hand.  My dad came running in, because the medicine cabinet (of which this is a mere sample) is his domain:
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/IMAG0893.jpg"><img class="aligncenter size-full wp-image-5314" title="IMAG0893" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/IMAG0893.jpg" alt="" width="560" height="336" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/IMAG0893.jpg"><img class="aligncenter size-full wp-image-5314" title="IMAG0893" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/IMAG0893.jpg" alt="" width="560" height="336" /></a>
 </p>
 
 <p style="text-align: left;">
-  &#8220;Out of the way everyone, I&#8217;m a medical expert,&#8221; jauntily boomed <a href="http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/" target="_blank">my dad</a>, who at this point, it being his birthday and all, was about five shots deep into a bottle of Courvosier.  Mr. B, who was doing pretty well in not producing feral screams, developed a look of fear in his eyes I have only seen <a href="http://blog.vickiboykis.com/wlb/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/" target="_blank">once</a> (but also when we thought that Arab dude in Jerusalem was going to shank us but really he was just asking for a cigarette.)
+  &#8220;Out of the way everyone, I&#8217;m a medical expert,&#8221; jauntily boomed <a href="https://vkblog.github.io/2010/03/08/a-conversation-with-my-parents-about-india/" target="_blank">my dad</a>, who at this point, it being his birthday and all, was about five shots deep into a bottle of Courvosier.  Mr. B, who was doing pretty well in not producing feral screams, developed a look of fear in his eyes I have only seen <a href="https://vkblog.github.io/2010/01/31/millions-of-babies-the-holocaust-and-gender-segregation-its-the-weekend/" target="_blank">once</a> (but also when we thought that Arab dude in Jerusalem was going to shank us but really he was just asking for a cigarette.)
 </p>
 
 <p style="text-align: left;">
@@ -49,7 +49,7 @@ I told her the olive oil was stupid, and she washed off his hand.  &#8220;The G
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/batmanreturns_penguin.jpg"><img class="aligncenter size-full wp-image-5316" title="batmanreturns_penguin" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/batmanreturns_penguin.jpg" alt="" width="432" height="274" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/batmanreturns_penguin.jpg"><img class="aligncenter size-full wp-image-5316" title="batmanreturns_penguin" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/batmanreturns_penguin.jpg" alt="" width="432" height="274" /></a>
 </p>
 
 <p style="text-align: left;">

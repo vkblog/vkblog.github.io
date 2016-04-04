@@ -4,7 +4,7 @@ title: Things I love and hate about America
 date: 2011-10-23T19:39:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5865
+guid: https://vkblog.github.io/?p=5865
 permalink: /2011/10/things-i-love-and-hate-about-america/
 categories:
   - Uncategorized
@@ -30,7 +30,7 @@ tags:
 </div>
 
 <div>
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg"><img class="aligncenter size-full wp-image-5866" title="30520493317f2b0b07395814d0ddf3f694656924_wmeg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg" alt="" width="640" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg"><img class="aligncenter size-full wp-image-5866" title="30520493317f2b0b07395814d0ddf3f694656924_wmeg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/10/30520493317f2b0b07395814d0ddf3f694656924_wmeg.jpg" alt="" width="640" height="384" /></a>
 </div>
 
 <div>
@@ -46,5 +46,5 @@ tags:
 </div>
 
 <div>
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png"><img class="aligncenter size-full wp-image-5867" title="Screen shot 2011-10-23 at 7.30.48 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png" alt="" width="447" height="309" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png"><img class="aligncenter size-full wp-image-5867" title="Screen shot 2011-10-23 at 7.30.48 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/10/Screen-shot-2011-10-23-at-7.30.48-PM.png" alt="" width="447" height="309" /></a>
 </div>

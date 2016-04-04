@@ -4,14 +4,14 @@ title: 'Parenting: Perception in the West v. elsewhere'
 date: 2009-04-14T16:31:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=250
+guid: https://vkblog.github.io/?p=250
 permalink: /2009/04/parenting-perception-in-the-west-v-elsewhere/
 categories:
   - Uncategorized
 ---
 <blockquote style="text-align: center;">
   <p>
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/kids.jpg"><img class="size-full wp-image-251 alignleft" title="kids" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/kids.jpg" alt="kids" width="541" height="282" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/kids.jpg"><img class="size-full wp-image-251 alignleft" title="kids" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/kids.jpg" alt="kids" width="541" height="282" /></a>
   </p>
 </blockquote>
 
@@ -104,7 +104,7 @@ categories:
                   
                   <blockquote style="text-align: left;">
                     <p>
-                      <a href="http://www.wjh.harvard.edu/%7Edtg/gilbert.htm"></a><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/quote.bmp"><img class="aligncenter size-full wp-image-255" title="quote" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/quote.bmp" alt="quote" /></a>
+                      <a href="http://www.wjh.harvard.edu/%7Edtg/gilbert.htm"></a><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/quote.bmp"><img class="aligncenter size-full wp-image-255" title="quote" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/quote.bmp" alt="quote" /></a>
                     </p>
                   </blockquote>
                   

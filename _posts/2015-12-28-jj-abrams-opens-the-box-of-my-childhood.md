@@ -5,7 +5,7 @@ date: 2015-12-28T21:55:46+00:00
 author: Vicki
 excerpt: 'The dismantling of the heart of Star Wars by MBAs eager to cash in on the $4 billion merchandising machine that is, at its core, a genuine human story of triumph, is a horrible thing to watch. '
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=10099
+guid: https://vkblog.github.io/?p=10099
 permalink: /2015/12/jj-abrams-opens-the-box-of-my-childhood/
 dsq_thread_id:
   - 4665396510
@@ -26,7 +26,7 @@ We had walked through that house five to six times, had mentally started putting
 
 We moved into an apartment complex located in my new school district while my parents kept saving money and kept searching.
 
-Thanks to my parents&#8217; hard work I had a fairly easy childhood, <a href="http://blog.vickiboykis.com/wlb/2014/05/upward-immigrant-toy-mobility-in-the-wild-1990s/" target="_blank">Polly Pocket aside</a>. But, I grew up deep in the heart of flyover America, the part that hadn&#8217;t been exposed to anything foreign.
+Thanks to my parents&#8217; hard work I had a fairly easy childhood, <a href="https://vkblog.github.io/2014/05/upward-immigrant-toy-mobility-in-the-wild-1990s/" target="_blank">Polly Pocket aside</a>. But, I grew up deep in the heart of flyover America, the part that hadn&#8217;t been exposed to anything foreign.
 
 Growing up with weird foods, language, and cultural references to obscure Soviet rock bands no one had ever heard of, being an immigrant kid meant living in a default state of weird, where the closest thing to <a href="https://en.wikipedia.org/wiki/Quark_%28dairy_product%29" target="_blank">tvorog</a> was cottage cheese that my mom hung in special surgery-grade cheesecloths, which dripped slowly into our kitchen sink over the course of several days before they hardened into a tvorog-like product.
 
@@ -48,7 +48,7 @@ One day, I discovered the plastic packaging of the Star Wars trilogy on VHS, six
 
 I liked the heroic portrayal of the faces on the jacket, surrounded by the vastness of open space.
 
-[<img class="aligncenter size-medium wp-image-10100" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/6155076887_36059d7953_z-580x435.jpg" alt="6155076887_36059d7953_z" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/6155076887_36059d7953_z.jpg)
+[<img class="aligncenter size-medium wp-image-10100" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/6155076887_36059d7953_z-580x435.jpg" alt="6155076887_36059d7953_z" width="580" height="435" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/6155076887_36059d7953_z.jpg)
 
 The heft of the three VHS tapes was what impressed me the most, though. The movies just seemed so substantial, definitive. They looked like it might be a good, long story.
 
@@ -98,7 +98,7 @@ I recruited my old friends to reshoot Star Wars on our home video camcorder, wit
 
 I wrote this thing, which I still have, unfortunately:
 
-[<img class="aligncenter size-medium wp-image-10101" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/IMG_20151228_194926405-580x1031.jpg" alt="IMG_20151228_194926405" width="580" height="1031" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/IMG_20151228_194926405.jpg)
+[<img class="aligncenter size-medium wp-image-10101" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/IMG_20151228_194926405-580x1031.jpg" alt="IMG_20151228_194926405" width="580" height="1031" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/IMG_20151228_194926405.jpg)
 
 At some point, I probably was single-handedly supporting George Lucas through merchandising and creating massive amounts of copyright infringement.
 
@@ -108,7 +108,7 @@ The idea of the Force out there  existing anchored me. Whenever I was having a 
 
 At night, if I felt like I was close to crying, I closed my eyes and visualized the second before a ship goes into light speed, the quiet anticipation, the pregnant pause before the adventure.
 
-[<img class="aligncenter size-medium wp-image-10102" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/hyperdrive-star-wars-science-fact-friday-580x363.jpg" alt="hyperdrive-star-wars-science-fact-friday" width="580" height="363" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/hyperdrive-star-wars-science-fact-friday.jpg)
+[<img class="aligncenter size-medium wp-image-10102" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/hyperdrive-star-wars-science-fact-friday-580x363.jpg" alt="hyperdrive-star-wars-science-fact-friday" width="580" height="363" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/hyperdrive-star-wars-science-fact-friday.jpg)
 
 The thought of the moment before a starship takes off somehow was so serious to me that I calmed down and became serious myself, and fell asleep. I still use this technique today.
 
@@ -118,7 +118,7 @@ But, like all childhood obsessions, it smoldered for a while before quietly begi
 
 The recent Disney movie _Inside Out_, about a girl, Riley, whose family moves to San Francisco, features a similar concept. Riley has an imaginary friend, Bing Bong, who she used to play with all the time when she was little. He&#8217;s part elephant and all fun.
 
-[<img class="aligncenter size-medium wp-image-10103" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576-580x326.jpg" alt="Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576" width="580" height="326" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576.jpg)
+[<img class="aligncenter size-medium wp-image-10103" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576-580x326.jpg" alt="Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576" width="580" height="326" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/Snapshot-2015-05-07-at-10_59_16-PM-183855433-1024x576.jpg)
 
 Bing Bong used to be Riley&#8217;s favorite. They went to the moon every day on a rocket ship that was really Riley&#8217;s Radio Flyer.   When we meet him, Bing Bong  is still living inside Riley&#8217;s mind, but is no longer a part of her everyday thoughts.  Eventually, Riley forgets him entirely, and he fades into they gray soft oblivion where all dying memories live, evaporating in a colored cloud of imagination.
 
@@ -128,7 +128,7 @@ But, like the banked memories in _Inside Out_, Star Wars didn&#8217;t leave enti
 
 When Star Wars comes up these days in the media, which is pretty often,  it&#8217;s in the context of these memories, of what it meant to me as I looked at my ceiling in the dark when I was twelve and wished with all my might that I was a solitary, graceful hero in an X-wing flying far, far, far away from my awkward life.
 
-[<img class="aligncenter size-medium wp-image-10104" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/1916folt3dwgnjpg-580x231.jpg" alt="1916folt3dwgnjpg" width="580" height="231" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/1916folt3dwgnjpg.jpg)
+[<img class="aligncenter size-medium wp-image-10104" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/1916folt3dwgnjpg-580x231.jpg" alt="1916folt3dwgnjpg" width="580" height="231" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/1916folt3dwgnjpg.jpg)
 
 All of this is to say, I was terrified to see _The Force Awakens._ I purposely didn&#8217;t read anything about the development of the movie, and I watched the trailer with a ginger hesitation, because J.J. Abrams was deliberately taking out every single piece of glass from that box in my mind, unwrapping it, touching it, squinting at it in the sunlight.
 
@@ -139,7 +139,7 @@ But the minute the scroll came up on the screen in those first opening minutes, 
 The big ideas are the same. A rebel pilot is captured and tortured. The new Empire is after him. The pilot is delivering a droid that has plans in its system (doesn&#8217;t anyone text or send encrypted emails in the Star Wars of the future?). The droid lands on a desert planet. There it all was, again, only now, it was in CG: Jakku as Tattooine, Maz Kanata as Yoda,  Rey as Luke Skywalker, BB-8 as R2D2, Finn as, possibly the new Han. The villain in the mask, once again. The heroes in the orange jumpsuits, with the rebel insignia. Is there anything fresh, gasp-worthy?
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing.jpg"><img class="aligncenter size-medium wp-image-10105" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing-580x290.jpg" alt="Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing" width="580" height="290" /></a><em>Luke familiar? (HAAAAAA.)</em>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing.jpg"><img class="aligncenter size-medium wp-image-10105" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/12/Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing-580x290.jpg" alt="Star-Wars-7-Poe-Dameron-Oscar-Isaac-X-Wing" width="580" height="290" /></a><em>Luke familiar? (HAAAAAA.)</em>
 </p>
 
 It&#8217;s true that, with all great stories, nothing is new. After all, Lucas didn&#8217;t take the ideas from a vacuum, but from the <a href="http://users.clas.ufl.edu/agordon/starwars.htm" target="_blank">monomyth</a>, and from Kurosawa, and Flash Gordon, and <a href="https://en.wikipedia.org/wiki/Barsoom" target="_blank">Edgar Rice Burroughs</a> before that.  But Star Wars took all of these key ideas about how human life plays out,  and combined them into something completely fresh. Great artists steal.

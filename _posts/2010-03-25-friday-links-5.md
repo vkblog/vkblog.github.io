@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-03-25T20:56:34+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2635
+guid: https://vkblog.github.io/?p=2635
 permalink: /2010/03/friday-links-5/
 categories:
   - fridaylinks
@@ -14,7 +14,7 @@ tags:
 ---
 <p style="text-align: center;">
   <div id="attachment_2640" style="width: 510px" class="wp-caption aligncenter">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/250891059_40759757f6.jpg"><img class="size-full wp-image-2640" title="250891059_40759757f6" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/03/250891059_40759757f6.jpg" alt="" width="500" height="385" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/03/250891059_40759757f6.jpg"><img class="size-full wp-image-2640" title="250891059_40759757f6" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/03/250891059_40759757f6.jpg" alt="" width="500" height="385" /></a>
     
     <p class="wp-caption-text">
       I still have dreams about my collie, Babe, so here's a picture of a collie romping in a spring field.

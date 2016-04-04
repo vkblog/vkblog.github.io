@@ -4,7 +4,7 @@ title: Friday Slacking
 date: 2010-09-17T13:42:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3594
+guid: https://vkblog.github.io/?p=3594
 permalink: /2010/09/friday-slacking/
 categories:
   - fridaylinks
@@ -16,6 +16,6 @@ Ok, ok, ok. Here&#8217;s a couple of links.  I laughed at this for [two straigh
 
 So, instead, here is a surreal picture of some mannekins near where we live.
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/09/wpid-IMAG0282.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/09/wpid-IMAG0282.jpg" alt="image" />
 
 Have an easy fast if you are fasting.

@@ -4,7 +4,7 @@ title: 'I&#8217;m not making any of this up'
 date: 2013-02-01T11:44:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8332
+guid: https://vkblog.github.io/?p=8332
 permalink: /2013/02/im-not-making-any-of-this-up/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
   - talks
   - writing
 ---
-[<img class="aligncenter size-medium wp-image-8333" alt="IMG_20130131_193648" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130131_193648-580x773.jpg" width="580" height="773" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130131_193648.jpg)
+[<img class="aligncenter size-medium wp-image-8333" alt="IMG_20130131_193648" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/IMG_20130131_193648-580x773.jpg" width="580" height="773" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/IMG_20130131_193648.jpg)
 
 &nbsp;
 

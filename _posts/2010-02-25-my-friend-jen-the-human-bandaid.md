@@ -4,7 +4,7 @@ title: My Friend Jen, the Human Bandaid
 date: 2010-02-25T00:00:08+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2408
+guid: https://vkblog.github.io/?p=2408
 permalink: /2010/02/my-friend-jen-the-human-bandaid/
 categories:
   - Uncategorized
@@ -15,13 +15,13 @@ tags:
 ---
 This is Jen.
 
-> [<img class="aligncenter size-full wp-image-2407" title="jen" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/jen.jpg" alt="" width="328" height="495" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/jen.jpg)
+> [<img class="aligncenter size-full wp-image-2407" title="jen" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/jen.jpg" alt="" width="328" height="495" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/jen.jpg)
 
 We&#8217;ve been friends  since sixth grade.  Now she&#8217;s all grown up and doing a master&#8217;s program in public health from Boston University and on internship.
 
 In Zambia.
 
-> [<img class="aligncenter size-full wp-image-2410" title="jen zambia" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/jen-zambia.jpg" alt="" width="488" height="366" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/jen-zambia.jpg)
+> [<img class="aligncenter size-full wp-image-2410" title="jen zambia" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/jen-zambia.jpg" alt="" width="488" height="366" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/jen-zambia.jpg)
 
 She has a crazy amount of testicular fortitude that I could never dig up, and an even larger amount of compassion and consideration for people that don&#8217;t even have the option of fighting over which kind of health care system they&#8217;d like their country to have, because their country  has a highly nonfunctional functional system to begin with, specifically outside of the cities.
 
@@ -63,6 +63,6 @@ On health care,
 
 I asked Jen what the best way to help is (sending money to Zambia is tricky,) and she said she&#8217;d let me know.   It&#8217;s crazy the amount of corruption and incompetency that prevents saving lives.
 
-[<img class="size-full wp-image-2415" title="zambia" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/zambia1.jpg" alt="" width="604" height="453" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/zambia1.jpg)
+[<img class="size-full wp-image-2415" title="zambia" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/zambia1.jpg" alt="" width="604" height="453" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/zambia1.jpg)
 
 Antenatal counseling under a mango tree.

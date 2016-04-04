@@ -4,7 +4,7 @@ title: Reminder! Russian Dolls Tomorrow Night @ 10:30
 date: 2011-08-10T11:37:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5532
+guid: https://vkblog.github.io/?p=5532
 permalink: /2011/08/reminder-russian-dolls-tomorrow-night-1030/
 categories:
   - Uncategorized
@@ -26,9 +26,9 @@ It&#8217;ll be fun.
 
 <a href="http://www.sheepsheadbites.com/2011/07/kagan-bashes-russian-dolls-brighton-beach-reality-show/" target="_blank">Anyone else</a> covering it?
 
-[<img class="aligncenter size-full wp-image-5539" title="6bf847fe0c13e355a505a42deeccc805" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/6bf847fe0c13e355a505a42deeccc805.gif" alt="" width="300" height="225" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/6bf847fe0c13e355a505a42deeccc805.gif)
+[<img class="aligncenter size-full wp-image-5539" title="6bf847fe0c13e355a505a42deeccc805" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/6bf847fe0c13e355a505a42deeccc805.gif" alt="" width="300" height="225" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/6bf847fe0c13e355a505a42deeccc805.gif)
 
-P.S. For some REAL insight into the Amero-Russian community, why not check out my <a href="http://blog.vickiboykis.com/wlb/tag/russian/" target="_blank">hundreds</a> of <a href="http://blog.vickiboykis.com/wlb/tag/russian-jews/" target="_blank">blog posts</a> making fun of it? Talk to me, <a href="http://blog.vickiboykis.com/wlb/2010/11/18/skrug/" target="_blank">Lifetime</a>.
+P.S. For some REAL insight into the Amero-Russian community, why not check out my <a href="https://vkblog.github.io/tag/russian/" target="_blank">hundreds</a> of <a href="https://vkblog.github.io/tag/russian-jews/" target="_blank">blog posts</a> making fun of it? Talk to me, <a href="https://vkblog.github.io/2010/11/18/skrug/" target="_blank">Lifetime</a>.
 
 &nbsp;
 

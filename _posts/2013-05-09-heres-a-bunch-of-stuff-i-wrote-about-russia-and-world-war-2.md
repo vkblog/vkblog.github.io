@@ -4,7 +4,7 @@ title: 'Here&#8217;s a bunch of stuff I wrote about Russia and World War 2'
 date: 2013-05-09T07:37:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8699
+guid: https://vkblog.github.io/?p=8699
 permalink: /2013/05/heres-a-bunch-of-stuff-i-wrote-about-russia-and-world-war-2/
 categories:
   - USSR
@@ -16,14 +16,14 @@ tags:
   - WWII
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/moscow.jpg"><img class="aligncenter  wp-image-8700" alt="moscow" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/moscow-580x444.jpg" width="464" height="355" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/05/moscow.jpg"><img class="aligncenter  wp-image-8700" alt="moscow" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/05/moscow-580x444.jpg" width="464" height="355" /></a>
 </p>
 
 <p style="text-align: center;">
   Air strike over Moscow.
 </p>
 
-On the blog: <a href="http://blog.vickiboykis.com/wlb/2009/05/may-9-the-day-we-pwned-the-germans/" target="_blank">Previous thoughts</a> on Victory Day. <a href="http://blog.vickiboykis.com/wlb/2013/02/women-in-combat-in-the-american-armed-forces/" target="_blank">Women in the armed forces</a>. WWII Movie, <a href="http://blog.vickiboykis.com/wlb/2009/12/movie-review-gift-to-stalin-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA-%D1%81%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D1%83-and-interview-with-cast/" target="_blank">Gift to Stalin</a>.  <a href="http://blog.vickiboykis.com/wlb/2012/07/its-always-independence-day-in-russia/" target="_blank">World War II movies in Russia</a>. Mr. B and I are ready for <a href="http://blog.vickiboykis.com/wlb/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">the siege of Leningrad</a>.
+On the blog: <a href="https://vkblog.github.io/2009/05/may-9-the-day-we-pwned-the-germans/" target="_blank">Previous thoughts</a> on Victory Day. <a href="https://vkblog.github.io/2013/02/women-in-combat-in-the-american-armed-forces/" target="_blank">Women in the armed forces</a>. WWII Movie, <a href="https://vkblog.github.io/2009/12/movie-review-gift-to-stalin-%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D0%BE%D0%BA-%D1%81%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D1%83-and-interview-with-cast/" target="_blank">Gift to Stalin</a>.  <a href="https://vkblog.github.io/2012/07/its-always-independence-day-in-russia/" target="_blank">World War II movies in Russia</a>. Mr. B and I are ready for <a href="https://vkblog.github.io/2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/" target="_blank">the siege of Leningrad</a>.
 
 &nbsp;
 

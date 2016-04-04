@@ -4,7 +4,7 @@ title: Women, careers, big cities, and other thoughts
 date: 2009-04-30T20:49:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=300
+guid: https://vkblog.github.io/?p=300
 permalink: /2009/04/being-a-married-career-woman-in-dc/
 categories:
   - Career
@@ -17,16 +17,16 @@ tags:
   - identity
   - professional
 ---
-[<img class="aligncenter size-full wp-image-301" title="maid" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/maid.jpg" alt="maid" width="240" height="320" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/maid.jpg)
+[<img class="aligncenter size-full wp-image-301" title="maid" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/maid.jpg" alt="maid" width="240" height="320" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/maid.jpg)
 
-I&#8217;ve been thinking a lot about women lately.  I&#8217;ve seen a couple articles floating around online about the role of women in the workplace, with children, and so on.  Penelope Trunk talks a lot about it in her blog (which you can Google because [I&#8217;m still undecided whether I want to link to her](http://blog.vickiboykis.com/wlb/?p=250)).   While I&#8217;m convinced that she&#8217;s having a mental breakdown, in the meantime, she is running a company and taking care of two children, one of which is autistic.
+I&#8217;ve been thinking a lot about women lately.  I&#8217;ve seen a couple articles floating around online about the role of women in the workplace, with children, and so on.  Penelope Trunk talks a lot about it in her blog (which you can Google because [I&#8217;m still undecided whether I want to link to her](https://vkblog.github.io/?p=250)).   While I&#8217;m convinced that she&#8217;s having a mental breakdown, in the meantime, she is running a company and taking care of two children, one of which is autistic.
 
 There are studies about [whether being married](http://www.koreatimes.co.kr/www/news/nation/2009/03/117_42179.html) makes a woman happier.  There are articles about whether women can balance [working, being a mother](http://www.brazencareerist.com/2009/04/28/truths-about-modern-motherhood-and-having-it-all), etc.  And there are whole books about [womens&#8217; psychology and how we react](http://www.amazon.com/exec/obidos/ASIN/097901736X/boingboing) to each other, why women are mean, and what we do to get ahead in our careers. What I&#8217;ve been thinking about most lately is work-life balance and how I see it reflected in my life, as well as the lives of the women I work with and interact with on a daily basis.
 
 Do women necessarily need to foresake marriage and children to have a career? That&#8217;s the ever-present question in Washington, DC, and in all big cities, where the most single women always are.   When I moved here, I didn&#8217;t realize how many women in my age group were single.  But here is the map:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/singlemap.jpg"><img class="aligncenter size-full wp-image-304" title="singlemap" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/singlemap.jpg" alt="singlemap" width="479" height="387" /></a>(from <a href="http://www.boston.com/bostonglobe/ideas/articles/2008/03/30/a_singles_map_of_the_united_states_of_america/">The Boston Globe</a>)
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/singlemap.jpg"><img class="aligncenter size-full wp-image-304" title="singlemap" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/singlemap.jpg" alt="singlemap" width="479" height="387" /></a>(from <a href="http://www.boston.com/bostonglobe/ideas/articles/2008/03/30/a_singles_map_of_the_united_states_of_america/">The Boston Globe</a>)
 </p>
 
 <p style="text-align: left;">

@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-04-30T06:08:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2854
+guid: https://vkblog.github.io/?p=2854
 permalink: /2010/04/friday-links-10/
 categories:
   - fridaylinks
@@ -16,7 +16,7 @@ tags:
 And a conversation with Ari Gold (really, my conscience).
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/Page_11.jpg"><img class="aligncenter size-full wp-image-2857" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/04/Page_11.jpg" alt="" width="490" height="634" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/04/Page_11.jpg"><img class="aligncenter size-full wp-image-2857" title="Page_1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/04/Page_11.jpg" alt="" width="490" height="634" /></a>
 </p>
 
 <p style="text-align: left;">

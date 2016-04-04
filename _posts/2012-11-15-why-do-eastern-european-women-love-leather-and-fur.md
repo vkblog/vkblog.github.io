@@ -4,7 +4,7 @@ title: Why do Eastern European women love leather and fur?
 date: 2012-11-15T07:52:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7824
+guid: https://vkblog.github.io/?p=7824
 permalink: /2012/11/why-do-eastern-european-women-love-leather-and-fur/
 categories:
   - Uncategorized
@@ -17,20 +17,20 @@ tags:
   - Russian
   - women
 ---
-While Mr. B and I were in <a href="http://blog.vickiboykis.com/wlb/2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/" target="_blank">New Orleans</a>, it was cold. Super-cold. Cold enough that we hadn&#8217;t planned for it. Isn&#8217;t the South always supposed to be perma-warm like that spot on the floor that always gets the sun?
+While Mr. B and I were in <a href="https://vkblog.github.io/2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/" target="_blank">New Orleans</a>, it was cold. Super-cold. Cold enough that we hadn&#8217;t planned for it. Isn&#8217;t the South always supposed to be perma-warm like that spot on the floor that always gets the sun?
 
 Long story short, we had to buy clothes on vacation.
 
 First things first. Oh, the irony:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121109_082918.jpg"><img class="aligncenter  wp-image-7849" title="IMG_20121109_082918" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121109_082918-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/IMG_20121109_082918.jpg"><img class="aligncenter  wp-image-7849" title="IMG_20121109_082918" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/IMG_20121109_082918-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 Then, for five seconds, this was an option:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_131947.jpg"><img class="aligncenter  wp-image-7848" title="IMG_20121027_131947" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/IMG_20121027_131947-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/IMG_20121027_131947.jpg"><img class="aligncenter  wp-image-7848" title="IMG_20121027_131947" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/IMG_20121027_131947-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -46,7 +46,7 @@ Then, for five seconds, this was an option:
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png"><img class="aligncenter size-full wp-image-7851" title="Screen shot 2012-11-15 at 7.50.12 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png" alt="" width="567" height="320" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png"><img class="aligncenter size-full wp-image-7851" title="Screen shot 2012-11-15 at 7.50.12 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/Screen-shot-2012-11-15-at-7.50.12-AM.png" alt="" width="567" height="320" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -58,5 +58,5 @@ Then, for five seconds, this was an option:
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png"><img class="aligncenter size-full wp-image-7850" title="Screen shot 2012-11-15 at 7.45.09 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png" alt="" width="412" height="140" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png"><img class="aligncenter size-full wp-image-7850" title="Screen shot 2012-11-15 at 7.45.09 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/Screen-shot-2012-11-15-at-7.45.09-AM.png" alt="" width="412" height="140" /></a>
 </p>

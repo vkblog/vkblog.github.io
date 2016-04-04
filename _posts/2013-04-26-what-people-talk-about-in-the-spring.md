@@ -4,7 +4,7 @@ title: What people talk about in the spring
 date: 2013-04-26T07:29:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8649
+guid: https://vkblog.github.io/?p=8649
 permalink: /2013/04/what-people-talk-about-in-the-spring/
 categories:
   - Russia
@@ -18,7 +18,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="aligncenter size-medium wp-image-8650" alt="roa-vlasov-officers" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/roa-vlasov-officers-580x365.jpg" width="580" height="365" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/04/roa-vlasov-officers.jpg)
+[<img class="aligncenter size-medium wp-image-8650" alt="roa-vlasov-officers" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/04/roa-vlasov-officers-580x365.jpg" width="580" height="365" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/04/roa-vlasov-officers.jpg)
 
 We were on our way to the grocery store last night.  The sun was shining through the new leaves on the trees and the sunset was a brilliant spring red. The air was warm, redolent with the scent of pollen. The promise of spring was real.
 

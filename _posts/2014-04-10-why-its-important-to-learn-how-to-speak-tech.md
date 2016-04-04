@@ -4,7 +4,7 @@ title: 'Why it&#8217;s important to learn how to speak tech'
 date: 2014-04-10T07:40:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9639
+guid: https://vkblog.github.io/?p=9639
 permalink: /2014/04/why-its-important-to-learn-how-to-speak-tech/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
   - silicon valley
   - tech
 ---
-[<img class="aligncenter size-medium wp-image-9649" alt="siliconvalleyiknowhowtomeetladiestshirt" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/siliconvalleyiknowhowtomeetladiestshirt-580x362.png" width="580" height="362" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/siliconvalleyiknowhowtomeetladiestshirt.png)
+[<img class="aligncenter size-medium wp-image-9649" alt="siliconvalleyiknowhowtomeetladiestshirt" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/siliconvalleyiknowhowtomeetladiestshirt-580x362.png" width="580" height="362" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/siliconvalleyiknowhowtomeetladiestshirt.png)
 
 For six weeks between junior and senior year of high school, I went to the <a href="http://www.ceac.pitt.edu/sites/default/files/PGSIS_FINAL_EVALUATION_REPORT_2008.pdf" target="_blank">Governor&#8217;s School for International Studies</a>, where I took an immersion class in Japanese. The first week, we learned the words for chair, teacher, and bathroom, and verbs. The second week, we weren&#8217;t allowed to speak English. As much as I enjoyed learning the cadences of Japanese, what I enjoyed even more was the getting rid of the nuances that made me sound American.
 
@@ -33,7 +33,7 @@ I was insufferable in high school. (_Ed. note &#8211; only in high school?_)
 
 I love languages, but what I love more about languages than the mechanics themselves is they allow you into someone&#8217;s culture, and if you speak the right phrases, knowing a language beyond its bones is like a lock that opens a key to a different, deeper level of that person, and that culture.
 
-What&#8217;s really cool is that you don&#8217;t have to leave English at all to experience this. [<img class="aligncenter" alt="silicon-valley-hbo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/silicon-valley-hbo-580x435.jpg" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/silicon-valley-hbo.jpg)
+What&#8217;s really cool is that you don&#8217;t have to leave English at all to experience this. [<img class="aligncenter" alt="silicon-valley-hbo" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/silicon-valley-hbo-580x435.jpg" width="580" height="435" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/silicon-valley-hbo.jpg)
 
 <a href="http://en.wikipedia.org/wiki/List_of_CB_slang" target="_blank">Truck drivers</a> have different slang than doctors (just read the archives of one of the first blogs I started following 8+(!) years ago, <a href="http://theunderweardrawer.blogspot.com/" target="_blank">the Underwear Drawer</a>, when its author was still in med school), who have different slang and worldviews than <a href="http://jezebel.com/5897896/an-overwhelming-glossary-of-mommy-message-board-lingo" target="_blank">stay-at-home moms</a> . If each of these different communities could  understand that when we&#8217;re communicating with someone they&#8217;re perceiving it from their lens rather than ours, it would reduce all miscommunication by half.
 
@@ -47,7 +47,7 @@ Part of this probably has to do with the fact that he worked a stint in Palo Alt
 
 Judge nails the way startup culture, and to an extent, tech culture works today, and in doing so, shows how ridiculous it is.
 
-[<img class="aligncenter size-full wp-image-9641" alt="siliconvalley_hooli_hb" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/siliconvalley_hooli_hb.jpg" width="510" height="287" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/siliconvalley_hooli_hb.jpg)
+[<img class="aligncenter size-full wp-image-9641" alt="siliconvalley_hooli_hb" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/siliconvalley_hooli_hb.jpg" width="510" height="287" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/siliconvalley_hooli_hb.jpg)
 
 In the show, the main character, Richard, is a mild-mannered beta-geek who works at Google-like giant Hooli manned by a charming psychopath visionary (played by the same guy who was creepy Albie on Big Love.) In his spare time, he lives in a startup incubator with a couple other guys, working on a lossless compression algorithm that scans all known media to see if the music you own is out of copyright compliance.
 
@@ -57,7 +57,7 @@ Does any of that seem funny? If it does, you probably work in tech or read <a hr
 
 To me,  it&#8217;s perfect.
 
-[<img class="aligncenter size-medium wp-image-9644" alt="Screen Shot 2014-04-08 at 7.05.48 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-08-at-7.05.48-AM-580x333.png" width="580" height="333" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-08-at-7.05.48-AM.png)
+[<img class="aligncenter size-medium wp-image-9644" alt="Screen Shot 2014-04-08 at 7.05.48 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-08-at-7.05.48-AM-580x333.png" width="580" height="333" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-08-at-7.05.48-AM.png)
 
 &nbsp;
 
@@ -65,27 +65,27 @@ All the right signals, the ones that say, &#8220;Trust Mike Judge, he knows what
 
 Second, the technology is correct. When I saw the teaser trailer, I did a double-take. A guy had an HTML5 shirt. <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">HTML5</a> is an actual thing! It&#8217;s not something that the producers made up! And what&#8217;s even cooler is that HTML5 is the new hotness right now, so it&#8217;s actually relevant, as well.
 
-[<img class="aligncenter size-medium wp-image-9651" alt="Screen Shot 2014-04-10 at 6.28.32 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.28.32-AM-580x409.png" width="580" height="409" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.28.32-AM.png)
+[<img class="aligncenter size-medium wp-image-9651" alt="Screen Shot 2014-04-10 at 6.28.32 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.28.32-AM-580x409.png" width="580" height="409" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.28.32-AM.png)
 
 It shows how most of us use tech on the go: not pristinely, glamorously sitting on a counter. Usually, it&#8217;s  juggled on our laps, in thick cases, with our work badges splayed out for everyone to see.
 
-[<img class="aligncenter size-medium wp-image-9652" alt="Screen Shot 2014-04-10 at 6.31.08 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.31.08-AM-580x435.png" width="580" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.31.08-AM.png)
+[<img class="aligncenter size-medium wp-image-9652" alt="Screen Shot 2014-04-10 at 6.31.08 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.31.08-AM-580x435.png" width="580" height="435" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.31.08-AM.png)
 
 And, they write code just like the rest of us!
 
-[<img class="aligncenter size-medium wp-image-9653" alt="Screen Shot 2014-04-10 at 6.38.36 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.38.36-AM-580x314.png" width="580" height="314" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.38.36-AM.png)
+[<img class="aligncenter size-medium wp-image-9653" alt="Screen Shot 2014-04-10 at 6.38.36 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.38.36-AM-580x314.png" width="580" height="314" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.38.36-AM.png)
 
 I couldn&#8217;t get a great screenshot of this, but it&#8217;s obvious that the show put up real code editors: SublimeText and Powershell. This seems really stupid and pedantic, but to geeks, it matters, because we&#8217;ve been subjected to decades of <a href="http://moviecode.tumblr.com/" target="_blank">bad code on TV</a>. Hollywood doesn&#8217;t care about portraying code correctly because code doesn&#8217;t make for good action shots. But it should, because if you get the little details right, you&#8217;ll be the larger ones right, as well.
 
-And, the <a href="http://blog.vickiboykis.com/wlb/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">culture</a>. It&#8217;s just so right, and it can be summed up by this one picture:
+And, the <a href="https://vkblog.github.io/2011/12/new-york-times-story-idea-bingo-2011/" target="_blank">culture</a>. It&#8217;s just so right, and it can be summed up by this one picture:
 
-[<img class="aligncenter size-medium wp-image-9654" alt="Screen Shot 2014-04-10 at 6.39.33 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.39.33-AM-580x280.png" width="580" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/04/Screen-Shot-2014-04-10-at-6.39.33-AM.png)
+[<img class="aligncenter size-medium wp-image-9654" alt="Screen Shot 2014-04-10 at 6.39.33 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.39.33-AM-580x280.png" width="580" height="280" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/04/Screen-Shot-2014-04-10-at-6.39.33-AM.png)
 
 I guess what I like most is that Judge made a smart show filled with accuracy to the people like me who are pedantic about it. He&#8217;s trying to appeal to a mass audience, but he&#8217;s really speaking to people who know the industry and can vouch for it. Details matter.
 
 Compare this to supposed favorite nerd-festival Big Bang Theory, which is so popular not because it glorifies smart people, but because it&#8217;s coming from Penny&#8217;s point of view. &#8220;Look at these geeks,&#8221; Penny says to the audience, snickering, every time Sheldon or Leonard do something. The scientific facts they spout aren&#8217;t meant to educate or further the plot, but just serve to point to the fact that these nerds are talking way too much about stuff regular people couldn&#8217;t care less about.
 
-What&#8217;s really interesting to me on a personal level is that, a couple years ago, half of this show wouldn&#8217;t have made any sense. There are hundreds of billions of dollars of jobs in the tech industry. The tech industry is going to save America.  But for all its luster, it&#8217;s still incredibly hostile to newcomers, not because of any inherent bias, but because it&#8217;s still largely merit and knowledge.  There is a <a href="http://blog.vickiboykis.com/wlb/2013/07/cooking-100-stir-frys/" target="_blank">LOT OF STUFF</a> to know, and the more you know, the more regarded you are. Some people will be encouraging and teach you things, but sometimes, it seems intimidating to ask questions, especially of people who have been programming since they were fifteen. Some of these people programmed in assembly language. Some people were so hardcore that they didn&#8217;t even wait until computers came out. They were writing programs on notebook paper and running them by burning the pages.
+What&#8217;s really interesting to me on a personal level is that, a couple years ago, half of this show wouldn&#8217;t have made any sense. There are hundreds of billions of dollars of jobs in the tech industry. The tech industry is going to save America.  But for all its luster, it&#8217;s still incredibly hostile to newcomers, not because of any inherent bias, but because it&#8217;s still largely merit and knowledge.  There is a <a href="https://vkblog.github.io/2013/07/cooking-100-stir-frys/" target="_blank">LOT OF STUFF</a> to know, and the more you know, the more regarded you are. Some people will be encouraging and teach you things, but sometimes, it seems intimidating to ask questions, especially of people who have been programming since they were fifteen. Some of these people programmed in assembly language. Some people were so hardcore that they didn&#8217;t even wait until computers came out. They were writing programs on notebook paper and running them by burning the pages.
 
 But, all of a sudden, tech an economic boom and everyone and their sister wants to get into it, which is great, because it means more people making more great stuff. But, how to get into it? A couple weeks ago, I had coffee with someone who&#8217;s looking to get into analytics and was looking for advice. &#8220;What should I do to understand the tech industry,&#8221; they asked.
 

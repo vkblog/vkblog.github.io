@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-05-20T06:45:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4977
+guid: https://vkblog.github.io/?p=4977
 permalink: /2011/05/friday-links-59/
 categories:
   - fridaylinks
@@ -14,7 +14,7 @@ tags:
   - Friday
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/judgementday.jpg"><img class="aligncenter size-full wp-image-4978" title="judgementday" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/05/judgementday.jpg" alt="" width="515" height="3216" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/05/judgementday.jpg"><img class="aligncenter size-full wp-image-4978" title="judgementday" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/05/judgementday.jpg" alt="" width="515" height="3216" /></a>
 </p>
 
 <p style="text-align: left;">

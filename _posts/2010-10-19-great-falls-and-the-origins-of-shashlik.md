@@ -4,7 +4,7 @@ title: Great Falls and the Origins of Shashlik
 date: 2010-10-19T20:01:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3753
+guid: https://vkblog.github.io/?p=3753
 permalink: /2010/10/great-falls-and-the-origins-of-shashlik/
 categories:
   - Uncategorized
@@ -20,13 +20,13 @@ The leaves are starting to change and the Russian community in North America is 
 Since it was pretty warm this weekend, Mr. B and I decided to visit [Great Falls Park](http://www.nps.gov/grfa/) to leaf-watch and spend some time decompressing together after being apart for a week (which is much harder than it sounds).
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0951.jpg"><img class="aligncenter size-full wp-image-3754" title="DSC_0951" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0951.jpg" alt="" width="476" height="299" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0951.jpg"><img class="aligncenter size-full wp-image-3754" title="DSC_0951" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0951.jpg" alt="" width="476" height="299" /></a>
 </p>
 
 There are a couple of places to view the falls and all of them are extremely pretty and prime gathering places for people with extremely large cameras.  There was also, for some reason, A LOT of Asians barbecuing. Anyone know whether barbecue is inherent to the Chinese tradition? Mr. B argued that it stems from Mongolian roots; I argued that only Russians and ex-Soviets barbecue because of the whole [shashlik](http://en.wikipedia.org/wiki/Shashlik) thing. By the way-has anyone ever written a book on shashlik? I know the whole Korean BBQ thing, but I don&#8217;t think everyone there was Korean.  Ok, this tangent is making me hungry.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0974.jpg"><img class="aligncenter size-full wp-image-3755" title="DSC_0974" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0974.jpg" alt="" width="442" height="294" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0974.jpg"><img class="aligncenter size-full wp-image-3755" title="DSC_0974" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0974.jpg" alt="" width="442" height="294" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -34,14 +34,14 @@ There are a couple of places to view the falls and all of them are extremely pre
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0983.jpg"><img class="aligncenter size-full wp-image-3756" title="DSC_0983" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0983.jpg" alt="" width="487" height="324" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0983.jpg"><img class="aligncenter size-full wp-image-3756" title="DSC_0983" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0983.jpg" alt="" width="487" height="324" /></a>
 </p>
 
 <p style="text-align: center;">
   <p style="text-align: center;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0998.jpg"><img class="aligncenter size-full wp-image-3757" title="DSC_0998" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/10/DSC_0998.jpg" alt="" width="516" height="343" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0998.jpg"><img class="aligncenter size-full wp-image-3757" title="DSC_0998" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/10/DSC_0998.jpg" alt="" width="516" height="343" /></a>
   </p>
   
   <p>
-    Sitting on a rock overlooking the Potomac rushing into the Tidal Basin with <a href="http://blog.vickiboykis.com/wlb/2010/10/05/last-photo-moments-of-d-c/">the monuments some miles down the river</a> made me wonder, why is life so beautiful sometimes?
+    Sitting on a rock overlooking the Potomac rushing into the Tidal Basin with <a href="https://vkblog.github.io/2010/10/05/last-photo-moments-of-d-c/">the monuments some miles down the river</a> made me wonder, why is life so beautiful sometimes?
   </p>

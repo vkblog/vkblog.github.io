@@ -4,7 +4,7 @@ title: 'The great news: I&#8217;m getting an iPad! The terrible news: I&#8217;m 
 date: 2011-08-02T08:53:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5401
+guid: https://vkblog.github.io/?p=5401
 permalink: /2011/08/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 Right on the heels of the <a href="http://akhilak.com/blog/2011/07/27/problems-with-poverty-tourism/" target="_blank">whole Bangladesh situation</a>, I&#8217;m having my own moral dilemma.
 
 <p style="text-align: left;">
-  I asked Mr. B for an iPad for my birthday, because I want to be able to share <a href="http://blog.vickiboykis.com/wlb/2010/06/02/if-my-grandpa-cant-come-to-the-pictures-they-come-to-him/" target="_blank">large online pictures with my grandpa</a>, cook by an online recipe without printing it, read The Economist everywhere, read books on my commute, and send those &#8220;Sent from my iDevice&#8221; smug little emails to everyone, because I have too many friends right now.   He was happy to oblige because, as I have a feeling, it will become the family iPad.  Also, I totally need it <a href="http://www.myipadapps.com/daedalus-touch-app-for-ipad/" target="_blank">as an investment</a> into working on my novel. Yes.
+  I asked Mr. B for an iPad for my birthday, because I want to be able to share <a href="https://vkblog.github.io/2010/06/02/if-my-grandpa-cant-come-to-the-pictures-they-come-to-him/" target="_blank">large online pictures with my grandpa</a>, cook by an online recipe without printing it, read The Economist everywhere, read books on my commute, and send those &#8220;Sent from my iDevice&#8221; smug little emails to everyone, because I have too many friends right now.   He was happy to oblige because, as I have a feeling, it will become the family iPad.  Also, I totally need it <a href="http://www.myipadapps.com/daedalus-touch-app-for-ipad/" target="_blank">as an investment</a> into working on my novel. Yes.
 </p>
 
 <p style="text-align: left;">
@@ -26,7 +26,7 @@ Right on the heels of the <a href="http://akhilak.com/blog/2011/07/27/problems-w
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png"><img class="aligncenter size-full wp-image-5403" title="Screen shot 2011-08-02 at 8.38.36 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png" alt="" width="568" height="174" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png"><img class="aligncenter size-full wp-image-5403" title="Screen shot 2011-08-02 at 8.38.36 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Screen-shot-2011-08-02-at-8.38.36-AM.png" alt="" width="568" height="174" /></a>
 </p>
 
 <p style="text-align: left;">

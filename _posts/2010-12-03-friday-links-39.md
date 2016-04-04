@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-12-03T06:41:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3978
+guid: https://vkblog.github.io/?p=3978
 permalink: /2010/12/friday-links-39/
 categories:
   - fridaylinks
@@ -17,7 +17,7 @@ Two nights ago marked the start of Hanukah, which is a Jewish holiday that will 
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -31,7 +31,7 @@ Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -46,7 +46,7 @@ Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -60,7 +60,7 @@ Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217
 Luckily, I was able to travel to Israel and celebrate there. (ok, so I don&#8217;t know what kind of plane I was traveling on, but it was cheap enough to splice me from the neck down.)
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg"><img class="aligncenter size-full wp-image-3979" title="Photo on 2010-12-03 at 06.23" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Photo-on-2010-12-03-at-06.23.jpg" alt="" width="384" height="288" /></a>
 </p>
 
 <p style="text-align: left;">

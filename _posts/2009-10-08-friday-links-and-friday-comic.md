@@ -4,7 +4,7 @@ title: Friday Links and Friday Comic
 date: 2009-10-08T20:22:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1409
+guid: https://vkblog.github.io/?p=1409
 permalink: /2009/10/friday-links-and-friday-comic/
 categories:
   - fridaylinks
@@ -15,7 +15,7 @@ tags:
 ---
 It&#8217;s the end of a long week. For those who just stopped by to comment this week, thanks immensely.  For your pleasure, ladies, gents, minerals and vegetables:
 
-[<img class="size-full wp-image-1410 alignnone" title="Page_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_23.jpg" alt="Page_2" width="587" height="760" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/Page_23.jpg)
+[<img class="size-full wp-image-1410 alignnone" title="Page_2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/Page_23.jpg" alt="Page_2" width="587" height="760" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/Page_23.jpg)
 
 It really does.  Click to enlarge.  Click to find out more about [Natan Sharansky](http://en.wikipedia.org/wiki/Natan_Sharansky) (who I actually had the immense priviledge of meeting!), [Avigdor Lieberman](http://en.wikipedia.org/wiki/Avigdor_Lieberman), and [Sukkot](http://www.jewfaq.org/holiday5.htm).
 

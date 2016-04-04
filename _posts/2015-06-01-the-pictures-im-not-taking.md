@@ -5,7 +5,7 @@ date: 2015-06-01T07:12:48+00:00
 author: Vicki
 excerpt: 'I wish I was taking more pictures not only of our baby, but of all of her stuff. '
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9956
+guid: https://vkblog.github.io/?p=9956
 permalink: /2015/06/the-pictures-im-not-taking/
 categories:
   - Uncategorized
@@ -24,17 +24,17 @@ I wish I had pictures of our living room. We started out with just a Pack n Play
 
 This is how it started:
 
-[<img class="aligncenter  wp-image-9959" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150323_102052-580x435.jpg" alt="IMG_20150323_102052" width="393" height="295" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150323_102052.jpg)
+[<img class="aligncenter  wp-image-9959" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/05/IMG_20150323_102052-580x435.jpg" alt="IMG_20150323_102052" width="393" height="295" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/05/IMG_20150323_102052.jpg)
 
 This is how it was a month ago:
 
-[<img class="aligncenter  wp-image-9960" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150428_062430-580x773.jpg" alt="IMG_20150428_062430" width="401" height="534" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150428_062430.jpg)
+[<img class="aligncenter  wp-image-9960" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/05/IMG_20150428_062430-580x773.jpg" alt="IMG_20150428_062430" width="401" height="534" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/05/IMG_20150428_062430.jpg)
 
 &nbsp;
 
 And this is how it is now, completely 100% overtaken by all of her things.
 
-[<img class="aligncenter  wp-image-9961" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150531_201845314-580x1031.jpg" alt="IMG_20150531_201845314" width="394" height="700" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/05/IMG_20150531_201845314.jpg)
+[<img class="aligncenter  wp-image-9961" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/05/IMG_20150531_201845314-580x1031.jpg" alt="IMG_20150531_201845314" width="394" height="700" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/05/IMG_20150531_201845314.jpg)
 
 &nbsp;
 
@@ -46,4 +46,4 @@ I wish I had a picture of our house at every stage of the baby process. But I do
 
 When I read all of this in print, it seems like such tiny changes, such minuscule alterations in our household,  but for me, they are an entire world that mean my baby is growing, growing, growing, and changing, and that soon this four and a half month phase will turn into five months and then we&#8217;ll be planning her 1-year-old party and then our house will change again, and then maybe the bottles will all go away and all we&#8217;ll have is the high chair and jars and jars of food, and maybe the jumper will go away and all we&#8217;ll have is a little baby play area, and then her car seat will go in the basement and she&#8217;ll have a forward-facing one, and hundreds of mundane objects will change, just as we&#8217;re getting used to the way things are in the house now.
 
-<a href="http://blog.vickiboykis.com/wlb/2015/03/no-i-will-not-enjoy-every-moment/" target="_blank">I&#8217;m still not enjoying every moment</a>, no way, but I am keenly aware that even the ones that I don&#8217;t enjoy slip past me at lighting speed, like a roaring river,  and I can only hope to catch a couple of drops of foamy mist with my camera.
+<a href="https://vkblog.github.io/2015/03/no-i-will-not-enjoy-every-moment/" target="_blank">I&#8217;m still not enjoying every moment</a>, no way, but I am keenly aware that even the ones that I don&#8217;t enjoy slip past me at lighting speed, like a roaring river,  and I can only hope to catch a couple of drops of foamy mist with my camera.

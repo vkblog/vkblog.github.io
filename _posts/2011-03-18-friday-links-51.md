@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-03-18T08:08:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4585
+guid: https://vkblog.github.io/?p=4585
 permalink: /2011/03/friday-links-51/
 categories:
   - fridaylinks
@@ -17,13 +17,13 @@ It&#8217;s Friday once again, and this weekend is our home inspection.  I playe
 Also, I had this much miso soup yesterday:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0692.jpg"><img class="aligncenter size-full wp-image-4586" title="wpid-IMAG0692.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0692.jpg" alt="" width="245" height="408" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/wpid-IMAG0692.jpg"><img class="aligncenter size-full wp-image-4586" title="wpid-IMAG0692.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/wpid-IMAG0692.jpg" alt="" width="245" height="408" /></a>
 </p>
 
 Also, I saw this license plate:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0685.jpg"><img class="aligncenter size-full wp-image-4589" title="wpid-IMAG0685.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0685.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/wpid-IMAG0685.jpg"><img class="aligncenter size-full wp-image-4589" title="wpid-IMAG0685.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/wpid-IMAG0685.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 It&#8217;s been a good week.

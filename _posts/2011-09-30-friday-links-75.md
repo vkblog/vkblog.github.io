@@ -4,14 +4,14 @@ title: Friday Links
 date: 2011-09-30T07:51:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5771
+guid: https://vkblog.github.io/?p=5771
 permalink: /2011/09/friday-links-75/
 categories:
   - Uncategorized
 ---
 Happy Jew Year New Year!
 
-[<img class="aligncenter size-full wp-image-5772" title="mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png" alt="" width="425" height="237" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png)
+[<img class="aligncenter size-full wp-image-5772" title="mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png" alt="" width="425" height="237" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/09/mark-zuckerberg-facebook-rosh-hashanah-ecards-someecards.png)
 
 Links:
 

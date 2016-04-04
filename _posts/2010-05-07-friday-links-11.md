@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-05-07T07:00:35+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2878
+guid: https://vkblog.github.io/?p=2878
 permalink: /2010/05/friday-links-11/
 categories:
   - fridaylinks
@@ -17,7 +17,7 @@ Friday is here! But I am not.
 I am here:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Golden_Gate_Morning_by_Qulastro.jpg"><img class="aligncenter size-full wp-image-2882" title="Golden_Gate_Morning_by_Qulastro" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Golden_Gate_Morning_by_Qulastro.jpg" alt="" width="516" height="344" /></a><a href="http://qulastro.deviantart.com/art/Golden-Gate-Morning-97494225">source.</a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Golden_Gate_Morning_by_Qulastro.jpg"><img class="aligncenter size-full wp-image-2882" title="Golden_Gate_Morning_by_Qulastro" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Golden_Gate_Morning_by_Qulastro.jpg" alt="" width="516" height="344" /></a><a href="http://qulastro.deviantart.com/art/Golden-Gate-Morning-97494225">source.</a>
 </p>
 
 <p style="text-align: left;">

@@ -5,7 +5,7 @@ date: 2015-08-07T07:29:51+00:00
 author: Vicki
 excerpt: 'Just a single word can paint an entire world. '
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=10052
+guid: https://vkblog.github.io/?p=10052
 permalink: /2015/08/how-to-think-in-two-languages/
 categories:
   - identity
@@ -27,13 +27,13 @@ I need to get something off my chest.
 
 I&#8217;ve never read _War and Peace_. Or _Anna Karenina_. Or _The Brothers Karamazov_.
 
-In all the years I&#8217;ve been pretending to be <a href="http://blog.vickiboykis.com/wlb/2011/04/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">an expert on Russian culture</a>, I&#8217;ve never read any of the great works of Russian literature.
+In all the years I&#8217;ve been pretending to be <a href="https://vkblog.github.io/2011/04/a-guide-to-questionable-russian-careers-or-seryozha-that-guy-with-the-ambulance/" target="_blank">an expert on Russian culture</a>, I&#8217;ve never read any of the great works of Russian literature.
 
 This fact is so embarrassing that I&#8217;ve never admitted it to anyone. I don&#8217;t think even Mr. B knows the extent of my Russian illiteracy.  Every time someone mentions War and Peace, I nod. &#8220;Oh yes, the French occupation of Moscow. The love of the land. Austerlitz. All of that,&#8221; but I&#8217;m praying the conversation doesn&#8217;t go any further.  So I try to distract them. &#8220;Hey, speaking of how much Russia sucks, did you hear that Putin&#8217;s press secretary bought <a href="http://www.bloombergview.com/articles/2015-08-03/where-did-putin-s-spokesman-get-a-620-000-watch-" target="_blank">a $620,000 watch</a>?&#8221; and I&#8217;m off and running back in comfortable territory.
 
 Since I was little, I had this grand idea that I would read Russian literature in Russian. I&#8217;ve presented with many opportunities to read translations of Russian works, but I passed, because, to me, it was embarrassing to be reading words that had been filtered into stilted English when I could very well understand and read the richness of the original.  It was a cop-out.
 
-But every time I started on the original, it was just too hard. In English, I am an extremely  voracious reader. I can get through a 300-page novel in one sitting if no one bothers me, and I&#8217;m reading <a href="https://en.wikipedia.org/wiki/Middlemarch" target="_blank">Middlemarch</a> without a dictionary. In Russian, <a href="http://blog.vickiboykis.com/wlb/2015/05/it-is-hard-to-talk-to-my-baby-in-russian/" target="_blank">as I&#8217;ve written before</a>, I&#8217;m at probably a fifth-grade level as a speaker, and probably a second-grade level as a reader. I have to rely much more heavily on context clues than I&#8217;d like. Not only am I fighting grammar, I&#8217;m fighting context.
+But every time I started on the original, it was just too hard. In English, I am an extremely  voracious reader. I can get through a 300-page novel in one sitting if no one bothers me, and I&#8217;m reading <a href="https://en.wikipedia.org/wiki/Middlemarch" target="_blank">Middlemarch</a> without a dictionary. In Russian, <a href="https://vkblog.github.io/2015/05/it-is-hard-to-talk-to-my-baby-in-russian/" target="_blank">as I&#8217;ve written before</a>, I&#8217;m at probably a fifth-grade level as a speaker, and probably a second-grade level as a reader. I have to rely much more heavily on context clues than I&#8217;d like. Not only am I fighting grammar, I&#8217;m fighting context.
 
 My Russian history knowledge is pretty strong from 1901 onward, but before that, I&#8217;m lost in a sea of unfamiliar tsars, backwater regions, and military terminology I&#8217;ve never learned in school.  I&#8217;m essentially going from driving 150 miles per hour on the autobahn in a BMW to 30 miles per hour on some unpaved road in a  2001 Honda Civic.
 
@@ -41,7 +41,7 @@ So I struggle on for a couple pages, but I eventually just give up. So far, I&#8
 
 Unfortunately, The Russian Federal Agency of Publishing and Mass Communication&#8217;s recent ad campaign did nothing to assuage my guilt (<a href="http://adsoftheworld.com/taxonomy/brand/federal_agency_of_publishing_and_mass_communication" target="_blank">in English</a> and <a href="http://pro-books.ru/news/3/9460" target="_blank">in Russian</a>).
 
-[<img class="aligncenter size-medium wp-image-10055" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/pushkin-eng1-580x829.jpg" alt="pushkin-eng" width="580" height="829" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/pushkin-eng1.jpg)
+[<img class="aligncenter size-medium wp-image-10055" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/08/pushkin-eng1-580x829.jpg" alt="pushkin-eng" width="580" height="829" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/08/pushkin-eng1.jpg)
 
 I&#8217;ve been wallowing in my secret Russian classic shame for years, but once I realized that I wasn&#8217;t gaining words and therefore wouldn&#8217;t be able to communicate my feelings about, say the state of feudal serfdom in Russia in 1861 to my child, I decided it was time to get cracking.
 
@@ -59,11 +59,11 @@ The Russian sentence is more playful and poetic than the English, which is very 
 
 Here&#8217;s how the valley looks is in real life:
 
-[<img class="aligncenter  wp-image-10060" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/valley-580x387.jpg" alt="valley" width="504" height="336" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/valley.jpg)
+[<img class="aligncenter  wp-image-10060" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/08/valley-580x387.jpg" alt="valley" width="504" height="336" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/08/valley.jpg)
 
 And here&#8217;s how I picture it based on the English description:
 
-[<img class="aligncenter  wp-image-10059" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/2141707-580x385.jpg" alt="2141707" width="420" height="279" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/08/2141707.jpg)
+[<img class="aligncenter  wp-image-10059" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/08/2141707-580x385.jpg" alt="2141707" width="420" height="279" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/08/2141707.jpg)
 
 This  concept of passive duality got to be so annoying that I felt like I was splitting in half: the English half, going full-speed, reading as quickly as I wanted to, finally getting through the classics, and the Russian half, whining about how every word was being translated incorrectly, begging the English half to slow down.
 

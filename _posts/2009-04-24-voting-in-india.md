@@ -4,7 +4,7 @@ title: Voting in India
 date: 2009-04-24T11:11:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=287
+guid: https://vkblog.github.io/?p=287
 permalink: /2009/04/voting-in-india/
 categories:
   - feminism
@@ -16,7 +16,7 @@ tags:
   - international
 ---
 <p style="text-align: center;">
-  We now take  a moment away from being cynical about politics to look at this picture from the Indian elections: <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/voting.jpg"><img class="aligncenter size-full wp-image-288" title="voting" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/voting.jpg" alt="voting" width="423" height="282" /></a>(Getty Images, Via <a href="http://arm.in/2rq">Jezebel</a>)
+  We now take  a moment away from being cynical about politics to look at this picture from the Indian elections: <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/voting.jpg"><img class="aligncenter size-full wp-image-288" title="voting" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/voting.jpg" alt="voting" width="423" height="282" /></a>(Getty Images, Via <a href="http://arm.in/2rq">Jezebel</a>)
 </p>
 
 <p style="text-align: left;">
@@ -28,7 +28,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/n9301935_44016399_7085.jpg"><img class="aligncenter size-full wp-image-292" title="n9301935_44016399_7085" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/04/n9301935_44016399_7085.jpg" alt="n9301935_44016399_7085" width="266" height="604" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/n9301935_44016399_7085.jpg"><img class="aligncenter size-full wp-image-292" title="n9301935_44016399_7085" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/04/n9301935_44016399_7085.jpg" alt="n9301935_44016399_7085" width="266" height="604" /></a>
 </p>
 
 <p style="text-align: left;">

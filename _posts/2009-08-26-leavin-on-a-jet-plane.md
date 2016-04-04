@@ -4,7 +4,7 @@ title: 'Leavin&#8217; on a Jet Plane&#8230;'
 date: 2009-08-26T16:46:24+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1180
+guid: https://vkblog.github.io/?p=1180
 permalink: /2009/08/leavin-on-a-jet-plane/
 categories:
   - Uncategorized
@@ -23,6 +23,6 @@ tags:
   <span style="font-family: Verdana; color: #0033cc;">-Yehuda HaLevi<br /> </span>
 </p>
 
-[<img class="aligncenter size-full wp-image-1181" title="israel" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/israel.jpg" alt="israel" width="525" height="348" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/israel.jpg)
+[<img class="aligncenter size-full wp-image-1181" title="israel" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/israel.jpg" alt="israel" width="525" height="348" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/israel.jpg)
 
 But don&#8217;t worry.  I have plenty of guest posts lined up by talented writers whom I have had the prividlege come to know online.  So check back here often.  I&#8217;ll be back.  Eventaully.

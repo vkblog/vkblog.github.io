@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-11-10T21:33:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5911
+guid: https://vkblog.github.io/?p=5911
 permalink: /2011/11/friday-links-79/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
 Mr. B&#8217;s birthday is this weekend, and I thoughtfully already have the champagne out and I am hosting and cooking a Very Awesome Mediterranean Meal with Pesto and Whatnot.   Mr. B is crying because I&#8217;m cooking.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/01.jpg"><img class="aligncenter size-full wp-image-5912" title="01" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/01.jpg" alt="" width="379" height="589" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/11/01.jpg"><img class="aligncenter size-full wp-image-5912" title="01" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/11/01.jpg" alt="" width="379" height="589" /></a>
 </p>
 
 **Links:**

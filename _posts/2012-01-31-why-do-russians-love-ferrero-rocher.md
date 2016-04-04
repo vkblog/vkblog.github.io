@@ -4,7 +4,7 @@ title: Why do Russians love Ferrero Rocher?
 date: 2012-01-31T06:55:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6399
+guid: https://vkblog.github.io/?p=6399
 permalink: /2012/01/why-do-russians-love-ferrero-rocher/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Russians
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/wpid-IMG_20120131_065359.jpg" alt="image" width="350" height="467" />
+  <img class="aligncenter" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/wpid-IMG_20120131_065359.jpg" alt="image" width="350" height="467" />
 </p>
 
 <p style="text-align: left;">
@@ -24,7 +24,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  Ferrero Rocher is the currency of Russian households.  We received at least three Ferrero Rocher gift boxes this holiday season, and gave out at least two. What is it about this candy that makes it the Mercedes of the Russian community? Is it because it&#8217;s just expensive enough ($9.99 per box) to say, &#8220;I care and here&#8217;s something for your house so we don&#8217;t come empty-handed&#8221;, but not big enough of a commitment as wine? Is it because <a href="http://blog.vickiboykis.com/wlb/2010/02/16/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">we love Italians</a>?
+  Ferrero Rocher is the currency of Russian households.  We received at least three Ferrero Rocher gift boxes this holiday season, and gave out at least two. What is it about this candy that makes it the Mercedes of the Russian community? Is it because it&#8217;s just expensive enough ($9.99 per box) to say, &#8220;I care and here&#8217;s something for your house so we don&#8217;t come empty-handed&#8221;, but not big enough of a commitment as wine? Is it because <a href="https://vkblog.github.io/2010/02/16/why-do-you-have-to-discover-adriano-celentano-cruel-internet/" target="_blank">we love Italians</a>?
 </p>
 
 <p style="text-align: left;">
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png"><img class="aligncenter size-full wp-image-6403" title="Screen shot 2012-01-31 at 7.11.23 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png" alt="" width="378" height="365" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png"><img class="aligncenter size-full wp-image-6403" title="Screen shot 2012-01-31 at 7.11.23 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/Screen-shot-2012-01-31-at-7.11.23-AM.png" alt="" width="378" height="365" /></a>
 </p>
 
 <p style="text-align: center;">

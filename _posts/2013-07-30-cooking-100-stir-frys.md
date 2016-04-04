@@ -4,7 +4,7 @@ title: Cooking 100 stir-frys
 date: 2013-07-30T14:51:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8932
+guid: https://vkblog.github.io/?p=8932
 permalink: /2013/07/cooking-100-stir-frys/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - python
   - self
 ---
-[<img class="aligncenter size-full wp-image-8937" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/07/chef.gif" alt="chef" width="500" height="215" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/07/chef.gif)
+[<img class="aligncenter size-full wp-image-8937" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/07/chef.gif" alt="chef" width="500" height="215" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/07/chef.gif)
 
 &#8220;Oh, you want to learn to cook? That sounds like a great idea!  You&#8217;ll be able to make your own meals instead of having to rely on other people or going to restaurants. You can cook from fresh ingredients, bond with other cooks, make your spouse love you, and understand what all those people on TV are talking about.  It&#8217;s really easy, and we want to encourage everyone to cook because we are a food-based society, and everyone should have basic food literacy. &#8221;
 
@@ -28,7 +28,7 @@ tags:
 
 &#8220;They&#8217;re not hard to choose from! Just pick one&#8230;Asian, Mexican, comfort food, soup, pasta&#8230;anything.&#8221;
 
-&#8220;Ok. I want to make <a href="http://blog.vickiboykis.com/wlb/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">chicken tikka masala</a>!&#8221;
+&#8220;Ok. I want to make <a href="https://vkblog.github.io/2010/02/accidental-chicken-tikka-masala-or-recipe-websites-are-awful/" target="_blank">chicken tikka masala</a>!&#8221;
 
 &#8220;That&#8217;s too hard for a beginning cook. Let&#8217;s work on making stir fry first. Nice and easy.&#8221;
 

@@ -4,7 +4,7 @@ title: A glimpse into the Edwardian period
 date: 2012-01-16T13:26:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6235
+guid: https://vkblog.github.io/?p=6235
 permalink: /2012/01/a-glimpse-into-the-edwardian-period/
 categories:
   - Uncategorized
@@ -16,12 +16,12 @@ tags:
   - feminism
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Dolce_godward.jpg"><img class="aligncenter  wp-image-6250" title="Dolce_godward" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Dolce_godward.jpg" alt="" width="640" height="413" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/Dolce_godward.jpg"><img class="aligncenter  wp-image-6250" title="Dolce_godward" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/Dolce_godward.jpg" alt="" width="640" height="413" /></a>
 </p>
 
 &nbsp;
 
-Victoria flounced into the <a href="http://blog.vickiboykis.com/wlb/2011/01/24/life-is-not-fair-if-it-were-i-would-be-having-my-eggs-peeled-for-me-at-downton-abbey-right-now/" target="_blank">airy, spacious dining room</a> where her dashing industry magnate husband was already breakfasting on porridge and strong tea.  The maids were fluttering about, just out of sight, dusting the china cabinets and it smelled like fresh linen.
+Victoria flounced into the <a href="https://vkblog.github.io/2011/01/24/life-is-not-fair-if-it-were-i-would-be-having-my-eggs-peeled-for-me-at-downton-abbey-right-now/" target="_blank">airy, spacious dining room</a> where her dashing industry magnate husband was already breakfasting on porridge and strong tea.  The maids were fluttering about, just out of sight, dusting the china cabinets and it smelled like fresh linen.
 
 Mr. Rothschild was engrossed in his newspapers.  Not only was he rich, but he was $uper $mart and knew all sorts of things about physics and electricity that Victoria would never dare to read about because she&#8217;d heard that if women read too much, they became sterile.
 

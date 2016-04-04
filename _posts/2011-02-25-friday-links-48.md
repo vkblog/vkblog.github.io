@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-02-25T08:41:09+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4441
+guid: https://vkblog.github.io/?p=4441
 permalink: /2011/02/friday-links-48/
 categories:
   - fridaylinks
@@ -20,7 +20,7 @@ What&#8217;s better than reading my complaining on my blog?  [How about reading
 
 I should probably mention that this piece was edited to exclude the fact that what I&#8217;ve eaten by accident on Yom Kippur was shrimp and the way I currently commemorate Shabbat is by listening to Shabbat music on my iPod while I am driving between Philly and DC on Friday nights.  Fortunately, these pieces of information were taken out in the final version to save me from myself.
 
-[<img class="aligncenter size-full wp-image-4442" title="Screen shot 2011-02-25 at 8.21.55 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png" alt="" width="318" height="473" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png)
+[<img class="aligncenter size-full wp-image-4442" title="Screen shot 2011-02-25 at 8.21.55 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png" alt="" width="318" height="473" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png)
 
 **Friday Links:**
 
@@ -31,7 +31,7 @@ I should probably mention that this piece was edited to exclude the fact that wh
 
 I should probably mention that this piece was edited to exclude the fact that what I&#8217;ve eaten by accident on Yom Kippur was shrimp and the way I currently commemorate Shabbat is by listening to Shabbat music on my iPod while I am driving between Philly and DC on Friday nights.  Fortunately, these pieces of information were taken out in the final version to save me from myself.
 
-[<img class="aligncenter size-full wp-image-4442" title="Screen shot 2011-02-25 at 8.21.55 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png" alt="" width="318" height="473" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png)
+[<img class="aligncenter size-full wp-image-4442" title="Screen shot 2011-02-25 at 8.21.55 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png" alt="" width="318" height="473" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-25-at-8.21.55-AM.png)
 
 **Friday Links:**
 

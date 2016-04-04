@@ -4,7 +4,7 @@ title: Goodbye, Cruel World. I ate the sushi.
 date: 2012-04-10T12:40:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6658
+guid: https://vkblog.github.io/?p=6658
 permalink: /2012/04/goodbye-cruel-world-i-ate-the-sushi/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - sushi
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/image_two_lg.jpg"><img class="aligncenter  wp-image-6659" title="image_two_lg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/image_two_lg.jpg" alt="" width="420" height="277" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/image_two_lg.jpg"><img class="aligncenter  wp-image-6659" title="image_two_lg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/image_two_lg.jpg" alt="" width="420" height="277" /></a>
 </p>
 
 <p style="text-align: center;">

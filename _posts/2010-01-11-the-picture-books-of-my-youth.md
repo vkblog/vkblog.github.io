@@ -4,7 +4,7 @@ title: The Picture Books of My Youth
 date: 2010-01-11T09:38:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2078
+guid: https://vkblog.github.io/?p=2078
 permalink: /2010/01/the-picture-books-of-my-youth/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
 From time to time, my mom reminds me that she still has all of my children&#8217;s books from Russia, just in case I decide to gift her with grandchildren soon.  She is on standby.  Mr. B&#8217;s, mom, of course, says that she will immediately confiscate any female children and leave the leftovers to my mom.  This plan of theirs is all well and good, of course, but is unfortunately entirely dependent on the aforementioned children coming into being.
 
 <div id="attachment_2079" style="width: 329px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Morozhonoe.jpg"><img class="size-full wp-image-2079" title="Morozhonoe" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Morozhonoe.jpg" alt="" width="319" height="400" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Morozhonoe.jpg"><img class="size-full wp-image-2079" title="Morozhonoe" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Morozhonoe.jpg" alt="" width="319" height="400" /></a>
   
   <p class="wp-caption-text">
     Ice Cream by S. Marshak (an iconic Russian children's writer)
@@ -36,7 +36,7 @@ From time to time, my mom reminds me that she still has all of my children&#8217
   </p>
   
   <div id="attachment_2081" style="width: 370px" class="wp-caption aligncenter">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Maminmo.jpg"><img class="size-full wp-image-2081" title="Maminmo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Maminmo.jpg" alt="" width="360" height="416" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Maminmo.jpg"><img class="size-full wp-image-2081" title="Maminmo" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Maminmo.jpg" alt="" width="360" height="416" /></a>
     
     <p class="wp-caption-text">
       Mom's Bridge
@@ -56,5 +56,5 @@ From time to time, my mom reminds me that she still has all of my children&#8217
       </blockquote> 
       
       <p>
-        <strong>Related on the blog:</strong><br /> <a href="http://blog.vickiboykis.com/wlb/2009/09/30/my-unborn-children-are-annoying-me/">My Unborn Children are Annoying Me</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/">A picture of Mr. B as a bebeh</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/05/10/happy-mothers-day/">A picture of me as a bebeh</a><br /> <a href="http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/">A picture of our moms, who are on standby</a>
+        <strong>Related on the blog:</strong><br /> <a href="https://vkblog.github.io/2009/09/30/my-unborn-children-are-annoying-me/">My Unborn Children are Annoying Me</a><br /> <a href="https://vkblog.github.io/2009/10/11/my-unborn-novel-is-annoying-me-nanowrimo/">A picture of Mr. B as a bebeh</a><br /> <a href="https://vkblog.github.io/2009/05/10/happy-mothers-day/">A picture of me as a bebeh</a><br /> <a href="https://vkblog.github.io/2009/07/12/the-victorian-error-lite-jazz/">A picture of our moms, who are on standby</a>
       </p>

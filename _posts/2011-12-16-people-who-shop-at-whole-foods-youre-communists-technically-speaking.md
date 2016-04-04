@@ -4,7 +4,7 @@ title: 'People who shop at Whole Foods: you&#8217;re communists. Technically spe
 date: 2011-12-16T13:32:17+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6040
+guid: https://vkblog.github.io/?p=6040
 permalink: /2011/12/people-who-shop-at-whole-foods-youre-communists-technically-speaking/
 categories:
   - Uncategorized
@@ -21,10 +21,10 @@ I know today is Friday Links, but, guys this is more important.
 
 Why do upper-middle-class yupsters want to be Soviet?
 
-<a href="http://blog.vickiboykis.com/wlb/2010/03/11/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">I reported on this trend earlier,</a> but I see it is now getting out of control. Because of this:
+<a href="https://vkblog.github.io/2010/03/11/environmentalism-has-its-roots-in-millions-of-violently-angry-soviet-women/" target="_blank">I reported on this trend earlier,</a> but I see it is now getting out of control. Because of this:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1035.jpg"><img class="aligncenter size-full wp-image-6041" title="IMAG1035" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/IMAG1035.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/IMAG1035.jpg"><img class="aligncenter size-full wp-image-6041" title="IMAG1035" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/IMAG1035.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -36,7 +36,7 @@ Why do upper-middle-class yupsters want to be Soviet?
 </p>
 
 <p style="text-align: left;">
-  Which packaging, you ask?  <a href="http://blog.vickiboykis.com/wlb/2009/07/19/hortex/" target="_blank">Remember Hortex?</a> That kind of packaging.
+  Which packaging, you ask?  <a href="https://vkblog.github.io/2009/07/19/hortex/" target="_blank">Remember Hortex?</a> That kind of packaging.
 </p>
 
 <p style="text-align: left;">

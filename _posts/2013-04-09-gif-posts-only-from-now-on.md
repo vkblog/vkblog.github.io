@@ -4,7 +4,7 @@ title: Gif posts only from now on
 date: 2013-04-09T08:08:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8580
+guid: https://vkblog.github.io/?p=8580
 permalink: /2013/04/gif-posts-only-from-now-on/
 categories:
   - gifs

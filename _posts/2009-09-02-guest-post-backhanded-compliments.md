@@ -4,7 +4,7 @@ title: 'Guest Post: Backhanded Compliments'
 date: 2009-09-02T00:00:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1148
+guid: https://vkblog.github.io/?p=1148
 permalink: /2009/09/guest-post-backhanded-compliments/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ categories:
 </p>
 
 <p style="font-family: arial,helvetica,sans-serif; text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/361641060_384e8ae4d2.jpg"><img class="aligncenter size-full wp-image-1152" title="361641060_384e8ae4d2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/361641060_384e8ae4d2.jpg" alt="361641060_384e8ae4d2" width="430" height="286" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/361641060_384e8ae4d2.jpg"><img class="aligncenter size-full wp-image-1152" title="361641060_384e8ae4d2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/361641060_384e8ae4d2.jpg" alt="361641060_384e8ae4d2" width="430" height="286" /></a>
 </p>
 
 <p style="font-family: arial,helvetica,sans-serif; text-align: center;">

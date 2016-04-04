@@ -4,7 +4,7 @@ title: Listicle of small things that make me extremely happy
 date: 2013-09-10T21:10:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9108
+guid: https://vkblog.github.io/?p=9108
 permalink: /2013/09/listicle-of-small-things-that-make-me-extremely-happy/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - me
   - sea snax
 ---
-[<img class="aligncenter size-medium wp-image-9109" alt="Valentin Bogdanov - Man in Landscape 1957" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957-580x493.jpg" width="580" height="493" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957.jpg)
+[<img class="aligncenter size-medium wp-image-9109" alt="Valentin Bogdanov - Man in Landscape 1957" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957-580x493.jpg" width="580" height="493" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/09/Valentin-Bogdanov-Man-in-Landscape-1957.jpg)
 
 &nbsp;
 

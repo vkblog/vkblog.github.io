@@ -4,7 +4,7 @@ title: Why Every Woman Should Know How Her Blog Works or,Why Women are still mar
 date: 2011-11-07T08:17:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5889
+guid: https://vkblog.github.io/?p=5889
 permalink: /2011/11/why-every-woman-should-know-how-her-blog-works-orwhy-women-are-still-marginalized/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ This Saturday, I attended <a href="http://2011.philly.wordcamp.org/" target="_bl
 See?  Here I am in my natural habitat:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/Screen-shot-2011-11-06-at-10.02.48-PM.png"><img class="aligncenter size-full wp-image-5894" title="Screen shot 2011-11-06 at 10.02.48 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/11/Screen-shot-2011-11-06-at-10.02.48-PM.png" alt="" width="493" height="565" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/11/Screen-shot-2011-11-06-at-10.02.48-PM.png"><img class="aligncenter size-full wp-image-5894" title="Screen shot 2011-11-06 at 10.02.48 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/11/Screen-shot-2011-11-06-at-10.02.48-PM.png" alt="" width="493" height="565" /></a>
 </p>
 
 &nbsp;

@@ -4,7 +4,7 @@ title: 'Where is the line between Laziness and Sloth?  Because I think I&#8217;v
 date: 2011-12-06T07:22:38+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5975
+guid: https://vkblog.github.io/?p=5975
 permalink: /2011/12/where-is-the-line-between-laziness-and-sloth-because-i-think-ive-crossed-it-with-two-words-online-groceries/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - laziness
   - liam neeson
 ---
-[<img class="aligncenter size-full wp-image-5976" title="Screen shot 2011-12-06 at 6.56.40 AM-2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-06-at-6.56.40-AM-2.png" alt="" width="652" height="264" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Screen-shot-2011-12-06-at-6.56.40-AM-2.png)
+[<img class="aligncenter size-full wp-image-5976" title="Screen shot 2011-12-06 at 6.56.40 AM-2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/Screen-shot-2011-12-06-at-6.56.40-AM-2.png" alt="" width="652" height="264" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/Screen-shot-2011-12-06-at-6.56.40-AM-2.png)
 
 What is Peapod? <a href="http://www.peapod.com/" target="_blank">A service where you can order groceries online </a>without leaving the house. You&#8217;ll be happy to know that, since I have a coupon for the first delivery, it is not costing me any more than an actual trip to the grocery store.  Actually, it&#8217;s costing me about $20 less than my usual grocery trip, because for some reason, when you&#8217;re not impulse-browsing the store, you tend to order much less.
 
@@ -27,4 +27,4 @@ There is an upside, however. Since this grocery store delivers on a fixed schedu
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-5978" title="Photo on 2011-12-06 at 07.19 #2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Photo-on-2011-12-06-at-07.19-2.png" alt="" width="640" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/Photo-on-2011-12-06-at-07.19-2.png)
+[<img class="aligncenter size-full wp-image-5978" title="Photo on 2011-12-06 at 07.19 #2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/Photo-on-2011-12-06-at-07.19-2.png" alt="" width="640" height="480" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/Photo-on-2011-12-06-at-07.19-2.png)

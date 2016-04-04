@@ -4,7 +4,7 @@ title: A book review that is also a plea for mercy
 date: 2012-05-02T13:17:43+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6828
+guid: https://vkblog.github.io/?p=6828
 permalink: /2012/05/a-book-review-that-is-also-a-plea-for-mercy/
 categories:
   - Uncategorized
@@ -29,7 +29,7 @@ Reading _Discovery of Witches_ is like feminism never existed.  Reading Discove
 If you love life and reasonable literature, you will love to hate this book.  Let me spare you reading it and recap it for you, with spoilers.
 
 <div>
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/8667848.jpg"><img class="aligncenter size-full wp-image-6830" title="8667848" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/8667848.jpg" alt="" width="314" height="475" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/05/8667848.jpg"><img class="aligncenter size-full wp-image-6830" title="8667848" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/05/8667848.jpg" alt="" width="314" height="475" /></a>
 </div>
 
 <div>

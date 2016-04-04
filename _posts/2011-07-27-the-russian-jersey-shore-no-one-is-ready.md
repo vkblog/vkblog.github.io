@@ -4,7 +4,7 @@ title: 'The Russian Jersey Shore: No one is ready.'
 date: 2011-07-27T12:11:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5364
+guid: https://vkblog.github.io/?p=5364
 permalink: /2011/07/the-russian-jersey-shore-no-one-is-ready/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ Are you guys <a href="http://www.sheepsheadbites.com/2011/07/first-look-russian-
 
 I don&#8217;t think I&#8217;m ready.
 
-[<img class="aligncenter size-full wp-image-5365" title="Screen shot 2011-07-26 at 11.45.53 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png" alt="" width="571" height="484" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png)
+[<img class="aligncenter size-full wp-image-5365" title="Screen shot 2011-07-26 at 11.45.53 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png" alt="" width="571" height="484" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Screen-shot-2011-07-26-at-11.45.53-AM.png)
 
 &nbsp;
 

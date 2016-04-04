@@ -4,7 +4,7 @@ title: Dr. Maina Singh and the Indian Jews of Israel
 date: 2009-11-30T21:46:06+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1774
+guid: https://vkblog.github.io/?p=1774
 permalink: /2009/11/dr-maia-singh-and-the-indian-jews-of-israel/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Sadia Shepard
 ---
 <div id="attachment_1773" style="width: 389px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02780.JPG"><img class="size-full wp-image-1773" title="DSC02780" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/DSC02780.JPG" alt="DSC02780" width="379" height="505" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/DSC02780.JPG"><img class="size-full wp-image-1773" title="DSC02780" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/DSC02780.JPG" alt="DSC02780" width="379" height="505" /></a>
   
   <p class="wp-caption-text">
     c 2009 Me! I took this picture :)
@@ -37,7 +37,7 @@ tags:
   </p>
   
   <p style="text-align: left;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/indian_jews_communities_map.png"><img class="aligncenter size-full wp-image-1777" title="indian_jews_communities_map" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/indian_jews_communities_map.png" alt="indian_jews_communities_map" width="275" height="294" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/indian_jews_communities_map.png"><img class="aligncenter size-full wp-image-1777" title="indian_jews_communities_map" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/indian_jews_communities_map.png" alt="indian_jews_communities_map" width="275" height="294" /></a>
   </p>
   
   <p style="text-align: left;">

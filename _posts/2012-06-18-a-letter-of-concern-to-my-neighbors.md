@@ -4,7 +4,7 @@ title: A letter of concern to my neighbors
 date: 2012-06-18T07:26:46+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6977
+guid: https://vkblog.github.io/?p=6977
 permalink: /2012/06/a-letter-of-concern-to-my-neighbors/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/argument-jan-steen-painting1.jpg"><img class="aligncenter  wp-image-6986" title="argument-jan-steen-painting1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/06/argument-jan-steen-painting1.jpg" alt="" width="512" height="365" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/06/argument-jan-steen-painting1.jpg"><img class="aligncenter  wp-image-6986" title="argument-jan-steen-painting1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/06/argument-jan-steen-painting1.jpg" alt="" width="512" height="365" /></a>
 </p>
 
 <p style="text-align: center;">

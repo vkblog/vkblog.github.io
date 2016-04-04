@@ -4,7 +4,7 @@ title: Friday Links
 date: 2012-06-29T08:06:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7071
+guid: https://vkblog.github.io/?p=7071
 permalink: /2012/06/friday-links-96/
 categories:
   - Uncategorized

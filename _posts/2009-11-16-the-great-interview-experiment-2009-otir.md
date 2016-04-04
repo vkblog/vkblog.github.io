@@ -4,7 +4,7 @@ title: 'The Great Interview Experiment 2009: Otir!'
 date: 2009-11-16T07:11:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1683
+guid: https://vkblog.github.io/?p=1683
 permalink: /2009/11/the-great-interview-experiment-2009-otir/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/experiment21.jpg"><img class="size-full wp-image-1684 alignnone" title="experiment21" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/experiment21.jpg" alt="experiment21" width="396" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/experiment21.jpg"><img class="size-full wp-image-1684 alignnone" title="experiment21" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/experiment21.jpg" alt="experiment21" width="396" height="500" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -30,7 +30,7 @@ tags:
   <p style="text-align: center;">
     <p style="text-align: center;">
       <div id="attachment_1687" style="width: 310px" class="wp-caption aligncenter">
-        <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/otir.jpg"><img class="size-full wp-image-1687" title="otir" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/otir.jpg" alt="un sourire fabuleux!" width="300" height="300" /></a>
+        <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/otir.jpg"><img class="size-full wp-image-1687" title="otir" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/otir.jpg" alt="un sourire fabuleux!" width="300" height="300" /></a>
         
         <p class="wp-caption-text">
           un sourire fabuleux!
@@ -69,7 +69,7 @@ tags:
         </p>
         
         <p>
-          I certainly could go on and on with the topic, but since I am writing it in English I am too aware of the possible attention span of my readers <img src="http://blog.vickiboykis.com/wlb/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> and don&#8217;t want to lose them on the first question!</div> 
+          I certainly could go on and on with the topic, but since I am writing it in English I am too aware of the possible attention span of my readers <img src="https://vkblog.github.io/wp-includes/images/smilies/simple-smile.png" alt=":-)" class="wp-smiley" style="height: 1em; max-height: 1em;" /> and don&#8217;t want to lose them on the first question!</div> 
           
           <div style="text-align: left;">
             <blockquote style="border-left: 1px solid #cccccc; margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">

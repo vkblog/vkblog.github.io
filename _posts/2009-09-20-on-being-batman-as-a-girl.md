@@ -4,7 +4,7 @@ title: On being Batman as a girl
 date: 2009-09-20T22:15:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1269
+guid: https://vkblog.github.io/?p=1269
 permalink: /2009/09/on-being-batman-as-a-girl/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - identity
   - Luke Skywalker
 ---
-[<img class="aligncenter size-full wp-image-1279" title="1024LukeSkywalkerXwing" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/1024LukeSkywalkerXwing.jpg" alt="1024LukeSkywalkerXwing" width="528" height="410" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/1024LukeSkywalkerXwing.jpg)
+[<img class="aligncenter size-full wp-image-1279" title="1024LukeSkywalkerXwing" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/1024LukeSkywalkerXwing.jpg" alt="1024LukeSkywalkerXwing" width="528" height="410" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/1024LukeSkywalkerXwing.jpg)
 
 When I was 6 and we&#8217;d just immigrated to America, I started watching the Batman cartoon, thus validating the entire reason my parents left behind their friends, family, culture, and whole way of life to move across the world and provide for me a climate in which I could be free economically, politically, and watch the animated antics of Batman and Robin.
 

@@ -4,7 +4,7 @@ title: What do you want to see in a President?
 date: 2011-09-07T21:33:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5704
+guid: https://vkblog.github.io/?p=5704
 permalink: /2011/09/what-do-you-want-to-see-in-a-president/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ Something I think about a lot is what it takes to be a good manager, what kinds 
 
 Which is why I did not watch the Republican debate last night.
 
-[<img class="aligncenter size-full wp-image-5705" title="Screen shot 2011-09-07 at 9.17.36 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/Screen-shot-2011-09-07-at-9.17.36-PM.png" alt="" width="551" height="106" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/09/Screen-shot-2011-09-07-at-9.17.36-PM.png)
+[<img class="aligncenter size-full wp-image-5705" title="Screen shot 2011-09-07 at 9.17.36 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/09/Screen-shot-2011-09-07-at-9.17.36-PM.png" alt="" width="551" height="106" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/09/Screen-shot-2011-09-07-at-9.17.36-PM.png)
 
 Everyone who has run for President of the U.S.  over the past, I&#8217;d say, 30 years, has been ridiculously underqualified.  Not that I&#8217;m a presidential historian, but it seems to me you do not need to be a lawyer to be president.  Or even a governor.  Here are the qualifications I think a president should have (note: I say he/his, but I mean any candidate.  I just hate that bullshit his/her thing you have to do to be pc these days.)
 

@@ -4,7 +4,7 @@ title: 'What&#8217;s worse than being cold?  Being cold in Canada.'
 date: 2010-02-01T20:00:27+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2257
+guid: https://vkblog.github.io/?p=2257
 permalink: /2010/02/whats-worse-than-being-cold-being-cold-in-canada/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - The Prairies
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/saskatchewan-plains.jpg"><img class="aligncenter size-full wp-image-2259" title="saskatchewan-plains" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/saskatchewan-plains.jpg" alt="" width="560" height="376" /></a><a href="http://www.canpages.ca/blog/?p=459">Source. </a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/saskatchewan-plains.jpg"><img class="aligncenter size-full wp-image-2259" title="saskatchewan-plains" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/saskatchewan-plains.jpg" alt="" width="560" height="376" /></a><a href="http://www.canpages.ca/blog/?p=459">Source. </a>
 </p>
 
 It&#8217;s cold.  Really cold.  And it snowed.  This makes my morning routine even more miserable.  But you know what&#8217;s more miserable than a DC-area morning commute?  Living in the Praries of Canada in the last century, [as described in this really interesting article](http://www.thesmartset.com/article/article01211001.aspx)

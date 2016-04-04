@@ -4,7 +4,7 @@ title: China and Russia Face Each Other on the Banks of the Amur River
 date: 2009-12-30T13:10:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2011
+guid: https://vkblog.github.io/?p=2011
 permalink: /2009/12/china-and-russia-face-each-other/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
 I came across [I came across](http://www.slate.com/id/2239793/entry/2239796/) yesterday, which details the relations between Russia and at [Blagoveschensk](http://en.wikipedia.org/wiki/Blagoveshchensk) in Siberia and [Heihe](http://en.wikipedia.org/wiki/Heihe) in China, across the Amur river.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/blagoveschensk.jpg"><img class="aligncenter size-full wp-image-2013" title="blagoveschensk" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/blagoveschensk.jpg" alt="blagoveschensk" width="500" height="333" /></a> <a href="http://www.tripwolf.com/en/galleries/media/ext/3029551/Blagoveschensk/Russia/Blagoveschensk?n=1"> </a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/blagoveschensk.jpg"><img class="aligncenter size-full wp-image-2013" title="blagoveschensk" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/blagoveschensk.jpg" alt="blagoveschensk" width="500" height="333" /></a> <a href="http://www.tripwolf.com/en/galleries/media/ext/3029551/Blagoveschensk/Russia/Blagoveschensk?n=1"> </a>
 </p>
 
 <p style="text-align: center;">
@@ -41,7 +41,7 @@ And, the hostility of the Russians with regards to growth:
 > In one telling episode, in 2007, in an apparent attempt to play up its Russian connection and appeal to tourists, Heihe placed garbage cans that were designed to look like Russian _matryoshka_ dolls around the city. Some excessively sensitive Russians saw this as an insult—Russian culture was trash. The mini-scandal made national TV news in Russia, and the Russian Ministry of Foreign Affairs protested.
 > 
 > <p style="text-align: center;">
->   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/heihe.jpg"><img class="aligncenter size-full wp-image-2015" title="heihe" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/heihe.jpg" alt="heihe" width="550" height="345" /></a><a href="http://www.flickr.com/photos/metkere/1359339619/"></a>
+>   <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/heihe.jpg"><img class="aligncenter size-full wp-image-2015" title="heihe" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/heihe.jpg" alt="heihe" width="550" height="345" /></a><a href="http://www.flickr.com/photos/metkere/1359339619/"></a>
 > </p>
 > 
 > <p style="text-align: center;">
@@ -58,6 +58,6 @@ What&#8217;s MOST interesting is that China also h[as a border dispute with its 
 
 Related on the Blog:
 
-[BRIC-A-BRAC: China Messes with National Stats](http://blog.vickiboykis.com/wlb/2009/07/01/bric-a-brac-china-messes-with-national-stats/)
+[BRIC-A-BRAC: China Messes with National Stats](https://vkblog.github.io/2009/07/01/bric-a-brac-china-messes-with-national-stats/)
   
-[Russian President Medvedev, it&#8217;s like you&#8217;re trying to fail on purpose by cutting down on beer](http://blog.vickiboykis.com/wlb/2009/10/19/russia-tries-to-cut-down-on-alcohol/)
+[Russian President Medvedev, it&#8217;s like you&#8217;re trying to fail on purpose by cutting down on beer](https://vkblog.github.io/2009/10/19/russia-tries-to-cut-down-on-alcohol/)

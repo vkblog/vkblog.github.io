@@ -4,7 +4,7 @@ title: I have no girl skills
 date: 2012-08-02T10:01:56+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7278
+guid: https://vkblog.github.io/?p=7278
 permalink: /2012/08/i-have-no-girl-skills/
 categories:
   - Uncategorized
@@ -18,12 +18,12 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Woman-before-the-Mirror.jpeg"><img class="aligncenter  wp-image-7282" title="Woman-before-the-Mirror" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/Woman-before-the-Mirror.jpeg" alt="" width="388" height="519" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/Woman-before-the-Mirror.jpeg"><img class="aligncenter  wp-image-7282" title="Woman-before-the-Mirror" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/Woman-before-the-Mirror.jpeg" alt="" width="388" height="519" /></a>
 </p>
 
 For my upcoming birthday, I contemplated getting myself some perfume because I am out of whatever it is I bought a couple years ago. That makes me sound all mysterious and in-the-know, but what I really bought is this <a href="http://www.victoriassecret.com/beauty/mists/fragrance-mist-victorias-secret-pink?ProductID=4852&CatalogueType=OLS" target="_blank">Pink stuff from Victoria&#8217;s Secret</a> that&#8217;s not even technically a perfume but a spray.  It&#8217;s really embarrassing.  I don&#8217;t even want to show you because it screams fourth-grade gym class.  Ok, here it is.
 
-[<img class="aligncenter size-full wp-image-7281" title="IMG_20120802_073646" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073646.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073646.jpeg)
+[<img class="aligncenter size-full wp-image-7281" title="IMG_20120802_073646" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_073646.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_073646.jpeg)
 
 &nbsp;
 
@@ -43,19 +43,19 @@ I never wear makeup except special occasions because it takes too long to put on
 
 This is my daily facial care routine.
 
-[<img class="aligncenter size-full wp-image-7279" title="IMG_20120802_073659" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073659.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073659.jpeg)
+[<img class="aligncenter size-full wp-image-7279" title="IMG_20120802_073659" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_073659.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_073659.jpeg)
 
 &nbsp;
 
 This is literally what&#8217;s in my purse right now.  My writing notebook, my research book, paint swatches for the guest bedroom, extra pens, my wallet, and chapstick that I never use.
 
-[<img class="aligncenter size-full wp-image-7283" title="IMG_20120802_073614" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073614.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_073614.jpeg)
+[<img class="aligncenter size-full wp-image-7283" title="IMG_20120802_073614" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_073614.jpeg" alt="" width="291" height="388" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_073614.jpeg)
 
 &nbsp;
 
 I have no idea how to style my hair correctly to make it look sleek.  I just know that it&#8217;s thick and frizzy and I need it out of the way as much as possible for work while still looking semi-human. I have no patience for a haircare routine that&#8217;s more than brushing and putting in a ponytail. A couple weeks ago, a friend introduced me to the <a href="http://www.ulta.com/ulta/browse/productDetail.jsp?productId=xlsImpprod4060123" target="_blank">Chi straightener</a>, which is the best thing ever for frizzy hair and makes you look d glamorous, but I&#8217;m too lazy to use it in the mornings, because honestly, it takes 5 minutes to warm up and then you have to use it for 10 minutes and I could just be writing a blog post instead.
 
-Picking out clothes for my shape?  <a href="http://blog.vickiboykis.com/wlb/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">Forget it</a>. I am just godawful and I have no patience for online shopping or real stores.
+Picking out clothes for my shape?  <a href="https://vkblog.github.io/2010/09/please-help-me-look-less-like-gaga-and-more-like-coco/" target="_blank">Forget it</a>. I am just godawful and I have no patience for online shopping or real stores.
 
 I am terrible at all of this stuff, and more. I&#8217;m not proud of it.  Somewhere along the way, I missed some basic lessons on how to be a woman correctly and every time I see someone apply makeup with expertise, I can only gape at them the way illiterate people must look at readers; they posses a kind of magic that they own for themselves.
 
@@ -68,7 +68,7 @@ Creepy books about gualgs n&#8217;stuff.
 AWWW YEAH.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_081627.jpg"><img class="aligncenter  wp-image-7285" title="IMG_20120802_081627" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/08/IMG_20120802_081627.jpg" alt="" width="411" height="308" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_081627.jpg"><img class="aligncenter  wp-image-7285" title="IMG_20120802_081627" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/08/IMG_20120802_081627.jpg" alt="" width="411" height="308" /></a>
 </p>
 
 &nbsp;

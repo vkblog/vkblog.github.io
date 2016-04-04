@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-05-21T07:25:28+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2983
+guid: https://vkblog.github.io/?p=2983
 permalink: /2010/05/friday-links-13/
 categories:
   - fridaylinks
@@ -13,10 +13,10 @@ tags:
   - Friday
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
 </p>
 
-This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](http://blog.vickiboykis.com/wlb/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
+This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](https://vkblog.github.io/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
 
 For instance, my mom gets up to go running or biking at 6:00 am on weekends, which my aunt can&#8217;t fathom, because the only people who run outside in Yaroslavl are lunatics.  Also, she can&#8217;t believe that squirrels exist freely in the wild (our backyard) because there are no small animals in Yaroslavl, seeing as to how they have all been killed by alcoholics or chased away by pollution.  Ah, Russia.
 
@@ -24,10 +24,10 @@ For instance, my mom gets up to go running or biking at 6:00 am on weekends, whi
 
   1. Brianne explains [why kids should  be dirty](http://www.briannevillano.com/2010/05/19/mudpies-and-microbes/)
   2. Susie writes about [<p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
 </p>
 
-This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](http://blog.vickiboykis.com/wlb/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
+This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](https://vkblog.github.io/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
 
 For instance, my mom gets up to go running or biking at 6:00 am on weekends, which my aunt can&#8217;t fathom, because the only people who run outside in Yaroslavl are lunatics.  Also, she can&#8217;t believe that squirrels exist freely in the wild (our backyard) because there are no small animals in Yaroslavl, seeing as to how they have all been killed by alcoholics or chased away by pollution.  Ah, Russia.
 
@@ -47,10 +47,10 @@ For instance, my mom gets up to go running or biking at 6:00 am on weekends, whi
   4. [Writing in English](http://bostonreview.net/BR35.3/scharf.php) in India
   5. [Some ladies](http://www.thedailybeast.com/blogs-and-stories/2010-05-17/showdown-at-the-mosque/?cid=hp:beastoriginalsR2) are crazy/brave
   6. File this one [under bad ideas](http://www.post-gazette.com/pg/10135/1058363-53.stm).  Why?  [<p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
 </p>
 
-This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](http://blog.vickiboykis.com/wlb/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
+This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](https://vkblog.github.io/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
 
 For instance, my mom gets up to go running or biking at 6:00 am on weekends, which my aunt can&#8217;t fathom, because the only people who run outside in Yaroslavl are lunatics.  Also, she can&#8217;t believe that squirrels exist freely in the wild (our backyard) because there are no small animals in Yaroslavl, seeing as to how they have all been killed by alcoholics or chased away by pollution.  Ah, Russia.
 
@@ -58,10 +58,10 @@ For instance, my mom gets up to go running or biking at 6:00 am on weekends, whi
 
   1. Brianne explains [why kids should  be dirty](http://www.briannevillano.com/2010/05/19/mudpies-and-microbes/)
   2. Susie writes about [<p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg"><img class="aligncenter size-full wp-image-2988" title="Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png.jpeg" alt="" width="300" height="309" /></a>If food <a href="http://th03.deviantart.net/fs38/300W/f/2008/354/0/3/Kawaii_Chinese_Food_Takeout_by_A_Little_Kitty.png">looked like this</a>, I&#8217;d never eat again.
 </p>
 
-This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](http://blog.vickiboykis.com/wlb/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
+This weekend, my aunt is coming from Russia. I think she&#8217;s bringing lots of blogging fodder in her suitcase (and, I&#8217;m hoping, [dried mushrooms](https://vkblog.github.io/2009/05/18/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5-%D0%B3%D1%80%D0%B8%D0%B1%D1%8B-russian-mushrooms/)).   She lives in [Yaroslavl](http://en.wikipedia.org/wiki/Yaroslavl), which is a pretty small town, and the amount of culture shock she receives in America, even from my family, is insane.
 
 For instance, my mom gets up to go running or biking at 6:00 am on weekends, which my aunt can&#8217;t fathom, because the only people who run outside in Yaroslavl are lunatics.  Also, she can&#8217;t believe that squirrels exist freely in the wild (our backyard) because there are no small animals in Yaroslavl, seeing as to how they have all been killed by alcoholics or chased away by pollution.  Ah, Russia.
 

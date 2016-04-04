@@ -4,7 +4,7 @@ title: Being American
 date: 2013-06-13T18:56:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8756
+guid: https://vkblog.github.io/?p=8756
 permalink: /2013/06/being-american/
 categories:
   - government
@@ -18,7 +18,7 @@ tags:
   - PRISM
 ---
 <p style="text-align: center;">
-   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/IMG_20130121_071744.jpg"><img class="aligncenter  wp-image-8772" alt="IMG_20130121_071744" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/06/IMG_20130121_071744-580x435.jpg" width="487" height="366" /></a>
+   <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/06/IMG_20130121_071744.jpg"><img class="aligncenter  wp-image-8772" alt="IMG_20130121_071744" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/06/IMG_20130121_071744-580x435.jpg" width="487" height="366" /></a>
 </p>
 
 In spite of everything I write about my Russian and Jewish identities, there is a  piece of me that is wholly American. I can&#8217;t define what it means to be American entirely, because I only notice it when I&#8217;m not in America.  The last time was when we were in Italy a couple weeks ago.

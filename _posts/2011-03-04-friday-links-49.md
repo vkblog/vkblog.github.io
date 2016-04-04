@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-03-04T06:47:02+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4462
+guid: https://vkblog.github.io/?p=4462
 permalink: /2011/03/friday-links-49/
 categories:
   - fridaylinks
@@ -17,7 +17,7 @@ Here theyyyy arrre.
 [EXTRASPECIALBONUS PICTURE](http://www.amazon.com/Instructions-Adam-Levin/dp/1934781827). That thing is HUGE.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Photo-on-2011-02-15-at-06.16.jpg"><img class="aligncenter size-full wp-image-4468" title="Photo on 2011-02-15 at 06.16" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Photo-on-2011-02-15-at-06.16.jpg" alt="" width="640" height="400" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/Photo-on-2011-02-15-at-06.16.jpg"><img class="aligncenter size-full wp-image-4468" title="Photo on 2011-02-15 at 06.16" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/Photo-on-2011-02-15-at-06.16.jpg" alt="" width="640" height="400" /></a>
 </p>
 
   1. [I agree with this 110%.](http://utahtechjobs.com/2010/yes-your-resumes-file-name-does-matter.htm) I have been editing resumes for about 3 years now, did 3 this week, and this advice is correct.

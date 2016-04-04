@@ -4,7 +4,7 @@ title: The Clarinet and Muscle Memory
 date: 2009-12-06T20:49:20+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1836
+guid: https://vkblog.github.io/?p=1836
 permalink: /2009/12/the-clarinet-and-muscle-memory/
 categories:
   - Uncategorized
@@ -31,5 +31,5 @@ I found out that this concept is called [muscle memory](http://en.wikipedia.org/
 And here&#8217;s my horrible Photoshop for today:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Bad-Romance.jpg"><img class="aligncenter size-full wp-image-1837" title="Bad Romance" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/Bad-Romance.jpg" alt="Bad Romance" width="600" height="600" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/Bad-Romance.jpg"><img class="aligncenter size-full wp-image-1837" title="Bad Romance" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/Bad-Romance.jpg" alt="Bad Romance" width="600" height="600" /></a>
 </p>

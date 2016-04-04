@@ -4,7 +4,7 @@ title: 'The internet is making us stupid (or, I&#8217;m better than you because 
 date: 2012-01-24T07:52:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6323
+guid: https://vkblog.github.io/?p=6323
 permalink: /2012/01/the-internet-is-making-us-stupid-or-im-better-than-you-because-i-broke-my-phone/
 categories:
   - Uncategorized
@@ -19,11 +19,11 @@ tags:
 ---
 I&#8217;ve been living semi-technology free lately, but not by choice, and I think it&#8217;s making me smarter. But also more desperate. Let me paint a picture for you. (or Google image search, as the situation may be.)
 
-[<img class="aligncenter size-full wp-image-6355" title="thirsty" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/thirsty.jpg" alt="" width="284" height="423" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/thirsty.jpg)
+[<img class="aligncenter size-full wp-image-6355" title="thirsty" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/thirsty.jpg" alt="" width="284" height="423" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/thirsty.jpg)
 
 &nbsp;
 
-A couple weeks ago (12 days and counting), I <a href="http://blog.vickiboykis.com/wlb/2012/01/16/a-glimpse-into-the-edwardian-period/" target="_blank">sent in my brand-new cell phone in for repairs</a>. Since then, I&#8217;ve been unreachable before and after work, and on weekends. At the same time, we cancelled <a href="http://blog.vickiboykis.com/wlb/2011/10/17/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/" target="_blank">cable last week</a>.  And yesterday, we saw **The Artist**, which is <a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html" target="_blank">the new hotness</a> in cinema because it&#8217;s a silent movie; that is, no voice acting, only the soundtrack.
+A couple weeks ago (12 days and counting), I <a href="https://vkblog.github.io/2012/01/16/a-glimpse-into-the-edwardian-period/" target="_blank">sent in my brand-new cell phone in for repairs</a>. Since then, I&#8217;ve been unreachable before and after work, and on weekends. At the same time, we cancelled <a href="https://vkblog.github.io/2011/10/17/a-short-story-about-lazy-jewish-consumer-behavior-and-hbo/" target="_blank">cable last week</a>.  And yesterday, we saw **The Artist**, which is <a href="http://movies.nytimes.com/2011/11/25/movies/the-artist-by-michel-hazanavicius-review.html" target="_blank">the new hotness</a> in cinema because it&#8217;s a silent movie; that is, no voice acting, only the soundtrack.
 
 
 
@@ -33,11 +33,11 @@ For example, here&#8217;s my daily schedule with my cell phone:  wwake up to ce
 
 At work, I use my phone to check my tasks and also listen to music sometimes. After work, I listen to it again for music on the train, also checking Facebook and Twitter and email again. Then I use it to call my mom and other people after work. I go to sleep with it. If it&#8217;s a gym day, I record my workouts on my workout app and also listen to music in the gym on my phone.
 
-I&#8217;m constantly looking for <a href="http://blog.vickiboykis.com/wlb/2011/09/26/facebook-anxiety/" target="_blank">that hit:</a> the Facebook comment notification, the email update, the missed call. When I sent it in, all of that was gone.
+I&#8217;m constantly looking for <a href="https://vkblog.github.io/2011/09/26/facebook-anxiety/" target="_blank">that hit:</a> the Facebook comment notification, the email update, the missed call. When I sent it in, all of that was gone.
 
 It was really disconcerting  for the first couple hours.  However, it wasn&#8217;t necessarily a bad thing:
 
-[<img class="aligncenter size-full wp-image-6330" title="Screen shot 2012-01-22 at 7.29.12 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-22-at-7.29.12-PM.png" alt="" width="414" height="175" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/Screen-shot-2012-01-22-at-7.29.12-PM.png)
+[<img class="aligncenter size-full wp-image-6330" title="Screen shot 2012-01-22 at 7.29.12 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/Screen-shot-2012-01-22-at-7.29.12-PM.png" alt="" width="414" height="175" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/Screen-shot-2012-01-22-at-7.29.12-PM.png)
 
 The first week without phone was great.  Like before, I was constantly looking down at a pool full of koi, every five minutes,  noticing each ripple, and suddenly, I didn&#8217;t have to notice each time a fish swam by and take any action on it.  I could now instead look up at the clear blue sky without interruption.  During that time, I felt more relaxed. No Facebook, no Twitter, no Pinterest (by the way, can I interest you in my <a href="http://pinterest.com/veeko/sexy-men-of-history/" target="_blank">Sexy Men of History board?</a>,) no Goodreads, no anything that you can do for a couple minutes at a time while waiting for a train, waiting for the elevator, or waiting for a meeting.  My mind was free!  Free to think the great thoughts that Concerned Citizen Nicholas Carr says we&#8217;re not thinking as a result of being in the shallows!  Free to be the writer I&#8217;ve always wanted to be!
 
@@ -53,4 +53,4 @@ So, where&#8217;s the middle between not enough and too much?   Between silent 
 
 If you&#8217;d like to leave a comment, I only accept them analog-ly  now:
 
-[<img class="aligncenter size-full wp-image-6356" title="stagecoach" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/stagecoach.jpg" alt="" width="480" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/01/stagecoach.jpg)
+[<img class="aligncenter size-full wp-image-6356" title="stagecoach" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/stagecoach.jpg" alt="" width="480" height="300" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/01/stagecoach.jpg)

@@ -4,7 +4,7 @@ title: How to really test the limits of your marriage
 date: 2012-04-17T07:18:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6702
+guid: https://vkblog.github.io/?p=6702
 permalink: /2012/04/how-to-really-test-the-limits-of-your-marriage/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png"><img class="aligncenter size-full wp-image-6723" title="Screen shot 2012-04-16 at 11.22.32 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png" alt="" width="507" height="447" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png"><img class="aligncenter size-full wp-image-6723" title="Screen shot 2012-04-16 at 11.22.32 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Screen-shot-2012-04-16-at-11.22.32-PM.png" alt="" width="507" height="447" /></a>
 </p>
 
 &nbsp;
@@ -48,7 +48,7 @@ But somewhere in the middle of month two, he cracked.
 
 &#8220;No one in the history of anything has EVER pushed code to Loch Lomond,&#8221; said Mr. B and sadly left the room.
 
-Between the playlist, the neglect of the house, <a href="http://blog.vickiboykis.com/wlb/2012/04/sad-fridge-is-sad/" target="_blank">the empty refrigerator</a>, and the piles of teacups and manuscripts everywhere, I&#8217;m actually not sure I&#8217;m even married anymore. Even if I was, I can&#8217;t find Mr. B. I think  the huge tumbleweeds gently rolling through our living room ate him.
+Between the playlist, the neglect of the house, <a href="https://vkblog.github.io/2012/04/sad-fridge-is-sad/" target="_blank">the empty refrigerator</a>, and the piles of teacups and manuscripts everywhere, I&#8217;m actually not sure I&#8217;m even married anymore. Even if I was, I can&#8217;t find Mr. B. I think  the huge tumbleweeds gently rolling through our living room ate him.
 
 Now that I&#8217;m slowly clawing my way back to reality, maybe I should check.
 

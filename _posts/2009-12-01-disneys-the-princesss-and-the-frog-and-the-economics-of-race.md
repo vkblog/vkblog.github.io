@@ -4,7 +4,7 @@ title: 'Disney&#8217;s The Princess and the Frog and the Economics of Race'
 date: 2009-12-01T20:52:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1784
+guid: https://vkblog.github.io/?p=1784
 permalink: /2009/12/disneys-the-princesss-and-the-frog-and-the-economics-of-race/
 categories:
   - Uncategorized
@@ -16,13 +16,13 @@ tags:
   - race
   - The Frog Princess
 ---
-I don&#8217;t know if you&#8217;ve heard, but Disney has a new animated cartoon coming out in theaters on December 11.  It&#8217;s called [The Princess and the Frog](http://en.wikipedia.org/wiki/The_Princess_and_the_Frog), and I am super-excited about it, as is anyone who has been baptized in the cult of Disney since their early years.  Evidence?  See [here](http://blog.vickiboykis.com/wlb/2009/10/13/russian-letziyon-aladdin-and-jasmine/).  And [here](http://blog.vickiboykis.com/wlb/2009/06/23/the-kids-arent-alright/). And [here](http://blog.vickiboykis.com/wlb/2009/01/30/crying-unabashedly-during-disney-movies/). And [here](http://blog.vickiboykis.com/wlb/2009/11/27/comic-black-friday/).
+I don&#8217;t know if you&#8217;ve heard, but Disney has a new animated cartoon coming out in theaters on December 11.  It&#8217;s called [The Princess and the Frog](http://en.wikipedia.org/wiki/The_Princess_and_the_Frog), and I am super-excited about it, as is anyone who has been baptized in the cult of Disney since their early years.  Evidence?  See [here](https://vkblog.github.io/2009/10/13/russian-letziyon-aladdin-and-jasmine/).  And [here](https://vkblog.github.io/2009/06/23/the-kids-arent-alright/). And [here](https://vkblog.github.io/2009/01/30/crying-unabashedly-during-disney-movies/). And [here](https://vkblog.github.io/2009/11/27/comic-black-friday/).
 
 The stills [that I oggled](http://www.imdb.com/title/tt0780521/mediaindex) look gorgeous:
 
-[<img class="aligncenter size-full wp-image-1785" title="the princess and frog_" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/the-princess-and-frog_.jpg" alt="the princess and frog_" width="498" height="262" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/the-princess-and-frog_.jpg)
+[<img class="aligncenter size-full wp-image-1785" title="the princess and frog_" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/the-princess-and-frog_.jpg" alt="the princess and frog_" width="498" height="262" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/the-princess-and-frog_.jpg)
 
-[<img class="aligncenter size-full wp-image-1786" title="princess frog_" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/princess-frog_.jpg" alt="princess frog_" width="480" height="252" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/princess-frog_.jpg)
+[<img class="aligncenter size-full wp-image-1786" title="princess frog_" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/princess-frog_.jpg" alt="princess frog_" width="480" height="252" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/princess-frog_.jpg)
 
 And the trailer looks exciting:
   

@@ -4,7 +4,7 @@ title: 'Poem: Autumn'
 date: 2009-09-27T07:45:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1321
+guid: https://vkblog.github.io/?p=1321
 permalink: /2009/09/poem-autumn/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
 It feels like fall here.  It&#8217;s rainy and quiet out on the balcony.  I was inspired. The result is this poem that sounds like it could have been written by a 3-year old doped up on prescription medications.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/fall-Rain.jpg"><img class="aligncenter size-full wp-image-1322" title="fall Rain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/fall-Rain.jpg" alt="fall Rain" width="500" height="375" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/fall-Rain.jpg"><img class="aligncenter size-full wp-image-1322" title="fall Rain" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/fall-Rain.jpg" alt="fall Rain" width="500" height="375" /></a>
 </p>
 
 <p style="text-align: center;">

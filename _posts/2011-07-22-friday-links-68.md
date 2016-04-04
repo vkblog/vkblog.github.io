@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-07-22T10:28:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5344
+guid: https://vkblog.github.io/?p=5344
 permalink: /2011/07/friday-links-68/
 categories:
   - fridaylinks
@@ -15,11 +15,11 @@ tags:
 I took a picture on my way to work today:
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg"><img class="aligncenter size-full wp-image-5346" title="Sahara_Typical-Sahara-landscape_2484" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg" alt="" width="480" height="360" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg"><img class="aligncenter size-full wp-image-5346" title="Sahara_Typical-Sahara-landscape_2484" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Sahara_Typical-Sahara-landscape_2484.jpg" alt="" width="480" height="360" /></a>
 </p>
 
 <p style="text-align: left;">
-  Also, what did we learn this week?  &#8220;<a href="http://blog.vickiboykis.com/wlb/2011/07/21/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/comment-page-1/#comment-3525" target="_blank">Don&#8217;t be afraid to go for the eyes or the balls</a>&#8220;
+  Also, what did we learn this week?  &#8220;<a href="https://vkblog.github.io/2011/07/21/how-loud-can-you-scream-thanks-to-either-nature-or-nurture-i-found-out-yesterday/comment-page-1/#comment-3525" target="_blank">Don&#8217;t be afraid to go for the eyes or the balls</a>&#8220;
 </p>
 
 <p style="text-align: left;">

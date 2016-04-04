@@ -4,7 +4,7 @@ title: Pushing to production
 date: 2014-12-15T12:56:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9880
+guid: https://vkblog.github.io/?p=9880
 permalink: /2014/12/pushing-to-production/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="aligncenter  wp-image-9881" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/Screenshot_2014-12-15-09-57-06-580x1031.png" alt="Screenshot_2014-12-15-09-57-06" width="333" height="592" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/12/Screenshot_2014-12-15-09-57-06.png)
+[<img class="aligncenter  wp-image-9881" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/12/Screenshot_2014-12-15-09-57-06-580x1031.png" alt="Screenshot_2014-12-15-09-57-06" width="333" height="592" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/12/Screenshot_2014-12-15-09-57-06.png)
 
 In the IT world, large software development projects happen in stages. The first stage is a blueprint, sketched out hastily on  a whiteboard. The second stage is in development, where developers actually write the code. The third stage is integration, where the new, fresh code is blended into existing, working code to make sure there are no compatibility issues.  In integration, code can break, compatibility can break, and whole parts of software functions can be rewritten without consequence. It&#8217;s not code in the real world. It&#8217;s still on the scratch pad. The third stage is QA, quality assurance, where the software is tested even more rigorously to make sure it doesn&#8217;t break anything and that it works as it should with all the other systems the company has.
 

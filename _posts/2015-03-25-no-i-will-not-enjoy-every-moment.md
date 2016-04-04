@@ -5,7 +5,7 @@ date: 2015-03-25T07:24:12+00:00
 author: Vicki
 excerpt: '"Enjoy every moment!" Nope. I refuse. '
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9925
+guid: https://vkblog.github.io/?p=9925
 permalink: /2015/03/no-i-will-not-enjoy-every-moment/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
   - mandala
 ---
 <div>
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/03/ustv-house-of-cards-s03-e07-2.jpg"><img class="aligncenter size-medium wp-image-9926" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2015/03/ustv-house-of-cards-s03-e07-2-580x342.jpg" alt="ustv-house-of-cards-s03-e07-2" width="580" height="342" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/03/ustv-house-of-cards-s03-e07-2.jpg"><img class="aligncenter size-medium wp-image-9926" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2015/03/ustv-house-of-cards-s03-e07-2-580x342.jpg" alt="ustv-house-of-cards-s03-e07-2" width="580" height="342" /></a>
 </div>
 
 When your baby is born, people will tell you “enjoy every moment.” This has always irritated me, but I couldn&#8217;t figure out why.  Something I saw recently helped me understand why this phrase has always bothered me so much. 

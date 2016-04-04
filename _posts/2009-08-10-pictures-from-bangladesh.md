@@ -4,7 +4,7 @@ title: Pictures from Bangladesh
 date: 2009-08-10T00:00:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=991
+guid: https://vkblog.github.io/?p=991
 permalink: /2009/08/pictures-from-bangladesh/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
   - random
   - writing
 ---
-[<img class="aligncenter size-full wp-image-994" title="6572_803052628980_4919780_49985887_6144342_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/6572_803052628980_4919780_49985887_6144342_n.jpg" alt="6572_803052628980_4919780_49985887_6144342_n" width="456" height="304" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/6572_803052628980_4919780_49985887_6144342_n.jpg)
+[<img class="aligncenter size-full wp-image-994" title="6572_803052628980_4919780_49985887_6144342_n" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/6572_803052628980_4919780_49985887_6144342_n.jpg" alt="6572_803052628980_4919780_49985887_6144342_n" width="456" height="304" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/6572_803052628980_4919780_49985887_6144342_n.jpg)
 
 I have a friend named Shehzeen who is Bangladeshi, who I met through another Bangladeshi friend. Because, once you have one Bangladeshi friend,  you have at least five or six.
 
@@ -32,20 +32,20 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
 
 **On the way to her native town of [Sylhet](http://en.wikipedia.org/wiki/Sylhet), Bangladesh:**
 
-[](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/rick.jpg)[<img class="aligncenter size-full wp-image-997" title="rick2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/rick2.jpg" alt="rick2" width="433" height="288" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/rick2.jpg)
+[](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/rick.jpg)[<img class="aligncenter size-full wp-image-997" title="rick2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/rick2.jpg" alt="rick2" width="433" height="288" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/rick2.jpg)
 
 **After a rain in [Dhaka](http://en.wikipedia.org/wiki/Dhaka):**
 
-[<img class="aligncenter size-full wp-image-998" title="blood" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/blood.jpg" alt="blood" width="484" height="322" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/blood.jpg)
+[<img class="aligncenter size-full wp-image-998" title="blood" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/blood.jpg" alt="blood" width="484" height="322" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/blood.jpg)
 
 **In the water:**
 
-[<img class="aligncenter size-full wp-image-1012" title="water" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/water.jpg" alt="water" width="489" height="326" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/water.jpg)
+[<img class="aligncenter size-full wp-image-1012" title="water" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/water.jpg" alt="water" width="489" height="326" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/water.jpg)
 
 **On the way to Gulistan, Dhaka:**
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/baby.jpg"><img class="size-full wp-image-1000 aligncenter" title="baby" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/baby.jpg" alt="baby" width="485" height="323" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/baby.jpg"><img class="size-full wp-image-1000 aligncenter" title="baby" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/baby.jpg" alt="baby" width="485" height="323" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -53,7 +53,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/bangjpg.jpg"><img class="aligncenter size-full wp-image-1002" title="bangjpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/bangjpg.jpg" alt="bangjpg" width="471" height="314" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/bangjpg.jpg"><img class="aligncenter size-full wp-image-1002" title="bangjpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/bangjpg.jpg" alt="bangjpg" width="471" height="314" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -61,7 +61,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/photos.jpg"><img class="aligncenter size-full wp-image-1004" title="photos" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/photos.jpg" alt="photos" width="500" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/photos.jpg"><img class="aligncenter size-full wp-image-1004" title="photos" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/photos.jpg" alt="photos" width="500" height="333" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -69,7 +69,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/mosque.jpg"><img class="aligncenter size-full wp-image-1035" title="mosque" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/mosque.jpg" alt="mosque" width="471" height="314" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/mosque.jpg"><img class="aligncenter size-full wp-image-1035" title="mosque" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/mosque.jpg" alt="mosque" width="471" height="314" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -77,7 +77,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/fields.jpg"><img class="aligncenter size-full wp-image-1006" title="fields" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/fields.jpg" alt="fields" width="489" height="326" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/fields.jpg"><img class="aligncenter size-full wp-image-1006" title="fields" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/fields.jpg" alt="fields" width="489" height="326" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -86,7 +86,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
   </p>
   
   <p style="text-align: left;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/bangla.jpg"><img class="aligncenter size-full wp-image-1013" title="bangla" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/bangla.jpg" alt="bangla" width="431" height="287" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/bangla.jpg"><img class="aligncenter size-full wp-image-1013" title="bangla" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/bangla.jpg" alt="bangla" width="431" height="287" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -94,7 +94,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
   </p>
   
   <p style="text-align: left;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/6572_803980075370_4919780_50021619_1880127_n.jpg"><img class="aligncenter size-full wp-image-1034" title="6572_803980075370_4919780_50021619_1880127_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/6572_803980075370_4919780_50021619_1880127_n.jpg" alt="6572_803980075370_4919780_50021619_1880127_n" width="486" height="324" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/6572_803980075370_4919780_50021619_1880127_n.jpg"><img class="aligncenter size-full wp-image-1034" title="6572_803980075370_4919780_50021619_1880127_n" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/6572_803980075370_4919780_50021619_1880127_n.jpg" alt="6572_803980075370_4919780_50021619_1880127_n" width="486" height="324" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -102,7 +102,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
   </p>
   
   <p style="text-align: left;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/above.jpg"><img class="aligncenter size-full wp-image-1036" title="above" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/above.jpg" alt="above" width="531" height="355" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/above.jpg"><img class="aligncenter size-full wp-image-1036" title="above" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/above.jpg" alt="above" width="531" height="355" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -111,7 +111,7 @@ Shehzeen, if you don&#8217;t write a book after lounging around and taking these
     </p>
     
     <p style="text-align: left;">
-      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/shehz.jpg"><img class="aligncenter size-full wp-image-1008" title="shehz" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/shehz.jpg" alt="shehz" width="403" height="604" /></a>
+      <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/shehz.jpg"><img class="aligncenter size-full wp-image-1008" title="shehz" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/shehz.jpg" alt="shehz" width="403" height="604" /></a>
     </p>
     
     <p style="text-align: left;">

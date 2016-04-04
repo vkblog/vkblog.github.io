@@ -4,7 +4,7 @@ title: 'Book Review: The Magicians by Lev Grossman'
 date: 2011-08-29T22:29:21+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5664
+guid: https://vkblog.github.io/?p=5664
 permalink: /2011/08/book-review-the-magicians-by-lev-grossman/
 categories:
   - books
@@ -20,7 +20,7 @@ My life has been pretty chaotic lately. New job, new school, new house, and, tha
 However, when I started reading <a href="http://www.amazon.com/Magicians-Novel-Lev-Grossman/dp/0670020559" target="_blank">The Magicians</a> last week, I could feel the chaos melting away and I knew right away this book and its sequel, <a href="http://www.amazon.com/gp/product/0670022314/ref=pd_lpo_k2_dp_sr_2?pf_rd_p=486539851&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=0670020559&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=1RVG0FJV1BK9XT0J00JH" target="_blank">The Magician King</a>, were going on my list of favorite books.
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Cover_TheMagicians.jpg"><img class="aligncenter size-full wp-image-5665" title="Cover_TheMagicians" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/08/Cover_TheMagicians.jpg" alt="" width="319" height="489" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Cover_TheMagicians.jpg"><img class="aligncenter size-full wp-image-5665" title="Cover_TheMagicians" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/08/Cover_TheMagicians.jpg" alt="" width="319" height="489" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -28,7 +28,7 @@ However, when I started reading <a href="http://www.amazon.com/Magicians-Novel-L
 </p>
 
 <p style="text-align: left;">
-  But then I got Kindle for <a href="http://blog.vickiboykis.com/wlb/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">iPad</a>, The Magician King came out, and I thought it was time to give it a shot.
+  But then I got Kindle for <a href="https://vkblog.github.io/2011/08/02/the-great-news-im-getting-an-ipad-the-terrible-news-im-getting-an-ipad/" target="_blank">iPad</a>, The Magician King came out, and I thought it was time to give it a shot.
 </p>
 
 <p style="text-align: left;">

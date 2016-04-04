@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-03-11T08:23:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4485
+guid: https://vkblog.github.io/?p=4485
 permalink: /2011/03/friday-links-50/
 categories:
   - fridaylinks
@@ -17,7 +17,7 @@ Another week, another accidental drive through [the most depressing](http://en.w
 
 P.S. I am trying out having links open in a new window. Is it irritating or funsies?
 
-[<img class="aligncenter size-full wp-image-4545" title="wpid-IMAG0675.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0675.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/wpid-IMAG0675.jpg)
+[<img class="aligncenter size-full wp-image-4545" title="wpid-IMAG0675.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/wpid-IMAG0675.jpg" alt="" width="500" height="300" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/wpid-IMAG0675.jpg)
 
 **Links:**
 

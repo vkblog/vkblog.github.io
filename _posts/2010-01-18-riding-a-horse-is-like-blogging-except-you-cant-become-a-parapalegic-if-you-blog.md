@@ -4,7 +4,7 @@ title: 'Riding a horse is like blogging, except you can&#8217;t become a parapal
 date: 2010-01-18T21:59:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2122
+guid: https://vkblog.github.io/?p=2122
 permalink: /2010/01/riding-a-horse-is-like-blogging-except-you-cant-become-a-parapalegic-if-you-blog/
 categories:
   - Uncategorized
@@ -19,15 +19,15 @@ tags:
 ---
 This Saturday, when the weather decided to become more clement (see chart of weather clement-ness below,) Mr. B and I went horseback riding in Virginia.  My friend Christina is an avid rider and in the process of purchasing a horse, and she wanted to go see it this weekend, so I asked if we could tag along.
 
-[<img class="aligncenter size-full wp-image-2123" title="Weather" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Weather.png" alt="" width="492" height="436" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Weather.png)
+[<img class="aligncenter size-full wp-image-2123" title="Weather" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Weather.png" alt="" width="492" height="436" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Weather.png)
 
 We&#8217;d been riding before, once in the Golan Heights at [Vered HaGalil](http://www.veredhagalil.com/) and once in Bucks County, Pennsylvania, and we liked it a lot, so we were really excited to go to [JAS Stables](http://www.jasstables.com/JAS_Stables/Home.html) where we actually got to learn how to brush horses and do horse-related things like try to feed them candy which they love, unless apparently they are being fed by one of us.
 
-[<img class="aligncenter size-full wp-image-2133" title="Picture 3" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-3.png" alt="" width="664" height="501" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-3.png)
+[<img class="aligncenter size-full wp-image-2133" title="Picture 3" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-3.png" alt="" width="664" height="501" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-3.png)
 
 However, for some reason, I had a sense of foreboding that would, I thought, lead to imminent death, mostly because I was afraid I&#8217;d end up like Christopher Reeve.
 
-[<img class="aligncenter size-full wp-image-2132" title="horsie" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/horsie.jpg" alt="" width="604" height="339" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/horsie.jpg)
+[<img class="aligncenter size-full wp-image-2132" title="horsie" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/horsie.jpg" alt="" width="604" height="339" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/horsie.jpg)
 
 Even though Jon, one of the owners of the stables, is awesome and extremely safety-conscious, I am always paranoid in that I, like [Shalom Auslander](http://en.wikipedia.org/wiki/Shalom_Auslander), think God is trying to kill me just when I am happy and mostly unawares.  This is why I never go to weddings where there is lots of alcohol.  Based on this fact, Mr. B and I had the following 20-minute conversation before AND after we went:
 
@@ -59,8 +59,8 @@ Trotting is insanely hard if you&#8217;ve never done it before because you can&#
 
 And as I was holding on for dear life and bracing myself for a fall on my spinal cord, I started to get the hang of it.  If  I just made sure to feel Hoover&#8217;s movements and adjust to them, I could get into a kind of steady rhythm.  He trusted me, and I trusted him.
 
-And, in a way, that&#8217;s how I think blogging is, too.  You don&#8217;t always have the rhythm.  Sometimes you&#8217;re on, sometimes you&#8217;re off.  Sometimes I write posts that are too politically and [economically heavy](http://blog.vickiboykis.com/wlb/2009/01/25/predictions-on-the-economy-from-a-dismal-scientist/) but that are important for me to write, sometimes I write [really silly posts](http://blog.vickiboykis.com/wlb/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) that are equally part of the fun for blogging for me.  It&#8217;s always difficult for me to keep a balance between personal and professional on the blog, but I keep trying.   You keep writing and soon enough, you&#8217;ll find your balance and rhythm.  Hopefully, after a year of blogging,  I&#8217;m on my way to finding mine.
+And, in a way, that&#8217;s how I think blogging is, too.  You don&#8217;t always have the rhythm.  Sometimes you&#8217;re on, sometimes you&#8217;re off.  Sometimes I write posts that are too politically and [economically heavy](https://vkblog.github.io/2009/01/25/predictions-on-the-economy-from-a-dismal-scientist/) but that are important for me to write, sometimes I write [really silly posts](https://vkblog.github.io/2009/02/06/the-most-depressing-baby-songs-ever-russian-ones/) that are equally part of the fun for blogging for me.  It&#8217;s always difficult for me to keep a balance between personal and professional on the blog, but I keep trying.   You keep writing and soon enough, you&#8217;ll find your balance and rhythm.  Hopefully, after a year of blogging,  I&#8217;m on my way to finding mine.
 
 **Related on the blog:**
 
-[My first-ever post on the blog](http://blog.vickiboykis.com/wlb/2009/01/07/hello-world/)
+[My first-ever post on the blog](https://vkblog.github.io/2009/01/07/hello-world/)

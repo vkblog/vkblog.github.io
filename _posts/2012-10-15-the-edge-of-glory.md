@@ -4,7 +4,7 @@ title: The edge of glory
 date: 2012-10-15T07:53:36+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7666
+guid: https://vkblog.github.io/?p=7666
 permalink: /2012/10/the-edge-of-glory/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
   - vysotsky
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM.png"><img class="aligncenter  wp-image-7667" title="Screen shot 2012-10-14 at 2.07.03 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM-1024x590.png" alt="" width="614" height="354" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM.png"><img class="aligncenter  wp-image-7667" title="Screen shot 2012-10-14 at 2.07.03 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/Screen-shot-2012-10-14-at-2.07.03-PM-1024x590.png" alt="" width="614" height="354" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0086.jpg"><img class="aligncenter  wp-image-7669" title="DSC_0086" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/DSC_0086.jpg" alt="" width="512" height="341" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/DSC_0086.jpg"><img class="aligncenter  wp-image-7669" title="DSC_0086" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/DSC_0086.jpg" alt="" width="512" height="341" /></a>
 </p>
 
 <p style="text-align: left;">

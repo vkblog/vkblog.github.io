@@ -4,7 +4,7 @@ title: 'Books: Paris, I Love You but You&#8217;re Bringing Me Down'
 date: 2012-10-17T07:45:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7701
+guid: https://vkblog.github.io/?p=7701
 permalink: /2012/10/books-paris-i-love-you-but-youre-bringing-me-down/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120928_180900.jpg"><img class="aligncenter  wp-image-7702" title="IMG_20120928_180900" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20120928_180900-1024x768.jpg" alt="" width="430" height="323" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20120928_180900.jpg"><img class="aligncenter  wp-image-7702" title="IMG_20120928_180900" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20120928_180900-1024x768.jpg" alt="" width="430" height="323" /></a>
 </p>
 
 &nbsp;
@@ -33,18 +33,18 @@ I&#8217;ve been wanting to read it since February, but for some reason I wasn&#8
 
 <!--more-->
 
-Can I just say that, from a visual standpoint, the book <a href="http://blog.vickiboykis.com/wlb/2012/08/judging-a-book-by-its-cover/" target="_blank">looks AWESOME</a> lying around on coffee tables and propped up against things?
+Can I just say that, from a visual standpoint, the book <a href="https://vkblog.github.io/2012/08/judging-a-book-by-its-cover/" target="_blank">looks AWESOME</a> lying around on coffee tables and propped up against things?
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073223.jpg"><img class="aligncenter  wp-image-7703" title="IMG_20121017_073223" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073223-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121017_073223.jpg"><img class="aligncenter  wp-image-7703" title="IMG_20121017_073223" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121017_073223-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073237.jpg"><img class="aligncenter  wp-image-7704" title="IMG_20121017_073237" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073237-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121017_073237.jpg"><img class="aligncenter  wp-image-7704" title="IMG_20121017_073237" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121017_073237-768x1024.jpg" alt="" width="323" height="430" /></a>
 </p>
 
 <div id="attachment_7705" style="width: 333px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073255.jpg"><img class=" wp-image-7705" title="IMG_20121017_073255" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121017_073255-768x1024.jpg" alt="" width="323" height="430" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121017_073255.jpg"><img class=" wp-image-7705" title="IMG_20121017_073255" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121017_073255-768x1024.jpg" alt="" width="323" height="430" /></a>
   
   <p class="wp-caption-text">
     The clean lines of the toilet really accentuate the font.

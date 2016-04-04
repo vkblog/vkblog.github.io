@@ -4,7 +4,7 @@ title: How writers lie (or, eel-hunting)
 date: 2012-04-27T07:23:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6783
+guid: https://vkblog.github.io/?p=6783
 permalink: /2012/04/how-writers-lie-or-eel-hunting/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
   - truth
   - writing
 ---
-[<img class="aligncenter size-full wp-image-6788" title="carnivalduet2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/carnivalduet2.jpg" alt="" width="600" height="480" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/carnivalduet2.jpg)
+[<img class="aligncenter size-full wp-image-6788" title="carnivalduet2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/carnivalduet2.jpg" alt="" width="600" height="480" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/carnivalduet2.jpg)
 
 <p style="text-align: center;">
   <em>Carnival Duet 2, Andrei Shwidiky</em>
@@ -48,14 +48,14 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
 </div>
 
 <div>
-  As a reader, I&#8217;ve always wanted to know if everything I&#8217;ve read in nonfiction is true, especially in travel writing.  &#8220;Did Tom Bissell <a href="http://blog.vickiboykis.com/wlb/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">really eat sheep&#8217;s head in Uzbekistan</a> with a whole clan watching him? Did <a href="http://blog.vickiboykis.com/wlb/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">Rory Stewart REALLY walk through ALL of Afghanistan</a>? Did he really pick up a dog there? Did Lisa Napoli <a href="http://www.worldhum.com/features/travel-stories/into-sacred-air-taktsang-bhutan-20120409/" target="_blank">REALLY feel like she was going to fall</a> off the edge of the earth?&#8221;  These details, too outrageously beautiful to be false, are what make me excited about how random life is, and how the writer was lucky enough to capture the moment.
+  As a reader, I&#8217;ve always wanted to know if everything I&#8217;ve read in nonfiction is true, especially in travel writing.  &#8220;Did Tom Bissell <a href="https://vkblog.github.io/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">really eat sheep&#8217;s head in Uzbekistan</a> with a whole clan watching him? Did <a href="https://vkblog.github.io/2009/07/book-review-chasing-the-sea-by-tom-bissell/" target="_blank">Rory Stewart REALLY walk through ALL of Afghanistan</a>? Did he really pick up a dog there? Did Lisa Napoli <a href="http://www.worldhum.com/features/travel-stories/into-sacred-air-taktsang-bhutan-20120409/" target="_blank">REALLY feel like she was going to fall</a> off the edge of the earth?&#8221;  These details, too outrageously beautiful to be false, are what make me excited about how random life is, and how the writer was lucky enough to capture the moment.
 </div>
 
 <div>
 </div>
 
 <div>
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Millais_Boyhood_of_Raleigh1.jpg"><img class="aligncenter size-full wp-image-6793" title="Millais_Boyhood_of_Raleigh" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Millais_Boyhood_of_Raleigh1.jpg" alt="" width="512" height="432" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Millais_Boyhood_of_Raleigh1.jpg"><img class="aligncenter size-full wp-image-6793" title="Millais_Boyhood_of_Raleigh" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Millais_Boyhood_of_Raleigh1.jpg" alt="" width="512" height="432" /></a>
 </div>
 
 <div style="text-align: center;">
@@ -104,7 +104,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
     </p>
     
     <p style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/DSC_0647.jpg"><img class="aligncenter  wp-image-6796" title="DSC_0647" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/DSC_0647.jpg" alt="" width="501" height="333" /></a>
+      <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/DSC_0647.jpg"><img class="aligncenter  wp-image-6796" title="DSC_0647" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/DSC_0647.jpg" alt="" width="501" height="333" /></a>
     </p>
     
     <p style="text-align: center;">
@@ -119,7 +119,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
   </p>
   
   <p>
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png"><img class="aligncenter size-full wp-image-6797" title="Screen shot 2012-04-27 at 7.07.50 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png" alt="" width="452" height="325" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png"><img class="aligncenter size-full wp-image-6797" title="Screen shot 2012-04-27 at 7.07.50 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Screen-shot-2012-04-27-at-7.07.50-AM.png" alt="" width="452" height="325" /></a>
   </p>
   
   <p>
@@ -161,7 +161,7 @@ Elif Batuman, one of my favorite writers (who else has the Twitter handle <a hre
   </p>
   
   <p>
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png"><img class="aligncenter size-full wp-image-6798" title="Screen shot 2012-04-27 at 7.12.38 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png" alt="" width="449" height="178" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png"><img class="aligncenter size-full wp-image-6798" title="Screen shot 2012-04-27 at 7.12.38 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Screen-shot-2012-04-27-at-7.12.38-AM.png" alt="" width="449" height="178" /></a>
   </p>
   
   <p>

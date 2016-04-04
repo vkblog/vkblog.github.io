@@ -4,14 +4,14 @@ title: Then and now
 date: 2013-08-05T11:11:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8951
+guid: https://vkblog.github.io/?p=8951
 permalink: /2013/08/then-and-now/
 categories:
   - Uncategorized
 tags:
   - birthday
 ---
-[<img class="aligncenter size-full wp-image-8952" alt="tumblr_inline_mi7unhWz421ro8qpo" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif" width="500" height="280" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif)
+[<img class="aligncenter size-full wp-image-8952" alt="tumblr_inline_mi7unhWz421ro8qpo" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif" width="500" height="280" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/08/tumblr_inline_mi7unhWz421ro8qpo.gif)
 
 &nbsp;
 

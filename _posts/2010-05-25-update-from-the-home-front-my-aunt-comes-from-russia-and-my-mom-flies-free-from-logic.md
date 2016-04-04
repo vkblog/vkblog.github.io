@@ -4,7 +4,7 @@ title: 'Update from the home front: my aunt comes from Russia and my mom flies f
 date: 2010-05-25T08:34:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2995
+guid: https://vkblog.github.io/?p=2995
 permalink: /2010/05/update-from-the-home-front-my-aunt-comes-from-russia-and-my-mom-flies-free-from-logic/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
 Today, a two-for-the-price of one story treat.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0085.jpg"><img class="aligncenter size-full wp-image-2996" title="DSC_0085" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0085.jpg" alt="" width="476" height="384" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/DSC_0085.jpg"><img class="aligncenter size-full wp-image-2996" title="DSC_0085" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/DSC_0085.jpg" alt="" width="476" height="384" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -34,7 +34,7 @@ Today, a two-for-the-price of one story treat.
   </p>
   
   <p>
-    The first rule of the house when she comes is to always speak Russian since she doesn&#8217;t speak English.  You would think this rule would only cause <a href="http://blog.vickiboykis.com/wlb/2010/04/13/we-the-russians/">problems for myself and Mr. B</a>.
+    The first rule of the house when she comes is to always speak Russian since she doesn&#8217;t speak English.  You would think this rule would only cause <a href="https://vkblog.github.io/2010/04/13/we-the-russians/">problems for myself and Mr. B</a>.
   </p>
   
   <p>
@@ -50,7 +50,7 @@ Today, a two-for-the-price of one story treat.
   </p>
   
   <p>
-    Me, the parents, Mr. B, Mr. B&#8217;s parents- we&#8217;ve all fooled ourselves. Here we are, living in a Russian emigrant community, having Russian weddings, listening to the latest Russian music, watching Russian shows,<a href="http://blog.vickiboykis.com/wlb/2009/11/23/whats-the-deal-with-the-russian-new-year-tree/"> proclaiming obnoxiously</a> on our blog banners that we are Russian and named after a strawberry, and we are all 100% American. But when we are with Americans, we feel Russian.   But it&#8217;s fun to feel American.
+    Me, the parents, Mr. B, Mr. B&#8217;s parents- we&#8217;ve all fooled ourselves. Here we are, living in a Russian emigrant community, having Russian weddings, listening to the latest Russian music, watching Russian shows,<a href="https://vkblog.github.io/2009/11/23/whats-the-deal-with-the-russian-new-year-tree/"> proclaiming obnoxiously</a> on our blog banners that we are Russian and named after a strawberry, and we are all 100% American. But when we are with Americans, we feel Russian.   But it&#8217;s fun to feel American.
   </p>
   
   <p>
@@ -62,7 +62,7 @@ Today, a two-for-the-price of one story treat.
   </p>
   
   <p style="text-align: center;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0087.jpg"><img class="aligncenter size-full wp-image-2997" title="DSC_0087" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/05/DSC_0087.jpg" alt="" width="541" height="360" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/DSC_0087.jpg"><img class="aligncenter size-full wp-image-2997" title="DSC_0087" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/05/DSC_0087.jpg" alt="" width="541" height="360" /></a>
   </p>
   
   <p style="text-align: left;">

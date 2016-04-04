@@ -4,7 +4,7 @@ title: 'Guest Post: On Being Twenty-Three (And Adopting a New Life Philosophy)'
 date: 2009-09-04T00:00:54+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1167
+guid: https://vkblog.github.io/?p=1167
 permalink: /2009/09/guest-post-on-being-twenty-three-and-adopting-a-new-life-philosophy/
 categories:
   - Uncategorized
@@ -36,7 +36,7 @@ tags:
 </div>
 
 <div style="text-align: center;">
-  <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/277221852_476e8916f0.jpg"><img class="aligncenter size-full wp-image-1170" title="277221852_476e8916f0" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/277221852_476e8916f0.jpg" alt="277221852_476e8916f0" width="500" height="375" /></a>Via hamed on flickr.<br /> </em>
+  <em><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/277221852_476e8916f0.jpg"><img class="aligncenter size-full wp-image-1170" title="277221852_476e8916f0" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/277221852_476e8916f0.jpg" alt="277221852_476e8916f0" width="500" height="375" /></a>Via hamed on flickr.<br /> </em>
 </div>
 
 <div>

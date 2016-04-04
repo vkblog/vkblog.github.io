@@ -4,7 +4,7 @@ title: Sergei Mikhalkov, poet, Soviet anthem writer, dies at 96
 date: 2009-09-22T21:44:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1290
+guid: https://vkblog.github.io/?p=1290
 permalink: /2009/09/sergei-mikhalkov-poet-soviet-anthem-writer-dies-at-96/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - Russia
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/sergei_mikhaklov-son.jpg"><img class="aligncenter size-full wp-image-1296" title="sergei_mikhaklov son" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/09/sergei_mikhaklov-son.jpg" alt="sergei_mikhaklov son" width="358" height="512" /></a>source: visualrian.com
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/sergei_mikhaklov-son.jpg"><img class="aligncenter size-full wp-image-1296" title="sergei_mikhaklov son" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/09/sergei_mikhaklov-son.jpg" alt="sergei_mikhaklov son" width="358" height="512" /></a>source: visualrian.com
 </p>
 
 Thanks to [Atul Acharya](http://innowiser.com/blog/) ([@atulacharya](http://twitter.com/atulacharya)) for pointing out this link to me in [The Economist](http://www.economist.com/obituary/displaystory.cfm?story_id=14400914), about Sergei Mikhalkov.  He then asked for my reaction.  Too bad I had no idea who Sergei Mikhalkov was, although the name sounded familiar.  It turns out that ,

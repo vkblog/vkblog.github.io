@@ -4,7 +4,7 @@ title: Friday Links
 date: 2010-07-30T06:19:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3428
+guid: https://vkblog.github.io/?p=3428
 permalink: /2010/07/friday-links-23/
 categories:
   - fridaylinks
@@ -13,7 +13,7 @@ tags:
   - Friday
 ---
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -51,7 +51,7 @@ tags:
   6. [Speaking like a human at work](http://www.telegraph.co.uk/finance/businessclub/7897347/My-challenge-to-you-only-speak-like-a-human-at-work.html)
   7. [Pop icons in a different light](http://www.icanhasinternets.com/2010/07/pop-icons-in-a-different-light-part-2/)
   8. [<p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0219.jpg"><img class="aligncenter size-full wp-image-3429" title="IMAG0219" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0219.jpg" alt="" width="323" height="538" /></a>
 </p>
 
 <p style="text-align: left;">

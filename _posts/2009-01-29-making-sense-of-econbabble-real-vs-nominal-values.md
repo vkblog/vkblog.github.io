@@ -4,7 +4,7 @@ title: 'Making sense of econbabble: Real vs. nominal values'
 date: 2009-01-29T20:57:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=82
+guid: https://vkblog.github.io/?p=82
 permalink: /2009/01/making-sense-of-econbabble-real-vs-nominal-values/
 categories:
   - Uncategorized
@@ -12,7 +12,7 @@ tags:
   - economics
   - terminology
 ---
-[<img class="alignnone size-full wp-image-83" title="borgman-thurs-51106-copy-716652gif" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/borgman-thurs-51106-copy-716652gif.png" alt="borgman-thurs-51106-copy-716652gif" width="430" height="279" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/borgman-thurs-51106-copy-716652gif.png)
+[<img class="alignnone size-full wp-image-83" title="borgman-thurs-51106-copy-716652gif" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/01/borgman-thurs-51106-copy-716652gif.png" alt="borgman-thurs-51106-copy-716652gif" width="430" height="279" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/01/borgman-thurs-51106-copy-716652gif.png)
 
 ###### (source: Cincinnati Enquirer)
 

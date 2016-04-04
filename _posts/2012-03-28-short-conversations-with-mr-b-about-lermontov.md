@@ -4,7 +4,7 @@ title: Short Conversations with Mr. B about Lermontov
 date: 2012-03-28T07:34:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6606
+guid: https://vkblog.github.io/?p=6606
 permalink: /2012/03/short-conversations-with-mr-b-about-lermontov/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/theduel.jpg"><img class="aligncenter  wp-image-6609" title="theduel" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/03/theduel.jpg" alt="" width="505" height="345" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/03/theduel.jpg"><img class="aligncenter  wp-image-6609" title="theduel" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/03/theduel.jpg" alt="" width="505" height="345" /></a>
 </p>
 
 &nbsp;

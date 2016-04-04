@@ -4,7 +4,7 @@ title: 'Russian Tweetup: February 28'
 date: 2010-02-24T07:40:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2393
+guid: https://vkblog.github.io/?p=2393
 permalink: /2010/02/russian-tweetup-february-28/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - tweetup
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg"><img class="aligncenter size-full wp-image-2395" title="Lenin_Statue_at_Grutas_Park copy" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg" alt="" width="651" height="869" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg"><img class="aligncenter size-full wp-image-2395" title="Lenin_Statue_at_Grutas_Park copy" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/02/Lenin_Statue_at_Grutas_Park-copy.jpg" alt="" width="651" height="869" /></a>
 </p>
 
 My online friend [Karyn](http://passionforrussian.com/) organizes D.C. language meetups on a frequent basis, and now she is organizing a [Russian-language chat](http://passionforrussian.com/2010/02/03/lets-tweet-up/) on Twitter, so you should come, if you&#8217;re into learning Russian.

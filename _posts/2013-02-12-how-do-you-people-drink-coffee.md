@@ -4,7 +4,7 @@ title: How do you people drink coffee?
 date: 2013-02-12T08:15:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8356
+guid: https://vkblog.github.io/?p=8356
 permalink: /2013/02/how-do-you-people-drink-coffee/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
   - work
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130115_082838.jpg"><img class="aligncenter  wp-image-8357" alt="IMG_20130115_082838" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/IMG_20130115_082838-580x773.jpg" width="464" height="618" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/IMG_20130115_082838.jpg"><img class="aligncenter  wp-image-8357" alt="IMG_20130115_082838" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/IMG_20130115_082838-580x773.jpg" width="464" height="618" /></a>
 </p>
 
 &nbsp;
@@ -47,7 +47,7 @@ I did some searching, and it turned out that the place downstairs uses ReAnimato
 
 ReAnimator is a coffee based in Philadelphia, and this is the picture they have <a href="http://www.reanimatorcoffee.com/" target="_blank">on their website</a>:
 
-[<img class="aligncenter size-full wp-image-8359" alt="Screen shot 2013-02-12 at 7.46.26 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png" width="559" height="485" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png)
+[<img class="aligncenter size-full wp-image-8359" alt="Screen shot 2013-02-12 at 7.46.26 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png" width="559" height="485" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/Screen-shot-2013-02-12-at-7.46.26-AM.png)
 
 That&#8217;s exactly how I was feeling at 10:45.
 
@@ -63,7 +63,7 @@ THATREALSTUFFSONohbutlet&#8217;stakeasmallnapnow.
 
 As soon as I came home at 6, I was horizontal on the couch. I got up at 6:30 and the world was moving at normal speed again.
 
-You would think that I would have learned from this experience that I am not ready for real hipster coffee, much in the same way that if you have <a href="http://blog.vickiboykis.com/wlb/2013/01/you-cant-understand-a-man-until-you-cruise-a-mile-in-his-beemer/" target="_blank">never driven a BMW,</a> you should probably not be given one your first time out.
+You would think that I would have learned from this experience that I am not ready for real hipster coffee, much in the same way that if you have <a href="https://vkblog.github.io/2013/01/you-cant-understand-a-man-until-you-cruise-a-mile-in-his-beemer/" target="_blank">never driven a BMW,</a> you should probably not be given one your first time out.
 
 But  yesterday my coworker and I decided to have some coffee from downstairs at 4 in the afternoon, because we needed a quick break, and because we decided it would give us a late-afternoon boost.
 

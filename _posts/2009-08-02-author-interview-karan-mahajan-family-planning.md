@@ -4,7 +4,7 @@ title: 'Author Interview: Karan Mahajan (Family Planning)'
 date: 2009-08-02T21:54:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=928
+guid: https://vkblog.github.io/?p=928
 permalink: /2009/08/author-interview-karan-mahajan-family-planning/
 categories:
   - Uncategorized
@@ -17,17 +17,17 @@ tags:
 It&#8217;s rare to find a really good satire that involves [flyovers](http://en.wikipedia.org/wiki/Flyover) AND Bryan Adams these days. It&#8217;s even harder if, before reading that satire, you have no idea what a flyover actually is.  That&#8217;s why I was so exited to find [Family Planning](http://www.amazon.com/Family-Planning-Novel-Karan-Mahajan/dp/006153725X), the first novel by witty and insightful flyover expert and author [Karan Mahajan](http://en.wikipedia.org/wiki/Karan_Mahajan).
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/mahajancover.jpg"><img class="size-full wp-image-936 aligncenter" title="mahajancover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/mahajancover.jpg" alt="mahajancover" width="336" height="503" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/mahajancover.jpg"><img class="size-full wp-image-936 aligncenter" title="mahajancover" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/mahajancover.jpg" alt="mahajancover" width="336" height="503" /></a>
 </p>
 
 _Family Planning_ is a satire of the Indian bureaucratic political system, large middle-class Indian families, wannabe-rocker teenagers, and soap-opera-watching Indian housewives.  It also tackles love/arranged marriage, adoption, life for [NRIs](http://en.wikipedia.org/wiki/Non-resident_Indian_and_Person_of_Indian_Origin) in America.  But it&#8217;s not meant specifically for an Indian audience.  Above all, it&#8217;s extraordinarily witty (did I mention this?)
 
 The premise of the novel is that the protagonist Arjun Ahuja&#8217;s father, Rakesh Ahuja, the Minister of Urban Development, is only attracted to Arjun&#8217;s mother when she&#8217;s pregnant.  As a result, Arjun has twelve brothers and sisters and another on the way. The novel starts when Arjun walks in on his parents having sex in the nursery, and Rakesh is faced with how to talk to his son.   At the same time, Arjun is in high school and trying to start a rock band to impress a girl he rides on the school bus with, but is thwarted in his attempts because he most unfortunately views Bryan Adams as an idol to aspire to.   Rakesh has issues of his own as he resigns from the government, for the sixty-third time, on account of a conspiracy against the flyovers that he is in charge of planning and implementing.  As a side note, he is part of a political party that puts forward &#8220;intolerable bills such as the Diversity of the Motherland Act which calls for the compulsory resignation of all Muslims &#8216;for reasons of diversity and national security&#8217;.&#8221;
 
-Rakesh&#8217;s wife, Sangita, communicates with the family by watching Indian soap operas, and may or may not be Arjun&#8217;s real mother.  All of this comes together in front of  a rich backdrop of New Delhi.  This book was very informative for me because, as [you may know](http://blog.vickiboykis.com/wlb/2009/04/24/voting-in-india/), I [love Indian culture](http://blog.vickiboykis.com/wlb/2009/06/12/a-russian-in-bollywood/), but will unfortunately never get to visit New Delhi because I am  cheap.  Additionally, it&#8217;s one of the few books where I actually bookmarked pages in my library version (criminal.) because I laughed out loud on several occasions. My favorite is Rakesh&#8217;s resignation letter, which is about halfway through the book.  You can read the first [couple pages as an excerpt here](http://www.npr.org/templates/story/story.php?storyId=100569823#100575308).
+Rakesh&#8217;s wife, Sangita, communicates with the family by watching Indian soap operas, and may or may not be Arjun&#8217;s real mother.  All of this comes together in front of  a rich backdrop of New Delhi.  This book was very informative for me because, as [you may know](https://vkblog.github.io/2009/04/24/voting-in-india/), I [love Indian culture](https://vkblog.github.io/2009/06/12/a-russian-in-bollywood/), but will unfortunately never get to visit New Delhi because I am  cheap.  Additionally, it&#8217;s one of the few books where I actually bookmarked pages in my library version (criminal.) because I laughed out loud on several occasions. My favorite is Rakesh&#8217;s resignation letter, which is about halfway through the book.  You can read the first [couple pages as an excerpt here](http://www.npr.org/templates/story/story.php?storyId=100569823#100575308).
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/karan.jpg"><img class="size-full wp-image-952 aligncenter" title="karan" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/karan.jpg" alt="karan" width="256" height="333" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/karan.jpg"><img class="size-full wp-image-952 aligncenter" title="karan" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/karan.jpg" alt="karan" width="256" height="333" /></a>
 </p>
 
 After reading the book, I had the pleasure of interviewing Karan about some of his thoughts that go into writing satire, particularly one aimed at your fellow countrymen, and satire that aims to span cultures:

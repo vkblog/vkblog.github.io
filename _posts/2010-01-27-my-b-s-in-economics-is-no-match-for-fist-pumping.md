@@ -4,7 +4,7 @@ title: My B.S. in Economics is no match for fist pumping
 date: 2010-01-27T07:08:47+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2177
+guid: https://vkblog.github.io/?p=2177
 permalink: /2010/01/my-b-s-in-economics-is-no-match-for-fist-pumping/
 categories:
   - Uncategorized
@@ -20,11 +20,11 @@ tags:
 Today on Facebook, I was lamenting my life, as usual:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jerseyunfair.png"><img class="aligncenter size-full wp-image-2179" title="jerseyunfair" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jerseyunfair.png" alt="" width="700" height="112" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/jerseyunfair.png"><img class="aligncenter size-full wp-image-2179" title="jerseyunfair" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/jerseyunfair.png" alt="" width="700" height="112" /></a>
 </p>
 
 <p style="text-align: left;">
-  This comes from <a href="http://gothamist.com/2010/01/23/jersey_shore_cast_wants_more_money.php">my rigorous economic analysis </a>of the recent MTV phenomenon Jersey Shore, which I have been studying every Thursday night at 10:00 pm EST.   The cast members, who, in real life, were working at jobs such as assistant gym manger (The Situation),  a DJ (Pauly D) and a receptionist (Snookie), are now earning a reported $10,000 per appearance, plus security and transportation. Meanwhile, the only thing I get per appearance at my parents&#8217; house is a <a href="http://blog.vickiboykis.com/wlb/2009/09/30/my-unborn-children-are-annoying-me/">thorough questioning on why Mr. B and I are not having kids yet</a>.
+  This comes from <a href="http://gothamist.com/2010/01/23/jersey_shore_cast_wants_more_money.php">my rigorous economic analysis </a>of the recent MTV phenomenon Jersey Shore, which I have been studying every Thursday night at 10:00 pm EST.   The cast members, who, in real life, were working at jobs such as assistant gym manger (The Situation),  a DJ (Pauly D) and a receptionist (Snookie), are now earning a reported $10,000 per appearance, plus security and transportation. Meanwhile, the only thing I get per appearance at my parents&#8217; house is a <a href="https://vkblog.github.io/2009/09/30/my-unborn-children-are-annoying-me/">thorough questioning on why Mr. B and I are not having kids yet</a>.
 </p>
 
 <p style="text-align: left;">

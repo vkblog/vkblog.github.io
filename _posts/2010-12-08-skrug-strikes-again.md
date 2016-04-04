@@ -4,7 +4,7 @@ title: SKRUG Strikes Again
 date: 2010-12-08T14:39:50+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4015
+guid: https://vkblog.github.io/?p=4015
 permalink: /2010/12/skrug-strikes-again/
 categories:
   - Uncategorized
@@ -13,10 +13,10 @@ tags:
   - Russian Jews
   - SKRUG
 ---
-[SKRUG](http://blog.vickiboykis.com/wlb/2010/11/18/skrug/) is the gift that keeps on giving.
+[SKRUG](https://vkblog.github.io/2010/11/18/skrug/) is the gift that keeps on giving.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/hans-and-franz.jpg"><img class="aligncenter size-full wp-image-4017" title="hans-and-franz" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/hans-and-franz.jpg" alt="" width="350" height="262" /></a><a href="http://en.wikipedia.org/wiki/Hans_and_Franz">Hans and Franz</a>, who should totally go to SKRUG.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/hans-and-franz.jpg"><img class="aligncenter size-full wp-image-4017" title="hans-and-franz" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/hans-and-franz.jpg" alt="" width="350" height="262" /></a><a href="http://en.wikipedia.org/wiki/Hans_and_Franz">Hans and Franz</a>, who should totally go to SKRUG.
 </p>
 
 No matter how tired (or busy with GRE studying/tutoring Mr. B&#8217;s cousin in English/random errands/death) I am after work, I make it a point to go to the gym  because at this point it&#8217;s not that I want to go, it&#8217;s that I _need_ to go.  It adds a stolid stability that my life does not otherwise have, and all my aggressions come out when I push myself to run faster, bike harder, and get gross for an hour (but usually about 35-45 minutes, depending on how sorry for myself I feel that day.)

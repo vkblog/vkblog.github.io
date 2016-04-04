@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-07-01T08:45:39+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5210
+guid: https://vkblog.github.io/?p=5210
 permalink: /2011/07/friday-links-65/
 categories:
   - fridaylinks
@@ -15,7 +15,7 @@ tags:
 P.S. Lea is asking for <a href="http://leazeltserman.com/2011/06/your-stories-wanted/" target="_blank">Soviet decor stories</a>.  Do you have any?  I&#8217;m working on mine, I swear to God.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/wpid-IMAG0879.jpg"><img class="aligncenter size-full wp-image-5221" title="wpid-IMAG0879.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/wpid-IMAG0879.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/wpid-IMAG0879.jpg"><img class="aligncenter size-full wp-image-5221" title="wpid-IMAG0879.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/wpid-IMAG0879.jpg" alt="" width="350" height="583" /></a>
 </p>
 
 Not my house, but people REALLY get into July 4th in our &#8216;hood.

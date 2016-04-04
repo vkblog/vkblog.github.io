@@ -4,7 +4,7 @@ title: 'This post wast not sponsored by UPenn&#8230;yet'
 date: 2011-06-28T11:01:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5169
+guid: https://vkblog.github.io/?p=5169
 permalink: /2011/06/this-post-wast-not-sponsored-by-upenn-yet/
 categories:
   - Uncategorized
@@ -14,7 +14,7 @@ tags:
   - upenn
 ---
 <div id="attachment_5188" style="width: 360px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0872.jpg"><img class="size-full wp-image-5188" title="wpid-IMAG0872.jpg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0872.jpg" alt="" width="350" height="583" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0872.jpg"><img class="size-full wp-image-5188" title="wpid-IMAG0872.jpg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0872.jpg" alt="" width="350" height="583" /></a>
   
   <p class="wp-caption-text">
     This picture has nothing to do with the post, but you're going to need one of these delicious drinks (orange vodka, champagne, cranberry juice) from Jones in Philadelphia after reading it, probably.

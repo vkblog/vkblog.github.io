@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-07-14T22:30:55+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5291
+guid: https://vkblog.github.io/?p=5291
 permalink: /2011/07/friday-links-67/
 categories:
   - fridaylinks
@@ -13,7 +13,7 @@ tags:
   - comic
   - Friday
 ---
-[<img class="aligncenter size-full wp-image-5292" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Page_1.jpg" alt="" width="400" height="3000" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Page_1.jpg)
+[<img class="aligncenter size-full wp-image-5292" title="Page_1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Page_1.jpg" alt="" width="400" height="3000" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Page_1.jpg)
 
 Links:
 

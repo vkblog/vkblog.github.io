@@ -4,7 +4,7 @@ title: Interview with the only person on the planet who hated The Goldfinch
 date: 2014-03-17T12:54:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9603
+guid: https://vkblog.github.io/?p=9603
 permalink: /2014/03/interview-with-the-only-person-on-the-planet-who-hated-the-goldfinch/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - the goldfinch
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/o-THE-GOLDFINCH-900.jpg"><img class="aligncenter  wp-image-9604" alt="o-THE-GOLDFINCH-900" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/03/o-THE-GOLDFINCH-900-580x850.jpg" width="348" height="510" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/03/o-THE-GOLDFINCH-900.jpg"><img class="aligncenter  wp-image-9604" alt="o-THE-GOLDFINCH-900" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/03/o-THE-GOLDFINCH-900-580x850.jpg" width="348" height="510" /></a>
 </p>
 
 **Interviewer:**So. Vicki. You hated <a href="http://www.nytimes.com/2013/10/08/books/the-goldfinch-a-dickensian-novel-by-donna-tartt.html?pagewanted=all&_r=0" target="_blank">The Goldfinch</a>.
@@ -48,7 +48,7 @@ tags:
   
 **Interviewer:** You have no taste and you&#8217;re never allowed to blog again.
   
-**Vicki:** But I LOVED her <a href="http://blog.vickiboykis.com/wlb/2013/12/my-favorite-books-of-2013/" target="_blank">Secret History</a>! I stayed up late at night reading it! I had high hopes!
+**Vicki:** But I LOVED her <a href="https://vkblog.github.io/2013/12/my-favorite-books-of-2013/" target="_blank">Secret History</a>! I stayed up late at night reading it! I had high hopes!
   
 **Interviewer:** You don&#8217;t know how to read English.
   

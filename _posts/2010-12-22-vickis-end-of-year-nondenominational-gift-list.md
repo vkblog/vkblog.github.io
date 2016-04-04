@@ -4,7 +4,7 @@ title: 'Vicki&#8217;s End-of-Year Nondenominational Gift List'
 date: 2010-12-22T08:03:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4019
+guid: https://vkblog.github.io/?p=4019
 permalink: /2010/12/vickis-end-of-year-nondenominational-gift-list/
 categories:
   - Uncategorized
@@ -37,15 +37,15 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png"><img class="aligncenter size-full wp-image-4021" title="Screen shot 2010-12-08 at 4.06.51 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png" alt="" width="446" height="297" /></a><strong> </strong>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png"><img class="aligncenter size-full wp-image-4021" title="Screen shot 2010-12-08 at 4.06.51 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.06.51-PM.png" alt="" width="446" height="297" /></a><strong> </strong>
 </p>
 
 <p style="text-align: left;">
-  <strong>4. <a href="http://www.etsy.com/listing/40296152/washington-dc-metro-poster?ref=sr_gallery_8&ga_search_query=washington+dc+map&ga_search_type=all&ga_page=1&order=&includes[0]=tags">Washington DC Metro Canvas</a>&#8211;</strong>Self-explanatory.  I miss my boo. The DC Metro system. (I also miss <a href="http://blog.vickiboykis.com/wlb/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/">Yuppie Food Riots</a>)
+  <strong>4. <a href="http://www.etsy.com/listing/40296152/washington-dc-metro-poster?ref=sr_gallery_8&ga_search_query=washington+dc+map&ga_search_type=all&ga_page=1&order=&includes[0]=tags">Washington DC Metro Canvas</a>&#8211;</strong>Self-explanatory.  I miss my boo. The DC Metro system. (I also miss <a href="https://vkblog.github.io/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/">Yuppie Food Riots</a>)
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png"><img class="aligncenter size-full wp-image-4022" title="Screen shot 2010-12-08 at 4.08.17 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png" alt="" width="420" height="410" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png"><img class="aligncenter size-full wp-image-4022" title="Screen shot 2010-12-08 at 4.08.17 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.08.17-PM.png" alt="" width="420" height="410" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -53,7 +53,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png"><img class="aligncenter size-full wp-image-4023" title="Screen shot 2010-12-08 at 4.08.50 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png" alt="" width="324" height="137" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png"><img class="aligncenter size-full wp-image-4023" title="Screen shot 2010-12-08 at 4.08.50 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.08.50-PM.png" alt="" width="324" height="137" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -62,7 +62,7 @@ tags:
   </p>
   
   <p style="text-align: left;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png"><img class="aligncenter size-full wp-image-4025" title="Screen shot 2010-12-08 at 4.12.56 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png" alt="" width="215" height="280" /></a><strong> </strong>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png"><img class="aligncenter size-full wp-image-4025" title="Screen shot 2010-12-08 at 4.12.56 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.12.56-PM.png" alt="" width="215" height="280" /></a><strong> </strong>
   </p>
   
   <p style="text-align: left;">
@@ -70,7 +70,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png"><img class="aligncenter size-full wp-image-4026" title="Screen shot 2010-12-08 at 4.14.01 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png" alt="" width="277" height="317" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png"><img class="aligncenter size-full wp-image-4026" title="Screen shot 2010-12-08 at 4.14.01 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.14.01-PM.png" alt="" width="277" height="317" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -78,7 +78,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/5096923270_36ae057793.jpg"><img class="aligncenter size-full wp-image-4028" title="5096923270_36ae057793" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/5096923270_36ae057793.jpg" alt="" width="350" height="263" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/5096923270_36ae057793.jpg"><img class="aligncenter size-full wp-image-4028" title="5096923270_36ae057793" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/5096923270_36ae057793.jpg" alt="" width="350" height="263" /></a>
   </p>
   
   <p style="text-align: left;">
@@ -86,7 +86,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png"><img class="aligncenter size-full wp-image-4029" title="Screen shot 2010-12-08 at 4.18.47 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png" alt="" width="285" height="419" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png"><img class="aligncenter size-full wp-image-4029" title="Screen shot 2010-12-08 at 4.18.47 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-08-at-4.18.47-PM.png" alt="" width="285" height="419" /></a>
   </p>
   
   <p>
@@ -98,7 +98,7 @@ tags:
   </p>
   
   <p>
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png"><img class="aligncenter size-full wp-image-4084" title="Screen shot 2010-12-21 at 1.58.58 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png" alt="" width="579" height="415" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png"><img class="aligncenter size-full wp-image-4084" title="Screen shot 2010-12-21 at 1.58.58 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/12/Screen-shot-2010-12-21-at-1.58.58-PM.png" alt="" width="579" height="415" /></a>
   </p>
   
   <p>

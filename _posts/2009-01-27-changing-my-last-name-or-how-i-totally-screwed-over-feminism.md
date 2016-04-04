@@ -4,7 +4,7 @@ title: 'Changing My Last Name: Or, how I totally screwed over feminism'
 date: 2009-01-27T22:44:57+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=79
+guid: https://vkblog.github.io/?p=79
 permalink: /2009/01/changing-my-last-name-or-how-i-totally-screwed-over-feminism/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ When I got married this past October, I remember the happy times:
 
 I also remember the not-so-happy times: changing my last name (did I mention, by the way, that I HATE being called Mrs.?)
 
-[<img class="alignnone size-full wp-image-80" title="mrs_x_tshirt" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/mrs_x_tshirt.jpg" alt="mrs_x_tshirt" width="230" height="223" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/01/mrs_x_tshirt.jpg)
+[<img class="alignnone size-full wp-image-80" title="mrs_x_tshirt" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/01/mrs_x_tshirt.jpg" alt="mrs_x_tshirt" width="230" height="223" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/01/mrs_x_tshirt.jpg)
 
 I had this debate in my head for a long time, ever since we got engaged.  Do I change my last name and achieve family unity with my husband, making everything from insurance to office parties easier?  Or do I keep my last name and remain unique and feel like I&#8217;m an individual instead of a &#8220;Buy One Get One Free&#8221; set?
 

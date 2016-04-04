@@ -4,7 +4,7 @@ title: 'Writing a Novel in a Month and Daniel Silva&#8217;s Gabriel Allon'
 date: 2009-10-06T21:06:13+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1392
+guid: https://vkblog.github.io/?p=1392
 permalink: /2009/10/writing-a-novel-in-a-month-and-daniel-silvas-gabriel-allon/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
   - writing
 ---
 <div id="attachment_1393" style="width: 510px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/flemming.jpg"><img class="size-full wp-image-1393" title="flemming" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/flemming.jpg" alt="Portrait of Ian Flemming, or Daniel Silva 1.0 beta" width="500" height="500" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/flemming.jpg"><img class="size-full wp-image-1393" title="flemming" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/flemming.jpg" alt="Portrait of Ian Flemming, or Daniel Silva 1.0 beta" width="500" height="500" /></a>
   
   <p class="wp-caption-text">
     Portrait of Ian Flemming, or Daniel Silva 1.0 beta, via ConnArtist on Flickr

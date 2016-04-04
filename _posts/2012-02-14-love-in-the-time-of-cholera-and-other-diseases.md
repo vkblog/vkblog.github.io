@@ -4,7 +4,7 @@ title: Love in the time of Cholera (and other diseases)
 date: 2012-02-14T07:44:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6450
+guid: https://vkblog.github.io/?p=6450
 permalink: /2012/02/love-in-the-time-of-cholera-and-other-diseases/
 categories:
   - Uncategorized
@@ -12,7 +12,7 @@ tags:
   - comic
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/VDay.jpg"><img class="aligncenter  wp-image-6451" title="VDay" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/VDay.jpg" alt="" width="450" height="2250" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/02/VDay.jpg"><img class="aligncenter  wp-image-6451" title="VDay" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/02/VDay.jpg" alt="" width="450" height="2250" /></a>
 </p>
 
 <p style="text-align: center;">

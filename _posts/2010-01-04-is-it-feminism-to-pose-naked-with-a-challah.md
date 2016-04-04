@@ -4,7 +4,7 @@ title: Is it feminism to pose naked with a challah?
 date: 2010-01-04T22:20:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1978
+guid: https://vkblog.github.io/?p=1978
 permalink: /2010/01/is-it-feminism-to-pose-naked-with-a-challah/
 categories:
   - Uncategorized
@@ -26,7 +26,7 @@ tags:
 <p style="text-align: left;">
   <p style="text-align: left;">
     <p style="text-align: center;">
-      <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jamie_sneider.jpg"><img class="size-full wp-image-2040 aligncenter" title="jamie_sneider" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/jamie_sneider.jpg" alt="jamie_sneider" width="200" height="300" /></a>
+      <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/jamie_sneider.jpg"><img class="size-full wp-image-2040 aligncenter" title="jamie_sneider" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/jamie_sneider.jpg" alt="jamie_sneider" width="200" height="300" /></a>
     </p>
     
     <p style="text-align: left;">

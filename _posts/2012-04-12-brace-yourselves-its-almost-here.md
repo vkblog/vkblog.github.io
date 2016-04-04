@@ -4,7 +4,7 @@ title: 'BRACE YOURSELVES. IT&#8217;S ALMOST HERE.'
 date: 2012-04-12T07:41:53+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6663
+guid: https://vkblog.github.io/?p=6663
 permalink: /2012/04/brace-yourselves-its-almost-here/
 categories:
   - Uncategorized
@@ -27,5 +27,5 @@ So, stay tuned.
 I am so, so, so excited to share it with you.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Ebookcover.png"><img class="aligncenter  wp-image-6664" title="Ebookcover" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/04/Ebookcover.png" alt="" width="420" height="560" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Ebookcover.png"><img class="aligncenter  wp-image-6664" title="Ebookcover" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/04/Ebookcover.png" alt="" width="420" height="560" /></a>
 </p>

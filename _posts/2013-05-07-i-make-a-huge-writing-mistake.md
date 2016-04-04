@@ -4,7 +4,7 @@ title: I make a huge writing mistake
 date: 2013-05-07T07:47:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8693
+guid: https://vkblog.github.io/?p=8693
 permalink: /2013/05/i-make-a-huge-writing-mistake/
 categories:
   - books
@@ -17,14 +17,14 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/2c5a436e0d3f.jpg"><img class="aligncenter  wp-image-8695" alt="2c5a436e0d3f" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/05/2c5a436e0d3f-580x493.jpg" width="406" height="345" /></a>
+   <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/05/2c5a436e0d3f.jpg"><img class="aligncenter  wp-image-8695" alt="2c5a436e0d3f" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/05/2c5a436e0d3f-580x493.jpg" width="406" height="345" /></a>
 </p>
 
 Two weeks ago, I made a horrible mistake. I agreed to send my mom the first chapter of the second draft of the novel.
 
 <!--more-->
 
-After <a href="http://blog.vickiboykis.com/wlb/2013/03/boom/" target="_blank">finishing the first draft</a> a couple months ago, I realized that it sucked, because <a href="http://blog.vickiboykis.com/wlb/2010/02/im-going-to-fire-my-editor/" target="_blank">most first drafts</a> are <a href="http://blog.vickiboykis.com/wlb/2012/04/how-writers-lie-or-eel-hunting/" target="_blank">terrible</a>. So, I put it down for a week.
+After <a href="https://vkblog.github.io/2013/03/boom/" target="_blank">finishing the first draft</a> a couple months ago, I realized that it sucked, because <a href="https://vkblog.github.io/2010/02/im-going-to-fire-my-editor/" target="_blank">most first drafts</a> are <a href="https://vkblog.github.io/2012/04/how-writers-lie-or-eel-hunting/" target="_blank">terrible</a>. So, I put it down for a week.
 
 Then, I read through every single terrible page.  Oh Jesus were there terrible pages.
 
@@ -64,7 +64,7 @@ Writing a whole novel and being terrified it&#8217;s so bad that you have to axe
 
 &#8220;PUT DAD ON THE PHONE.&#8221;
 
-My mother is very diplomatic and classy. <a href="http://blog.vickiboykis.com/wlb/2011/07/russian-medical-advice-part-two/" target="_blank">My father</a>, on the other hand, will tell all of the truth.  Even the truths you don&#8217;t want to hear. He will also tell the truth very loudly.
+My mother is very diplomatic and classy. <a href="https://vkblog.github.io/2011/07/russian-medical-advice-part-two/" target="_blank">My father</a>, on the other hand, will tell all of the truth.  Even the truths you don&#8217;t want to hear. He will also tell the truth very loudly.
 
 Of late, as of the past five years, he has also been communicating the truth only in English for some reason. The angrier he gets, the more English he speaks. The following conversation is almost verbatim.
 

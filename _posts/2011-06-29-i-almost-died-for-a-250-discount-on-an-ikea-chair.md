@@ -4,7 +4,7 @@ title: I Almost Died for a $250 Discount on an IKEA Chair
 date: 2011-06-29T06:42:04+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5193
+guid: https://vkblog.github.io/?p=5193
 permalink: /2011/06/i-almost-died-for-a-250-discount-on-an-ikea-chair/
 categories:
   - Uncategorized
@@ -16,23 +16,23 @@ tags:
   - philly
   - poang
 ---
-Life has been a little boring around Philadelphia. I mean, sure we have a new house, new car and I&#8217;m starting grad school in the fall, but there hasn&#8217;t been anything REALLY exciting happening <a href="http://blog.vickiboykis.com/wlb/2009/07/12/the-victorian-error-lite-jazz/" target="_blank">like there </a> <a href="http://blog.vickiboykis.com/wlb/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/" target="_blank">was in DC</a>.  So I decided to spice things up a little. Because, is life really worth living if you don&#8217;t appreciate the thin line between life and death?
+Life has been a little boring around Philadelphia. I mean, sure we have a new house, new car and I&#8217;m starting grad school in the fall, but there hasn&#8217;t been anything REALLY exciting happening <a href="https://vkblog.github.io/2009/07/12/the-victorian-error-lite-jazz/" target="_blank">like there </a> <a href="https://vkblog.github.io/2010/02/04/the-snowpocalypse-rains-down-calamity-and-soviet-russia-on-dc/" target="_blank">was in DC</a>.  So I decided to spice things up a little. Because, is life really worth living if you don&#8217;t appreciate the thin line between life and death?
 
 You guys remember my <a href="http://www.ikea.com/us/en/catalog/categories/series/07472/" target="_blank">POANG chair</a>, right?
 
 Here it is:
 
-<img class="aligncenter" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0583.jpg" alt="" width="590" height="392" />
+<img class="aligncenter" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0583.jpg" alt="" width="590" height="392" />
 
 And, as you can tell, it doesn&#8217;t really match anything in the living room and now that I think about it, my bear is kind of creepy, too. So my biggest first world problem last week was to find a matching leather chair to balance out the other two leather chairs that we have. Remember, <a href="http://news.yahoo.com/russia-orders-stalin-era-leather-coats-putin-guards-164228118.html" target="_blank">Russians love leather</a>.
 
-Mr. B and I went to IKEA, where we saw that the <a href="http://www.ikea.com/us/en/catalog/products/S49829140#/S89825079/" target="_blank">POANG chair was available in leather</a>.  However, it costs $200 and the footstool is another $100. And you <a href="http://blog.vickiboykis.com/wlb/2011/04/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">know me</a>.  There&#8217;s no way I&#8217;m shelling out $300, especially at IKEA where I expect to have to reassemble the chair at least five times a month using an allen wrench and some of my own minor bones because the screws they include don&#8217;t fit by a couple of inches.
+Mr. B and I went to IKEA, where we saw that the <a href="http://www.ikea.com/us/en/catalog/products/S49829140#/S89825079/" target="_blank">POANG chair was available in leather</a>.  However, it costs $200 and the footstool is another $100. And you <a href="https://vkblog.github.io/2011/04/04/manicures-for-cheap-jewish-werewolves-and-other-ethnic-minorities/" target="_blank">know me</a>.  There&#8217;s no way I&#8217;m shelling out $300, especially at IKEA where I expect to have to reassemble the chair at least five times a month using an allen wrench and some of my own minor bones because the screws they include don&#8217;t fit by a couple of inches.
 
 So you can imagine my excitement when I saw the POANG leather chair PLUS tuffet on Craigslist for $50.  The photo looked ok and the ad mentioned that the bottom was a little scuffed up, so I was trying to figure out what the catch was.   And then I saw.
 
 The chair was for sale in West Philly.  Now, some of you well-versed in American pop culture may know that West Philadelphia is where The Fresh Prince was <a href="www.youtube.com/watch?v=hBe0VCso0qs" target="_blank">born and raised</a>.  Which makes it sound like a friendly middle-class neighborhood.  But the reason Will Smith&#8217;s mom sent him away from West Philadelphia was because the <a href="http://inquirer.philly.com/graphics/shootings_map_2007/" target="_blank">Philly crime map</a> looks something like this:
 
-[<img class="aligncenter size-full wp-image-5199" title="Screen shot 2011-06-29 at 8.42.36 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png" alt="" width="435" height="427" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png)
+[<img class="aligncenter size-full wp-image-5199" title="Screen shot 2011-06-29 at 8.42.36 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png" alt="" width="435" height="427" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-29-at-8.42.36-AM.png)
 
 Actually, I just realized this makes it look like you should never go into the city of Philadelphia.  Which is probably true.
 
@@ -43,16 +43,16 @@ West Philly is not the best area to be in at night.  Or during the daytime.  G
 So,to be safe, I Google-mapped the address I&#8217;d be picking up the chair from, and I came up with this street view:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png"><img class="aligncenter size-full wp-image-5200" title="Screen shot 2011-06-29 at 8.47.38 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png" alt="" width="507" height="252" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png"><img class="aligncenter size-full wp-image-5200" title="Screen shot 2011-06-29 at 8.47.38 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-29-at-8.47.38-AM.png" alt="" width="507" height="252" /></a>
 </p>
 
 Which doesn&#8217;t look too bad, right? I mean, kind of sketchy, but not sketchy enough that a girl couldn&#8217;t go get a deeply-discounted chair.  So I consulted with a safety expert, after I found a couple pictures of the actual house on Flickr, which is where I edited out the link.
 
-[<img class="aligncenter size-full wp-image-5201" title="Screen shot 2011-06-29 at 8.49.39 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png" alt="" width="377" height="249" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png)
+[<img class="aligncenter size-full wp-image-5201" title="Screen shot 2011-06-29 at 8.49.39 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png" alt="" width="377" height="249" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-29-at-8.49.39-AM.png)
 
 With that vote of confidence, I emailed the seller and said I&#8217;d be picking up the chair.  Note that I did this during the daytime (I left work a little early that day, which is why Mr. B couldn&#8217;t come along.)
 
-So, here I am, female, young, in a <a href="http://blog.vickiboykis.com/wlb/2011/05/24/losing-erica/" target="_blank">brand-new car</a>, alone,  headed to <a href="http://www.yelp.com/topic/philadelphia-why-are-people-afraid-of-west-philly" target="_blank">West Philadelphia</a>, which some people who love the area describe as
+So, here I am, female, young, in a <a href="https://vkblog.github.io/2011/05/24/losing-erica/" target="_blank">brand-new car</a>, alone,  headed to <a href="http://www.yelp.com/topic/philadelphia-why-are-people-afraid-of-west-philly" target="_blank">West Philadelphia</a>, which some people who love the area describe as
 
 > &#8220;block-by-block. My street was wonderful. But, a few blocks over, where my cousin lived, there were plenty of boarded up drug houses packed with squatters.&#8221;
 
@@ -88,25 +88,25 @@ But aren&#8217;t you dying to know what it looks like?
 
 Here it is. Zaaaa, right?
 
-<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0877.jpg" alt="image" />
+<img style="display: block; margin-right: auto; margin-left: auto;" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0877.jpg" alt="image" />
 
 And here&#8217;s the entire living room.  Better, yes? (Just lie and humor me.)
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0621.jpg"><img class="aligncenter size-full wp-image-5196" title="DSC_0621" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0621.jpg" alt="" width="516" height="343" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0621.jpg"><img class="aligncenter size-full wp-image-5196" title="DSC_0621" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0621.jpg" alt="" width="516" height="343" /></a>
 </p>
 
 [
   
-<img class="aligncenter" title="DSC_0622" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg" alt="" width="505" height="336" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg)
+<img class="aligncenter" title="DSC_0622" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0622.jpg" alt="" width="505" height="336" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0622.jpg)
 
 By the way, interesting story about the original POANG, which is now in our bedroom:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg"><img src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/wpid-IMAG0874.jpg" alt="image" /><br /> </a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0622.jpg"><img src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/wpid-IMAG0874.jpg" alt="image" /><br /> </a>
 </p>
 
-[](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/DSC_0622.jpg)
+[](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/DSC_0622.jpg)
 
 I got this one, also from Craigslist, but in D.C. And by D.C. I mean that part of Silver Spring where it turns from Nice Suburban Georgia Avenue into OHMYGOD It&#8217;s sketchy DC. Which is less sketchy than West Philly. But still.  But instead of going during the day like I did this time, I decided to go after work, alone (where is Mr. B in these situations?) Also, I had my Honda Accord, which meant that the chair originally didn&#8217;t fit.  So there we were, a small white girl and a small Asian girl, kneeling on the ground on sketchy Georgia Avenue after dark, un-Allen-wrenching the chair to make it fit in my sedan.
 

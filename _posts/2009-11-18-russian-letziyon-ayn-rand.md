@@ -4,7 +4,7 @@ title: 'Russian LeTziyon: Ayn Rand'
 date: 2009-11-18T07:17:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1701
+guid: https://vkblog.github.io/?p=1701
 permalink: /2009/11/russian-letziyon-ayn-rand/
 categories:
   - Uncategorized
@@ -24,5 +24,5 @@ I was so excited to read her in 8th grade (for the record, I did finish The Foun
 And then promptly lost all respect for her when I found out she covered up her Russian Jewish identity, cheated on her husband with one of her &#8220;disciples&#8221; and was hopped up on [methamphetamines](http://althouse.blogspot.com/2009/10/ayn-rand-kept-going-on-amphetamines-and.html) to write.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_2.jpg"><img class="size-full wp-image-1702 aligncenter" title="Page_2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/11/Page_2.jpg" alt="Page_2" width="588" height="760" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/Page_2.jpg"><img class="size-full wp-image-1702 aligncenter" title="Page_2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/11/Page_2.jpg" alt="Page_2" width="588" height="760" /></a>
 </p>

@@ -4,7 +4,7 @@ title: The Climate Change Scandal and the Importance of Good Code
 date: 2009-12-10T07:00:33+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1856
+guid: https://vkblog.github.io/?p=1856
 permalink: /2009/12/the-climate-change-scandal-and-the-importance-of-good-code/
 categories:
   - Uncategorized
@@ -29,7 +29,7 @@ _
   <br /> 
   
   <div id="attachment_1857" style="width: 454px" class="wp-caption alignnone">
-    <em><a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/earth-egg.jpg"><img class="size-full wp-image-1857" title="earth egg" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/12/earth-egg.jpg" alt="CC azrainman via Flickr" width="444" height="467" /></a></em>
+    <em><a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/earth-egg.jpg"><img class="size-full wp-image-1857" title="earth egg" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/12/earth-egg.jpg" alt="CC azrainman via Flickr" width="444" height="467" /></a></em>
     
     <p class="wp-caption-text">
       CC azrainman via Flickr

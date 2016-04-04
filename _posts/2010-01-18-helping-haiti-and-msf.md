@@ -4,7 +4,7 @@ title: Helping Haiti and MSF
 date: 2010-01-18T07:37:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2125
+guid: https://vkblog.github.io/?p=2125
 permalink: /2010/01/helping-haiti-and-msf/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ I will never be able to understand or even process what people in Haiti are goin
 
 [Julie Minevich](http://www.julieminevich.com/where-to-support-haiti-earthquake-relief-efforts/) has a nice write-up of why you should be critical of aid organizations giving to Haiti right now, based on  my tweet:
 
-[<img class="aligncenter size-full wp-image-2126" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-21.png" alt="" width="636" height="252" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-21.png)I stumbled across [this post](http://www.reddit.com/r/worldnews/comments/ap5kz/please_go_to_wwwredcrossorg_and_donate_at_least/) on Reddit which details all the ways that the Red Cross is not helpful and organizations like [Medicins Sans Frontieres](http://www.msf.org/) (Doctors Without Borders) are.
+[<img class="aligncenter size-full wp-image-2126" title="Picture 2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-21.png" alt="" width="636" height="252" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-21.png)I stumbled across [this post](http://www.reddit.com/r/worldnews/comments/ap5kz/please_go_to_wwwredcrossorg_and_donate_at_least/) on Reddit which details all the ways that the Red Cross is not helpful and organizations like [Medicins Sans Frontieres](http://www.msf.org/) (Doctors Without Borders) are.
 
 <div>
   <div>
@@ -48,7 +48,7 @@ I will never be able to understand or even process what people in Haiti are goin
     </p>
     
     <p>
-      This goes along with a similar documentary that I&#8217;ve seen, <a href="http://blog.vickiboykis.com/wlb/2009/03/26/the-women-of-kabul-a-lost-time/">Motherland Afghanistan</a>, about how an Afghan doctor returns continuously to Afghanistan to provide obstetric care in the face of enormous difficulty, not the least of which is charity money lost from administrative bureaucracy that seems rampant. William Easterly details this problem over and over, but especially in a 2002 paper called &#8220;<a href="www.nyu.edu/fas/institute/dri/Easterly/File/carteljan2003.pdf">The Cartel of Good Intentions</a>&#8221;
+      This goes along with a similar documentary that I&#8217;ve seen, <a href="https://vkblog.github.io/2009/03/26/the-women-of-kabul-a-lost-time/">Motherland Afghanistan</a>, about how an Afghan doctor returns continuously to Afghanistan to provide obstetric care in the face of enormous difficulty, not the least of which is charity money lost from administrative bureaucracy that seems rampant. William Easterly details this problem over and over, but especially in a 2002 paper called &#8220;<a href="www.nyu.edu/fas/institute/dri/Easterly/File/carteljan2003.pdf">The Cartel of Good Intentions</a>&#8221;
     </p>
     
     <blockquote>
@@ -62,7 +62,7 @@ I will never be able to understand or even process what people in Haiti are goin
     </p>
     
     <p>
-      <a href="http://blog.vickiboykis.com/wlb/2009/02/04/kiva-the-white-persons-dream/">I wax nostalgic about Kiva</a>
+      <a href="https://vkblog.github.io/2009/02/04/kiva-the-white-persons-dream/">I wax nostalgic about Kiva</a>
     </p>
   </div>
 </div>

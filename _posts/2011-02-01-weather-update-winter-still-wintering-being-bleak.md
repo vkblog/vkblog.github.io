@@ -4,7 +4,7 @@ title: 'WEATHER UPDATE: Winter still wintering, being bleak'
 date: 2011-02-01T08:23:11+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4316
+guid: https://vkblog.github.io/?p=4316
 permalink: /2011/02/weather-update-winter-still-wintering-being-bleak/
 categories:
   - Uncategorized
@@ -19,11 +19,11 @@ Let me set the scene for you.
 6:58 in the morning. I am bleary and driving to work, listening to the radio:
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png"><img class="aligncenter size-full wp-image-4315" title="Screen shot 2011-02-01 at 8.15.03 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png" alt="" width="442" height="211" /></a>It is slushing and a little bit sleeting because goddamn you already February:
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png"><img class="aligncenter size-full wp-image-4315" title="Screen shot 2011-02-01 at 8.15.03 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-01-at-8.15.03-AM.png" alt="" width="442" height="211" /></a>It is slushing and a little bit sleeting because goddamn you already February:
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png"><img class="aligncenter size-full wp-image-4317" title="Screen shot 2011-02-01 at 8.16.09 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png" alt="" width="664" height="490" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png"><img class="aligncenter size-full wp-image-4317" title="Screen shot 2011-02-01 at 8.16.09 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/02/Screen-shot-2011-02-01-at-8.16.09-AM.png" alt="" width="664" height="490" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -32,7 +32,7 @@ Let me set the scene for you.
   </p>
   
   <p style="text-align: left;">
-    The phone rings.  It&#8217;s <a href="http://blog.vickiboykis.com/wlb/2009/06/21/happy-fathers-day/">my dad</a>.  Frankly, I&#8217;m surprised he called so late, because usually he calls me at 6:15 am and then again at 6:32.
+    The phone rings.  It&#8217;s <a href="https://vkblog.github.io/2009/06/21/happy-fathers-day/">my dad</a>.  Frankly, I&#8217;m surprised he called so late, because usually he calls me at 6:15 am and then again at 6:32.
   </p>
   
   <p style="text-align: left;">

@@ -4,7 +4,7 @@ title: 'Happy Father&#8217;s Day!'
 date: 2009-06-21T06:20:45+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=563
+guid: https://vkblog.github.io/?p=563
 permalink: /2009/06/happy-fathers-day/
 categories:
   - identity
@@ -14,7 +14,7 @@ tags:
   - me
 ---
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc00743.jpg"><img class="aligncenter size-full wp-image-564" title="dsc00743" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/dsc00743.jpg" alt="dsc00743" width="463" height="348" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/06/dsc00743.jpg"><img class="aligncenter size-full wp-image-564" title="dsc00743" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/06/dsc00743.jpg" alt="dsc00743" width="463" height="348" /></a>
 </p>
 
 <p style="text-align: left;">

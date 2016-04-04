@@ -4,7 +4,7 @@ title: The pros of Russian husbands
 date: 2009-07-30T00:00:31+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=919
+guid: https://vkblog.github.io/?p=919
 permalink: /2009/07/the-pros-of-russian-husbands/
 categories:
   - Uncategorized
@@ -22,7 +22,7 @@ Note: From time to time, I get questions asking me for Russian-related advice, w
 
 _Note: I censor swear words on this blog because there&#8217;s just so much f&#8212;&#8212;&#8211; vocabulary words you can f&#8212;&#8212;- use without swearwords, that there&#8217;s no point to this s&#8212;-.  Also, I think my mom reads this blog.  Because she calls me and tells me she reads the blog._ 
 
-_[<img class="aligncenter size-full wp-image-922" title="svadba" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/svadba.jpg" alt="svadba" width="500" height="329" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/svadba.jpg)
+_[<img class="aligncenter size-full wp-image-922" title="svadba" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/svadba.jpg" alt="svadba" width="500" height="329" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/svadba.jpg)
   
 _ 
 

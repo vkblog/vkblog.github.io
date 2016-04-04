@@ -4,7 +4,7 @@ title: Friday Links
 date: 2011-03-25T07:09:12+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=4658
+guid: https://vkblog.github.io/?p=4658
 permalink: /2011/03/friday-links-52/
 categories:
   - fridaylinks
@@ -12,14 +12,14 @@ categories:
 tags:
   - Friday
 ---
-Did you know that I am now part of a [Blog Bloc](http://likethevodka.com/?p=3113)?  It&#8217;s part of my effort to better organize the Russian/Jewish content on my site.  You can find [a list of bloggers here](http://blog.vickiboykis.com/wlb/russian-blogs/) and a badge if you are such a blogger and want one.  But don&#8217;t worry. I&#8217;ll still write about [Nutella](http://blog.vickiboykis.com/wlb/2009/10/27/midnight-nutella-a-halloween-post/), how much [my family is afraid of third world countries](http://blog.vickiboykis.com/wlb/2010/03/08/a-conversation-with-my-parents-about-india/), and [various girlcrushes,](http://blog.vickiboykis.com/wlb/2011/03/07/dambisa-moyo-my-girlcrush-in-philly/) too.
+Did you know that I am now part of a [Blog Bloc](http://likethevodka.com/?p=3113)?  It&#8217;s part of my effort to better organize the Russian/Jewish content on my site.  You can find [a list of bloggers here](https://vkblog.github.io/russian-blogs/) and a badge if you are such a blogger and want one.  But don&#8217;t worry. I&#8217;ll still write about [Nutella](https://vkblog.github.io/2009/10/27/midnight-nutella-a-halloween-post/), how much [my family is afraid of third world countries](https://vkblog.github.io/2010/03/08/a-conversation-with-my-parents-about-india/), and [various girlcrushes,](https://vkblog.github.io/2011/03/07/dambisa-moyo-my-girlcrush-in-philly/) too.
 
 By the way,
 
 I am part of a Russian-American Professional group on LinkedIN. One of the recent discussions has been &#8220;<a href="http://www.linkedin.com/e/1hhm2h-glnr2j62-3r/vaq/15335780/40692/34859307/view_disc/" target="_blank">Why is it SO difficult (in most cases) to do business with Russian-Americans?</a>&#8221;  The answers to the question are hilarious, because it is mostly true that it is difficult to do business with Russian-Americans, especially if they are very recent immigrants.  Here&#8217;s part of the thread that I enjoyed:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png"><img class="aligncenter size-full wp-image-4659" title="Screen shot 2011-03-24 at 10.01.22 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png" alt="" width="509" height="578" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png"><img class="aligncenter size-full wp-image-4659" title="Screen shot 2011-03-24 at 10.01.22 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/03/Screen-shot-2011-03-24-at-10.01.22-AM.png" alt="" width="509" height="578" /></a>
 </p>
 
 **Links:**

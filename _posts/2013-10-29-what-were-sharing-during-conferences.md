@@ -4,7 +4,7 @@ title: 'What we&#8217;re sharing during conferences'
 date: 2013-10-29T07:12:01+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9220
+guid: https://vkblog.github.io/?p=9220
 permalink: /2013/10/what-were-sharing-during-conferences/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - conference
   - strata
 ---
-  1. [<img class="aligncenter size-full wp-image-9221" alt="brain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/brain.png" width="500" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/10/brain.png)That we&#8217;re on our way to a conference
+  1. [<img class="aligncenter size-full wp-image-9221" alt="brain" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/10/brain.png" width="500" height="500" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/10/brain.png)That we&#8217;re on our way to a conference
   2. Pictures of the wings of our plane
   3. FourSquare Checkin at conference hotel registration
   4. Picture of free Fortune 500 company ballpoint pen

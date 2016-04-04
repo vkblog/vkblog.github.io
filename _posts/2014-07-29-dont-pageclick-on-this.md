@@ -4,13 +4,13 @@ title: 'Don&#8217;t pageclick on this'
 date: 2014-07-29T08:02:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9755
+guid: https://vkblog.github.io/?p=9755
 permalink: /2014/07/dont-pageclick-on-this/
 categories:
   - news
   - Uncategorized
 ---
-[<img class="aligncenter size-medium wp-image-9773" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge-580x481.jpg" alt="readers-of-newspapers-in-naples-1831.jpg!Large" width="580" height="481" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge.jpg)
+[<img class="aligncenter size-medium wp-image-9773" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge-580x481.jpg" alt="readers-of-newspapers-in-naples-1831.jpg!Large" width="580" height="481" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/07/readers-of-newspapers-in-naples-1831.jpgLarge.jpg)
 
 In the pre-industrial age, the most valuable commodity was time. Would you have enough time to plant a harvest? Were there enough hours in the day before the sun set and the candles needed to be lit?  People spent days and years making things-watches, dresses, meals, cathedrals. J<a href="http://www.luminarium.org/sevenlit/donne/sunrising.htm" target="_blank">ohn Donne wrote whole poems</a> about how the sun decided the day.
 
@@ -22,7 +22,7 @@ In the YOU WON&#8217;T BELIEVE WHAT HAPPENS IF YOU CLICK THIS LINK age, despite
 
 Idleness has always been a negative trait. If you weren&#8217;t planting fields, it meant you wouldn&#8217;t eat. But we can get food whenever we want, so today&#8217;s idleness in the Western world is superficial, and because we are scared of death.  We need to be occupied by whatever we deem most important to us not because it&#8217;s essential for life, but because of our ego.
 
-Today&#8217;s most valuable commodity is attention. Seth Godin, who writes some gimmicky stuff but also some gems,  wrote recently, &#8220;There&#8217;s a gold rush for attention going on. <a href="http://sethgodin.typepad.com/seths_blog/2014/06/in-search-of-meaningful.html" target="_blank">We are all in the media business.</a>&#8221;  I&#8217;ve written before about <a href="http://blog.vickiboykis.com/wlb/2012/12/how-to-watch-internet-news/" target="_blank">how much I hate</a> the current shape of the mainstream media, an issue that impacts most people who live on the internet and let the internet shape their world views.
+Today&#8217;s most valuable commodity is attention. Seth Godin, who writes some gimmicky stuff but also some gems,  wrote recently, &#8220;There&#8217;s a gold rush for attention going on. <a href="http://sethgodin.typepad.com/seths_blog/2014/06/in-search-of-meaningful.html" target="_blank">We are all in the media business.</a>&#8221;  I&#8217;ve written before about <a href="https://vkblog.github.io/2012/12/how-to-watch-internet-news/" target="_blank">how much I hate</a> the current shape of the mainstream media, an issue that impacts most people who live on the internet and let the internet shape their world views.
 
 A couple weeks ago at WordCamp Philly, <a href="http://www.slideshare.net/vickiboykis/word-camp-philly-2014-good-content" target="_blank">I talked for 45 minutes</a> about how SEO, Twitter, and Buzzfeed are ruining good quality writing, and that if you really care about writing well, you should be writing consistently good content about things you care about because you&#8217;re passionate about them, not because you want to whore yourself out for pageclicks.
 
@@ -36,7 +36,7 @@ By the way, the best things so far I have read on Ukraine and Gaza in the Englis
 
 I&#8217;m posting a specific example, not to pick on people who have posted it (at least two or three in my timeline, either because they agree or disagree with it&#8230;I have no idea, I didn&#8217;t click on it), but because this exemplifies exactly the type of shit I&#8217;m angry about. Sensational image, misleading headline, all encouraging you to CLICK CLICK CLICK.
 
-[<img class="aligncenter size-medium wp-image-9778" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM-580x437.png" alt="Screen Shot 2014-07-29 at 7.39.22 AM" width="580" height="437" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM.png)
+[<img class="aligncenter size-medium wp-image-9778" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM-580x437.png" alt="Screen Shot 2014-07-29 at 7.39.22 AM" width="580" height="437" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/07/Screen-Shot-2014-07-29-at-7.39.22-AM.png)
 
 These are fun to flip through on the train or in minutes you have spare time, but really all they do is stress you out, make you angrier, and worst of all,  lead to colossal misunderstandings of how the world works. I have to read at least five different sources to corroborate Israeli and Palestinian claims, and not because the issue is so complicated, which it is, but because journalists are plain lazy and editors need pageclicks faster and faster.
 

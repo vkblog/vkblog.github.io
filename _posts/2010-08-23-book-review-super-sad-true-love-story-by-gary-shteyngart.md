@@ -4,14 +4,14 @@ title: 'Book Review: Super Sad True Love Story by Gary Shteyngart'
 date: 2010-08-23T20:51:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3504
+guid: https://vkblog.github.io/?p=3504
 permalink: /2010/08/book-review-super-sad-true-love-story-by-gary-shteyngart/
 categories:
   - Uncategorized
 tags:
   - books
 ---
-[<img class="aligncenter size-full wp-image-3510" title="super_sad_true_love_story.large" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/super_sad_true_love_story.large_.jpg" alt="" width="335" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/super_sad_true_love_story.large_.jpg)
+[<img class="aligncenter size-full wp-image-3510" title="super_sad_true_love_story.large" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/08/super_sad_true_love_story.large_.jpg" alt="" width="335" height="500" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/08/super_sad_true_love_story.large_.jpg)
 
 The phrase,
 
@@ -19,11 +19,11 @@ The phrase,
 
 doesn&#8217;t have a more relevant application than as the summary of Gary Shteyngart&#8217;s Super Sad True Love Story. I wrote before about how I thought he jumped the shark and that if I had to read one more story about the type of Russian Jewish guy my parents tried to set me up with-schmucky, directionless, and still at a mental age of eight, I would break up with Gary hard.
 
-And this is me we&#8217;re talking about.  Remember, I have a poster of Shteyngart that I sacrifice small lambs to in case the talent god ever decides to grace my doorstep the way he did G&#8217;s.  I&#8217;m happy to report that the book and [my beloved Gar-bear](http://blog.vickiboykis.com/wlb/2010/07/28/gary-shteyngart-kind-of-acknowledges-me-on-facebook/) surpassed my expectations yet again and had me dog-earing every page with an urgent, &#8220;Remember this.  It&#8217;s really poignant and clever.&#8221;
+And this is me we&#8217;re talking about.  Remember, I have a poster of Shteyngart that I sacrifice small lambs to in case the talent god ever decides to grace my doorstep the way he did G&#8217;s.  I&#8217;m happy to report that the book and [my beloved Gar-bear](https://vkblog.github.io/2010/07/28/gary-shteyngart-kind-of-acknowledges-me-on-facebook/) surpassed my expectations yet again and had me dog-earing every page with an urgent, &#8220;Remember this.  It&#8217;s really poignant and clever.&#8221;
 
 The book&#8217;s major premise is a combination of 1984, mixed with Brave New World, a bit of Shalom Aleichem, and the same deadpan jabs at our vapid American hyperculture that Shteyngart delivered at ex-Eastern Europe in his last two books (which I consider my personal Tanakh.) We are again in Gary&#8217;s beloved New York City, ten or fifteen years into the future, and all the recessionary trends that I&#8217;ve been tracking with alarm at work the past two years have been bloated and taken off as if they were on speed.
 
-[<img class="aligncenter size-full wp-image-3512" title="18fob-q4-t_CA0-articleInline" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/18fob-q4-t_CA0-articleInline.jpg" alt="" width="190" height="435" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/08/18fob-q4-t_CA0-articleInline.jpg)
+[<img class="aligncenter size-full wp-image-3512" title="18fob-q4-t_CA0-articleInline" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/08/18fob-q4-t_CA0-articleInline.jpg" alt="" width="190" height="435" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/08/18fob-q4-t_CA0-articleInline.jpg)
 
 The U.S. is even more in debt to China, there is the regular (worthless) dollar, the yuan-pegged dollar and the euro-pegged dollar.  Something called the American Restoration Authority scares the hell out of everyone by doing the opposite of restoring and instead installing military checkpoints to get in and out of America but especially the island of Manhattan.  Their slogan, which I can&#8217;t get over, is &#8220;imply and ignore,&#8221; as in implying consent at their messages and pretending to ignore that they exist.
 

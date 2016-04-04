@@ -4,7 +4,7 @@ title: Asher Kaufman on the Village of Ghajr at the Middle East Institute
 date: 2009-10-28T22:05:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1585
+guid: https://vkblog.github.io/?p=1585
 permalink: /2009/10/asher-kaufman-on-the-village-of-ghajr-at-the-middle-east-institute/
 categories:
   - Uncategorized
@@ -17,7 +17,7 @@ tags:
   - Syria
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/1027091240.jpg"><img class="aligncenter size-full wp-image-1584" title="1027091240" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/1027091240.jpg" alt="1027091240" width="595" height="446" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/1027091240.jpg"><img class="aligncenter size-full wp-image-1584" title="1027091240" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/1027091240.jpg" alt="1027091240" width="595" height="446" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -35,7 +35,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/al-ghajar.jpg"><img class="aligncenter size-full wp-image-1586" title="al ghajar" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/al-ghajar.jpg" alt="al ghajar" width="531" height="466" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/al-ghajar.jpg"><img class="aligncenter size-full wp-image-1586" title="al ghajar" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/al-ghajar.jpg" alt="al ghajar" width="531" height="466" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -55,7 +55,7 @@ tags:
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alghajar.jpg"><img class="aligncenter size-full wp-image-1588" title="alghajar" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/10/alghajar.jpg" alt="alghajar" width="626" height="469" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/alghajar.jpg"><img class="aligncenter size-full wp-image-1588" title="alghajar" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/10/alghajar.jpg" alt="alghajar" width="626" height="469" /></a>
 </p>
 
 <p style="text-align: left;">

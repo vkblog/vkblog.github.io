@@ -4,7 +4,7 @@ title: 'The Victorian Error: Lite Jazz'
 date: 2009-07-12T15:09:49+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=722
+guid: https://vkblog.github.io/?p=722
 permalink: /2009/07/the-victorian-error-lite-jazz/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
 The parents came this weekend for my dad&#8217;s birthday:
 
 <div id="attachment_723" style="width: 428px" class="wp-caption alignnone">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01880.jpg"><img class="size-full wp-image-723" style="border: 0pt none;" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01880.jpg" alt="Can you guess which two are mine? It's a trick, because I don't look like either of them. Is there something you would like to reveal to me, Mom and Dad, now that I can handle it?" width="418" height="312" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/dsc01880.jpg"><img class="size-full wp-image-723" style="border: 0pt none;" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/dsc01880.jpg" alt="Can you guess which two are mine? It's a trick, because I don't look like either of them. Is there something you would like to reveal to me, Mom and Dad, now that I can handle it?" width="418" height="312" /></a>
   
   <p class="wp-caption-text">
     Can you guess which two are mine? It's a trick, because I don't look like either of them. Is there something you would like to reveal to me, Mom and Dad, now that I can handle it?
@@ -79,7 +79,7 @@ The parents came this weekend for my dad&#8217;s birthday:
                                                                                             <p style="text-align: left;">
                                                                                               <p style="text-align: left;">
                                                                                                 <div id="attachment_724" style="width: 367px" class="wp-caption aligncenter">
-                                                                                                  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/kitchen.gif"><img class="size-full wp-image-724" title="kitchen" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/kitchen.gif" alt="Mr. B with his potato digging stick. " width="357" height="480" /></a>
+                                                                                                  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/kitchen.gif"><img class="size-full wp-image-724" title="kitchen" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/kitchen.gif" alt="Mr. B with his potato digging stick. " width="357" height="480" /></a>
                                                                                                   
                                                                                                   <p class="wp-caption-text">
                                                                                                     Mr. B with his potato digging stick.

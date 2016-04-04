@@ -4,7 +4,7 @@ title: Weekends are for anxiety
 date: 2012-11-08T07:06:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7796
+guid: https://vkblog.github.io/?p=7796
 permalink: /2012/11/weekends-are-for-anxiety/
 categories:
   - Uncategorized
@@ -13,7 +13,7 @@ tags:
   - philly
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/roy-lichtenstein-pop-prints-crying-girl.jpeg"><img class="aligncenter  wp-image-7797" title="roy-lichtenstein-pop-prints-crying-girl" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/11/roy-lichtenstein-pop-prints-crying-girl-1024x720.jpeg" alt="" width="430" height="302" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/roy-lichtenstein-pop-prints-crying-girl.jpeg"><img class="aligncenter  wp-image-7797" title="roy-lichtenstein-pop-prints-crying-girl" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/11/roy-lichtenstein-pop-prints-crying-girl-1024x720.jpeg" alt="" width="430" height="302" /></a>
 </p>
 
 <p style="text-align: center;">

@@ -4,7 +4,7 @@ title: Don’t trust Pinterest pregnancies
 date: 2014-09-03T08:21:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9814
+guid: https://vkblog.github.io/?p=9814
 permalink: /2014/09/dont-trust-pinterest-pregnancies/
 categories:
   - family
@@ -13,7 +13,7 @@ tags:
   - life
   - pregnancy
 ---
-[<img class="aligncenter size-full wp-image-9815" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg" alt="The-Happy-Family-xx-Adolf-Eberle" width="482" height="594" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg)
+[<img class="aligncenter size-full wp-image-9815" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg" alt="The-Happy-Family-xx-Adolf-Eberle" width="482" height="594" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/09/The-Happy-Family-xx-Adolf-Eberle.jpg)
 
 &nbsp;
 

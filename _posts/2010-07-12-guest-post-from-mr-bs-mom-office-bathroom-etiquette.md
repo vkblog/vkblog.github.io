@@ -4,7 +4,7 @@ title: 'Guest Post from Mr. B&#8217;s Mom: Office Bathroom Etiquette'
 date: 2010-07-12T08:27:14+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3289
+guid: https://vkblog.github.io/?p=3289
 permalink: /2010/07/guest-post-from-mr-bs-mom-office-bathroom-etiquette/
 categories:
   - Uncategorized
@@ -15,12 +15,12 @@ tags:
   - professional development
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
 </p>
 
 Mr. B&#8217;s mom was casually rolling meat into little balls for kebab on Saturday as she asked me, &#8220;You write a lot, right?&#8221;
 
-I told her that, sure, I wrote, if [writing delusioned novel drafts](http://blog.vickiboykis.com/wlb/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
+I told her that, sure, I wrote, if [writing delusioned novel drafts](https://vkblog.github.io/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
 
 &#8220;Well, I&#8217;ve been thinking about a problem that needs some public awareness.&#8221;
 
@@ -33,12 +33,12 @@ Other various people mentioned that they had heard, among other things, toilets 
 It&#8217;s not the other things so much as [phone calls in the bathroom](http://www.snopes.com/embarrass/mistaken/stall.asp) that bother Mr. B&#8217;s mom.
 
 Her question is:  why do people [[<p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0192.jpg"><img class="aligncenter size-full wp-image-3291" title="IMAG0192" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/IMAG0192.jpg" alt="" width="307" height="512" /></a>After our 5k last weekend. She will outrun a bear.
 </p>
 
 Mr. B&#8217;s mom was casually rolling meat into little balls for kebab on Saturday as she asked me, &#8220;You write a lot, right?&#8221;
 
-I told her that, sure, I wrote, if [writing delusioned novel drafts](http://blog.vickiboykis.com/wlb/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
+I told her that, sure, I wrote, if [writing delusioned novel drafts](https://vkblog.github.io/2010/02/18/im-going-to-fire-my-editor/) and blog posts about Nutella counted.
 
 &#8220;Well, I&#8217;ve been thinking about a problem that needs some public awareness.&#8221;
 

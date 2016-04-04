@@ -4,7 +4,7 @@ title: Marriage regulations in Israel and the world
 date: 2009-08-03T20:47:03+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=962
+guid: https://vkblog.github.io/?p=962
 permalink: /2009/08/marriage-regulations-in-israel-and-the-world/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - marriage
   - Russia
 ---
-[<img class="aligncenter size-full wp-image-963" title="helene-israel-wedding" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/helene-israel-wedding.jpg" alt="helene-israel-wedding" width="381" height="504" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/helene-israel-wedding.jpg)
+[<img class="aligncenter size-full wp-image-963" title="helene-israel-wedding" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/helene-israel-wedding.jpg" alt="helene-israel-wedding" width="381" height="504" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/helene-israel-wedding.jpg)
 
 Yesterday, [I posted](http://dovbear.blogspot.com/2009/08/jews-cant-marry-in-israel.html) on [DovBear](http://dovbear.blogspot.com/) about how Jews from the Former Soviet Union often cannot get married in Israel because they are not verified to be Jewish by the Rabbinate, which has a monopoly on Jewish marriage in Israel. The post got over 300 comments, which is not unusual for DovBear&#8217;s community of religious and non-religious Jewish readers alike, but it really is a hot button issue.
 

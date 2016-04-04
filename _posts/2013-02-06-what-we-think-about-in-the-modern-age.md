@@ -4,7 +4,7 @@ title: What we think about in the modern age
 date: 2013-02-06T08:20:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=8340
+guid: https://vkblog.github.io/?p=8340
 permalink: /2013/02/what-we-think-about-in-the-modern-age/
 categories:
   - Uncategorized
@@ -19,7 +19,7 @@ tags:
   - thinking
   - Twitter
 ---
-[<img class="aligncenter size-full wp-image-8341" alt="brain" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/brain.png" width="500" height="500" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2013/02/brain.png)
+[<img class="aligncenter size-full wp-image-8341" alt="brain" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/brain.png" width="500" height="500" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2013/02/brain.png)
 
 &nbsp;
 

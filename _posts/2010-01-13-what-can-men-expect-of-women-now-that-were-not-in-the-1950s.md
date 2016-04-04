@@ -4,7 +4,7 @@ title: 'What Can Men Expect of Women Now that We&#8217;re Not in the 1950s?'
 date: 2010-01-13T07:31:18+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=2085
+guid: https://vkblog.github.io/?p=2085
 permalink: /2010/01/what-can-men-expect-of-women-now-that-were-not-in-the-1950s/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ _This post took me a really long time to write, but I&#8217;m hoping it&#8217;ll
 [This post](http://artofmanliness.com/2009/12/20/what-can-manly-men-expect-of-women/) has been getting lots and lots of comments lately and I thought I would bring it over here for an open discussion of gender roles and economics over the last 50 years.  I disagree with some of the points made in the post, where the authors, a husband and wife team trying to teach men to be more &#8220;manly&#8221; in this day and age (based on a [definition of](http://artofmanliness.com/about-2/) helping men to become better husbands, fathers, and better man through &#8220;virtues.&#8221;) In general, I think it is off-base, too generalized, and anachronistic.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-2.png"><img class="aligncenter size-full wp-image-2086" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-2.png" alt="" width="529" height="580" /></a><a href="http://www.amaregi.com/rupplerow/"><br /> source.  Seriously, check the source out.  Wow. </a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-2.png"><img class="aligncenter size-full wp-image-2086" title="Picture 2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-2.png" alt="" width="529" height="580" /></a><a href="http://www.amaregi.com/rupplerow/"><br /> source.  Seriously, check the source out.  Wow. </a>
 </p>
 
 The post begins by giving a checklist of what made a good husband and wife in 1939 in America.  The authors write,
@@ -56,7 +56,7 @@ Today, women are expected by society and economic circumstances (as well as thei
 
 Amidst all this, when does she have time to be feminine in the way The Art of Manliness defines being feminine, which is continuing to look polished and being feminine (whatever that may mean) and cooking and taking care of the kids all while letting the man do his own &#8220;manly&#8221; role, however that may be defined.
 
-[<img class="aligncenter size-full wp-image-2093" title="taintor" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/taintor.jpg" alt="" width="311" height="211" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/taintor.jpg)
+[<img class="aligncenter size-full wp-image-2093" title="taintor" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/taintor.jpg" alt="" width="311" height="211" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/taintor.jpg)
 
 I don&#8217;t have an issue with men doing man stuff.   In fact, as feminist as I am, coming from a Russian cultural background and having my dad fix everything we&#8217;ve ever owned just by reading a manual, predisposes me to certain stereotypes of what men should and shouldn&#8217;t be doing.  Men should know how to fix everything, take care of cars, and protect the house.  Women should cook, constantly be cooking for men, eat last, and be lady-like and soft, which includes knowing how to dress, AND on top of this be expected to raise kids and have a career.  And, as progressive as Mr. B and I both are, I am frequently surprised to see us taking on these gender roles without any conscious effort.
 
@@ -69,7 +69,7 @@ Related on the blog:
 [This post](http://artofmanliness.com/2009/12/20/what-can-manly-men-expect-of-women/) has been getting lots and lots of comments lately and I thought I would bring it over here for an open discussion of gender roles and economics over the last 50 years.  I disagree with some of the points made in the post, where the authors, a husband and wife team trying to teach men to be more &#8220;manly&#8221; in this day and age (based on a [definition of](http://artofmanliness.com/about-2/) helping men to become better husbands, fathers, and better man through &#8220;virtues.&#8221;) In general, I think it is off-base, too generalized, and anachronistic.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-2.png"><img class="aligncenter size-full wp-image-2086" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/Picture-2.png" alt="" width="529" height="580" /></a><a href="http://www.amaregi.com/rupplerow/"><br /> source.  Seriously, check the source out.  Wow. </a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-2.png"><img class="aligncenter size-full wp-image-2086" title="Picture 2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/Picture-2.png" alt="" width="529" height="580" /></a><a href="http://www.amaregi.com/rupplerow/"><br /> source.  Seriously, check the source out.  Wow. </a>
 </p>
 
 The post begins by giving a checklist of what made a good husband and wife in 1939 in America.  The authors write,
@@ -104,7 +104,7 @@ Today, women are expected by society and economic circumstances (as well as thei
 
 Amidst all this, when does she have time to be feminine in the way The Art of Manliness defines being feminine, which is continuing to look polished and being feminine (whatever that may mean) and cooking and taking care of the kids all while letting the man do his own &#8220;manly&#8221; role, however that may be defined.
 
-[<img class="aligncenter size-full wp-image-2093" title="taintor" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/taintor.jpg" alt="" width="311" height="211" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/01/taintor.jpg)
+[<img class="aligncenter size-full wp-image-2093" title="taintor" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/taintor.jpg" alt="" width="311" height="211" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/01/taintor.jpg)
 
 I don&#8217;t have an issue with men doing man stuff.   In fact, as feminist as I am, coming from a Russian cultural background and having my dad fix everything we&#8217;ve ever owned just by reading a manual, predisposes me to certain stereotypes of what men should and shouldn&#8217;t be doing.  Men should know how to fix everything, take care of cars, and protect the house.  Women should cook, constantly be cooking for men, eat last, and be lady-like and soft, which includes knowing how to dress, AND on top of this be expected to raise kids and have a career.  And, as progressive as Mr. B and I both are, I am frequently surprised to see us taking on these gender roles without any conscious effort.
 
@@ -112,8 +112,8 @@ I don&#8217;t have a problem with some form of gender roles. They make a marriag
 
 Related on the blog:
   
-](http://blog.vickiboykis.com/wlb/2010/01/04/is-it-feminism-to-pose-naked-with-a-challah/) 
+](https://vkblog.github.io/2010/01/04/is-it-feminism-to-pose-naked-with-a-challah/) 
   
-[The first Nobel Prize in economics awarded to a woman](http://blog.vickiboykis.com/wlb/2009/10/12/the-first-nobel-prize-in-economics-awarded-to-a-woman/)
+[The first Nobel Prize in economics awarded to a woman](https://vkblog.github.io/2009/10/12/the-first-nobel-prize-in-economics-awarded-to-a-woman/)
   
-[On being Batman as a girl](http://blog.vickiboykis.com/wlb/2009/09/20/on-being-batman-as-a-girl/)
+[On being Batman as a girl](https://vkblog.github.io/2009/09/20/on-being-batman-as-a-girl/)

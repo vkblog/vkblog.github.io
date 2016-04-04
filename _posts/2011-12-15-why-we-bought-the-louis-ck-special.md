@@ -4,7 +4,7 @@ title: Why we bought the Louis CK special
 date: 2011-12-15T08:07:48+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6027
+guid: https://vkblog.github.io/?p=6027
 permalink: /2011/12/why-we-bought-the-louis-ck-special/
 categories:
   - Uncategorized
@@ -38,7 +38,7 @@ This is exactly what I want to see from my digital media. If I pay for it, I own
 
 No bullshit like this:
 
-[<img class="aligncenter size-full wp-image-6028" title="ifurapirate" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/ifurapirate.jpeg" alt="" width="640" height="432" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/12/ifurapirate.jpeg)
+[<img class="aligncenter size-full wp-image-6028" title="ifurapirate" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/ifurapirate.jpeg" alt="" width="640" height="432" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/12/ifurapirate.jpeg)
 
 > The show went on sale at noon on Saturday, December 10th. 12 hours later, we had over 50,000 purchases and had earned $250,000, breaking even on the cost of production and website. As of Today, we&#8217;ve sold over 110,000 copies for a total of over $500,000. Minus some money for PayPal charges etc, I have a profit around $200,000 (after taxes $75.58). This is less than I would have been paid by a large company to simply perform the show and let them sell it to you, but they would have charged you about $20 for the video. They would have given you an encrypted and regionally restricted video of limited value, and they would have owned your private information for their own use. They would have withheld international availability indefinitely. This way, you only paid $5, you can use the video any way you want, and you can watch it in Dublin, whatever the city is in Belgium, or Dubai. I got paid nice, and I still own the video (as do you). You never have to join anything, and you never have to hear from us again.
 

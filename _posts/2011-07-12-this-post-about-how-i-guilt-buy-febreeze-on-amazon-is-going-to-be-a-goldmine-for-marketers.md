@@ -4,7 +4,7 @@ title: This Post about How I Guilt-Buy Febreeze On Amazon is Going to be a Goldm
 date: 2011-07-12T09:55:40+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5267
+guid: https://vkblog.github.io/?p=5267
 permalink: /2011/07/this-post-about-how-i-guilt-buy-febreeze-on-amazon-is-going-to-be-a-goldmine-for-marketers/
 categories:
   - Uncategorized
@@ -26,12 +26,12 @@ You get the point.
 
 As a result, we&#8217;ve accumulated so much stuff that I&#8217;m worried if we move again, we&#8217;ll have to work on a three-step procedure to ship it back to Amazon in the same boxes and then on to our new house.
 
-We&#8217;ve learned <a href="http://blog.vickiboykis.com/wlb/2010/04/14/welcome-to-the-bardak-that-is-my-apartment/" target="_blank">nothing</a>.
+We&#8217;ve learned <a href="https://vkblog.github.io/2010/04/14/welcome-to-the-bardak-that-is-my-apartment/" target="_blank">nothing</a>.
 
 So yesterday Mr. B opened the Amazon box and <a href="http://www.amazon.com/gp/product/B003YZE69O" target="_blank">found this</a>:
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Febreze.jpg"><img class="aligncenter size-full wp-image-5268" title="Febreze" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/Febreze.jpg" alt="" width="287" height="493" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Febreze.jpg"><img class="aligncenter size-full wp-image-5268" title="Febreze" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/Febreze.jpg" alt="" width="287" height="493" /></a>
 </p>
 
 Mr. B: \*opens box\* \*a minute of silence\* Are you serious?
@@ -56,7 +56,7 @@ An American is the worst thing you can be called as an immigrant because America
 
 The same with household items.  You have to go, mercenary-style, from store to store, Target to Walmart to the Dollar Store, looking for the coupons that will save you $.35 on the bottle of Febreeze and arguing with the store manager because the coupon is really for two Febreezes and you just want one and you want your money back but sir that&#8217;s impossible but what kind of business are you that rips off immigrants are you racist i&#8217;m never coming back here again oh alright here it is mike give the gentleman his thirty-five cents have a nice day sir and when you&#8217;re done, hold up the bottle aloft in victory, along with the receipt, and give out a yell. &#8220;This is how it&#8217;s done, kids! Those Americans aren&#8217;t getting my thirty-five cents! This is why WE won World War II.&#8221;
 
-[<img class="aligncenter size-full wp-image-5271" title="temple_of_doom_flaming-heart" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/temple_of_doom_flaming-heart.jpg" alt="" width="267" height="260" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/07/temple_of_doom_flaming-heart.jpg)
+[<img class="aligncenter size-full wp-image-5271" title="temple_of_doom_flaming-heart" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/temple_of_doom_flaming-heart.jpg" alt="" width="267" height="260" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/07/temple_of_doom_flaming-heart.jpg)
 
 If you buy it online, without comparison shopping, without stressful yelling, you are going back on your roots and everything you stand for, and why did we bring you to America?  To sit and type www.com all day and not comparison shop on <a href="http://www.amazon.com/gp/subscribe-and-save/details/index.html/ref=rcxsubs_dp_more" target="_blank">Amazon</a> and <a href="http://alice.com/" target="_blank">Alice</a> , like all the other Americans?
 

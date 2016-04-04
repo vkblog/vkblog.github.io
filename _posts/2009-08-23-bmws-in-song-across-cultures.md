@@ -4,7 +4,7 @@ title: BMWs in song across cultures
 date: 2009-08-23T22:18:42+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1027
+guid: https://vkblog.github.io/?p=1027
 permalink: /2009/08/bmws-in-song-across-cultures/
 categories:
   - Uncategorized
@@ -24,7 +24,7 @@ There comes a time in every Russians&#8217; life when, due to genetic programmin
 
 I tried to find some picture examples for you on VKontakte, which is the Facebook ripoff Russians use, but all I came up with was this enigma:
 
-[<img class="aligncenter size-full wp-image-1141" title="Picture 2" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/Picture-2.png" alt="Picture 2" width="452" height="177" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/Picture-2.png)
+[<img class="aligncenter size-full wp-image-1141" title="Picture 2" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/Picture-2.png" alt="Picture 2" width="452" height="177" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/Picture-2.png)
 
 That time in my life when I lusted after a BMW was after I had been working a year.  I decided I was Hot Stuff and made it my life goal to save up for a 300-series.  I got to about $500 in my ING account before I gave up, realizing that not only would I need to shell out 50k for  a car I would be subsequently too scared to drive, but also that I would have to buy premium gas AND get one of those obnoxious faux-European license plates.
 

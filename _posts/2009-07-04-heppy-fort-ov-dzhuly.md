@@ -4,7 +4,7 @@ title: Heppy Fort ov Dzhuly
 date: 2009-07-04T07:00:29+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=673
+guid: https://vkblog.github.io/?p=673
 permalink: /2009/07/heppy-fort-ov-dzhuly/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - Russia
 ---
 <div id="attachment_675" style="width: 359px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01795.jpg"><img class="size-full wp-image-675" title="dsc01795" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01795.jpg" alt="dsc01795" width="349" height="596" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/dsc01795.jpg"><img class="size-full wp-image-675" title="dsc01795" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/dsc01795.jpg" alt="dsc01795" width="349" height="596" /></a>
   
   <p class="wp-caption-text">
     At the capitol in the capital
@@ -30,7 +30,7 @@ But if there wasn&#8217;t a Fort ov Dzhuly, I wouldn&#8217;t have my ironic acce
 If there was no Fort ov Dzhuly, Mr. B would be drafted into the Russian Army and beaten every couple days or so for dedovschina, hazing induction into the Russian army .  Probably more so because he&#8217;s Jewish and Russians aren&#8217;t big fans of Jews in the army (or anywhere.)  He might have risen to the top with his programming skills, as he has here. But it&#8217;s hard to break through unless you have a lot of money to bribe people.  Talent isn&#8217;t recognized very well in Russia.
 
 <div id="attachment_676" style="width: 381px" class="wp-caption aligncenter">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01797.jpg"><img class="size-full wp-image-676" title="dsc01797" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/07/dsc01797.jpg" alt="dsc01797" width="371" height="488" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/dsc01797.jpg"><img class="size-full wp-image-676" title="dsc01797" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/07/dsc01797.jpg" alt="dsc01797" width="371" height="488" /></a>
   
   <p class="wp-caption-text">
     Instead of being beaten senseless, Mr. B is seen here, frolicking. Yay!

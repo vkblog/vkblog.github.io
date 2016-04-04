@@ -4,7 +4,7 @@ title: 'How I&#8217;ve been avoiding writing: I got a typewriter'
 date: 2014-01-25T15:01:59+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=9431
+guid: https://vkblog.github.io/?p=9431
 permalink: /2014/01/how-ive-been-avoiding-writing-i-got-a-typewriter/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - writing
 ---
 <p style="text-align: center;">
-   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/ernest-hemingway2.jpg"><img class="aligncenter  wp-image-9434" alt="ERNEST HEMINGWAY" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/ernest-hemingway2-580x740.jpg" width="464" height="592" /></a>
+   <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/01/ernest-hemingway2.jpg"><img class="aligncenter  wp-image-9434" alt="ERNEST HEMINGWAY" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/01/ernest-hemingway2-580x740.jpg" width="464" height="592" /></a>
 </p>
 
 Writers will do crazy things to get out of actually writing, because we like the idea of writing, but we hate actually sitting down on our ass and punching out the words.For example, Ernest Hemingway joined the American army in Italy in order not to write.  Things are looking pretty bleak when you voluntarily go to Italy, get severely injured, and have to spend months in a hospital rather than write another goddamn word about Frederic Henry and/or rain.
@@ -29,14 +29,14 @@ But even that wasn&#8217;t enough, because I am a fragile creator of masterpiece
 I decided I needed a typewriter.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/IMG_20131227_171034.jpg"><img class="aligncenter  wp-image-9435" alt="IMG_20131227_171034" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/IMG_20131227_171034-580x773.jpg" width="464" height="618" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/01/IMG_20131227_171034.jpg"><img class="aligncenter  wp-image-9435" alt="IMG_20131227_171034" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/01/IMG_20131227_171034-580x773.jpg" width="464" height="618" /></a>
 </p>
 
 So I started trolling Craigslist, and, on one fine evening late in December, I was headed to Fishtown to pick up my <a href="http://mytypewriter.com/royalquietdeluxeincolors-1.aspx" target="_blank">Royal</a> (mine is not pink, because typewriters are for Real Men.)
 
-&#8220;Will you come with me,&#8221; I pleaded with Mr. B. The owner of the typewriter was male, and he wanted me to come inside to check the machine, and, naturally, I was afraid of <a href="http://blog.vickiboykis.com/wlb/2011/06/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">shanking</a>. &#8220;You&#8217;re going to Fishtown?&#8221; Mr. B asked. &#8220;You&#8217;ll be fine.&#8221;
+&#8220;Will you come with me,&#8221; I pleaded with Mr. B. The owner of the typewriter was male, and he wanted me to come inside to check the machine, and, naturally, I was afraid of <a href="https://vkblog.github.io/2011/06/i-almost-died-for-a-250-discount-on-an-ikea-chair/" target="_blank">shanking</a>. &#8220;You&#8217;re going to Fishtown?&#8221; Mr. B asked. &#8220;You&#8217;ll be fine.&#8221;
 
-Fishtown is Philadelphia&#8217;s Brooklyn, and the only thing you could get shanked for there anymore for is stealing someone&#8217;s <a href="http://blog.vickiboykis.com/wlb/2013/02/how-do-you-people-drink-coffee/" target="_blank">premium-roast coffee</a>.
+Fishtown is Philadelphia&#8217;s Brooklyn, and the only thing you could get shanked for there anymore for is stealing someone&#8217;s <a href="https://vkblog.github.io/2013/02/how-do-you-people-drink-coffee/" target="_blank">premium-roast coffee</a>.
 
 I got to Fishtown, and, sure enough, a man in his early 30s wearing a sweater vest from the 1970s, tight jeans, and a handlebar mustache showed me into his apartment. &#8220;I&#8217;ll take it,&#8221; I said, pressing a couple keys, imagining my literary future unfolding in front of me. I could finally break free from the bonds of that cruel Muse that wouldn&#8217;t let me use any writing utensils manufactured later than 1962.
 
@@ -48,7 +48,7 @@ The other hipster shrugged and held open the door for me and The Muse of Future 
 
 It was a hipster-off, and I passed the test. Check and mate, hipster-bitches.
 
-If you&#8217;ve never carried a non-portable typewriter down the street and felt smug doing it, it&#8217;s definitely an experience. I put it in my trunk and dialed <a href="http://blog.vickiboykis.com/wlb/2010/09/comparative-dadvantage/" target="_blank">my dad</a>.
+If you&#8217;ve never carried a non-portable typewriter down the street and felt smug doing it, it&#8217;s definitely an experience. I put it in my trunk and dialed <a href="https://vkblog.github.io/2010/09/comparative-dadvantage/" target="_blank">my dad</a>.
 
 &#8220;Dad, guess what,&#8221; I said.
 
@@ -85,7 +85,7 @@ When I got home, I started watching typewriter cleaning videos. I started orderi
 But it turns out that there&#8217;s a reason that we don&#8217;t use 1950s-era typewriters to write anymore, and that&#8217;s because the keys are heavy as shit and it is impossible to type fast without the keys locking.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM.png"><img class="aligncenter  wp-image-9437" alt="Screen Shot 2014-01-25 at 2.52.16 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM-580x239.png" width="464" height="191" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM.png"><img class="aligncenter  wp-image-9437" alt="Screen Shot 2014-01-25 at 2.52.16 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2014/01/Screen-Shot-2014-01-25-at-2.52.16-PM-580x239.png" width="464" height="191" /></a>
 </p>
 
 All of this is to say I have been doing absolutely dick except cleaning my typewriter and watching videos about how to clean a typewriter and looking for pictures of Ernest Hemingway with the same typewriter as me, and fielding my dad&#8217;s calls about my typewriter; everything except actually writing,  so really, the typewriter is working exactly as intended.

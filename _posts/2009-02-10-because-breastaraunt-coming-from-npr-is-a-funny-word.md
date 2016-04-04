@@ -4,7 +4,7 @@ title: 'Because &#8220;Breastaraunt&#8221; coming from NPR is a funny word'
 date: 2009-02-10T08:45:32+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=130
+guid: https://vkblog.github.io/?p=130
 permalink: /2009/02/because-breastaraunt-coming-from-npr-is-a-funny-word/
 categories:
   - Uncategorized
@@ -15,7 +15,7 @@ tags:
   - random
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
 </p>
 
 <p style="text-align: center;">
@@ -23,7 +23,7 @@ tags:
 </p>
 
 [NPR](http://www.npr.org/blogs/monkeysee/2009/02/by_todd_kliman_bigtime_restaur.html#more) and [<p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/02/bettyboopdsm.jpg"><img class="alignnone size-full wp-image-132" title="bettyboopdsm" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/02/bettyboopdsm.jpg" alt="bettyboopdsm" width="169" height="198" /></a>
 </p>
 
 <p style="text-align: center;">

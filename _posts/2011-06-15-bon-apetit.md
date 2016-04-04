@@ -4,7 +4,7 @@ title: Bon Apetit!
 date: 2011-06-15T13:15:26+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=5112
+guid: https://vkblog.github.io/?p=5112
 permalink: /2011/06/bon-apetit/
 categories:
   - Uncategorized
@@ -19,4 +19,4 @@ Matt lives in DC and taunts me almost every day with how awesome DC is and how m
 
 This is the resulting dialogue.
   
-[<img class="aligncenter size-full wp-image-5114" title="Screen shot 2011-06-14 at 1.43.11 PM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png" alt="" width="566" height="718" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png)
+[<img class="aligncenter size-full wp-image-5114" title="Screen shot 2011-06-14 at 1.43.11 PM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png" alt="" width="566" height="718" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2011/06/Screen-shot-2011-06-14-at-1.43.11-PM1.png)

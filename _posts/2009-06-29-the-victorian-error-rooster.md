@@ -4,7 +4,7 @@ title: 'The Victorian Error:  Rooster'
 date: 2009-06-29T05:44:58+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=613
+guid: https://vkblog.github.io/?p=613
 permalink: /2009/06/the-victorian-error-rooster/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
 
 <p style="text-align: left;">
   <div id="attachment_616" style="width: 493px" class="wp-caption aligncenter">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/rooster.jpg"><img class="size-full wp-image-616" title="rooster" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/06/rooster.jpg" alt="The exact rooster in question." width="483" height="363" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/06/rooster.jpg"><img class="size-full wp-image-616" title="rooster" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/06/rooster.jpg" alt="The exact rooster in question." width="483" height="363" /></a>
     
     <p class="wp-caption-text">
       Cock-a-doodle-torture-a-Jew

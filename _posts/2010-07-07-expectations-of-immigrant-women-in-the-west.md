@@ -4,7 +4,7 @@ title: Expectations of immigrant women in the West
 date: 2010-07-07T12:58:52+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3278
+guid: https://vkblog.github.io/?p=3278
 permalink: /2010/07/expectations-of-immigrant-women-in-the-west/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - kids
 ---
 > <p style="text-align: center;">
->   <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/indianamerican.jpg"><img class="aligncenter size-full wp-image-3279" title="indianamerican" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/07/indianamerican.jpg" alt="" width="445" height="500" /></a><a href="http://www.flickr.com/photos/kptyson/329172985/">source</a>
+>   <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/indianamerican.jpg"><img class="aligncenter size-full wp-image-3279" title="indianamerican" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/07/indianamerican.jpg" alt="" width="445" height="500" /></a><a href="http://www.flickr.com/photos/kptyson/329172985/">source</a>
 > </p>
 > 
 > <p style="text-align: left;">

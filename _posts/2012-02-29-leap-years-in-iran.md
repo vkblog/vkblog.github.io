@@ -4,7 +4,7 @@ title: Leap Years in Iran
 date: 2012-02-29T13:19:05+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6492
+guid: https://vkblog.github.io/?p=6492
 permalink: /2012/02/leap-years-in-iran/
 categories:
   - Uncategorized
@@ -21,7 +21,7 @@ tags:
   - tea
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/tehran51.gif"><img class="aligncenter  wp-image-6509" title="tehran5" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/02/tehran51.gif" alt="" width="442" height="295" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/02/tehran51.gif"><img class="aligncenter  wp-image-6509" title="tehran5" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/02/tehran51.gif" alt="" width="442" height="295" /></a>
 </p>
 
 &nbsp;

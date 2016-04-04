@@ -4,7 +4,7 @@ title: Mr. B and I are prepared for anything. Anything being either pogroms or t
 date: 2012-05-30T08:16:07+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=6916
+guid: https://vkblog.github.io/?p=6916
 permalink: /2012/05/mr-b-and-i-are-prepared-for-anything-anything-being-either-pogroms-or-the-siege-of-leningrad/
 categories:
   - Uncategorized
@@ -23,7 +23,7 @@ I haven&#8217;t been blogging because every time I sit down to blog, my mind goe
 Last weekend, it went to Seattle and Portland, where Mr. B and I spent a couple days on sanity leave (aka vacation.)  Much more on that later, but for now, here&#8217;s one of my favorite pics from the trip, from <a href="http://www.yelp.com/biz/washington-state-ferries-seattle" target="_blank">the ferries</a> to Bainbridge Island. I think it pretty much sums up the Pacific Northwest.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/DSC_0937.jpg"><img class="aligncenter  wp-image-6917" title="DSC_0937" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/05/DSC_0937.jpg" alt="" width="448" height="298" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/05/DSC_0937.jpg"><img class="aligncenter  wp-image-6917" title="DSC_0937" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/05/DSC_0937.jpg" alt="" width="448" height="298" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -143,7 +143,7 @@ Last weekend, it went to Seattle and Portland, where Mr. B and I spent a couple 
 </p>
 
 <p style="text-align: left;">
-  &#8220;Um, <a href="http://www.lettersfront.org/" target="_blank">yes</a>? Also, a lot of <a href="http://blog.vickiboykis.com/wlb/2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandfather&#8217;s</a> family served?&#8221;
+  &#8220;Um, <a href="http://www.lettersfront.org/" target="_blank">yes</a>? Also, a lot of <a href="https://vkblog.github.io/2011/10/a-guide-to-trolling-jewish-organizations-featuring-my-grandfather/" target="_blank">my grandfather&#8217;s</a> family served?&#8221;
 </p>
 
 <p style="text-align: left;">

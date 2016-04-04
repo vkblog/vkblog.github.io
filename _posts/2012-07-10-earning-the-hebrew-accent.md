@@ -4,7 +4,7 @@ title: Earning the Hebrew accent
 date: 2012-07-10T07:21:44+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7138
+guid: https://vkblog.github.io/?p=7138
 permalink: /2012/07/earning-the-hebrew-accent/
 categories:
   - Uncategorized
@@ -16,7 +16,7 @@ tags:
   - olim
 ---
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/9921_994206375384_4775135_n.jpg"><img class="aligncenter  wp-image-7141" title="9921_994206375384_4775135_n" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/07/9921_994206375384_4775135_n.jpg" alt="" width="423" height="317" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/07/9921_994206375384_4775135_n.jpg"><img class="aligncenter  wp-image-7141" title="9921_994206375384_4775135_n" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/07/9921_994206375384_4775135_n.jpg" alt="" width="423" height="317" /></a>
 </p>
 
 &nbsp;

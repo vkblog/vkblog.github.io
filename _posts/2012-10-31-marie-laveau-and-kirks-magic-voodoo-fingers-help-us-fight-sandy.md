@@ -4,7 +4,7 @@ title: 'Marie Laveau and Kirk&#8217;s magic voodoo fingers help us fight Sandy'
 date: 2012-10-31T08:23:22+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=7752
+guid: https://vkblog.github.io/?p=7752
 permalink: /2012/10/marie-laveau-and-kirks-magic-voodoo-fingers-help-us-fight-sandy/
 categories:
   - Uncategorized
@@ -20,7 +20,7 @@ tags:
 New Orleans is amazingly beautiful for an American city and has an very distinct energy around Halloween.
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121027_114411.jpg"><img class="aligncenter  wp-image-7753" title="IMG_20121027_114411" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121027_114411-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121027_114411.jpg"><img class="aligncenter  wp-image-7753" title="IMG_20121027_114411" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121027_114411-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -40,7 +40,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: left;">
-  There was just no way to tell whether Philly would be hit hard or experience rain storms. So Mr. B made the decision, because I am a terrible decision-maker. &#8220;We go,&#8221; he said, &#8220;and the worst case scenario is that we have a romantic drive through Mississippi, Alabama, and up the East Coast in a leisurely 20 hours.&#8221; But the rest of the weekend I didn&#8217;t think about Sandy too much because I was trying to do something <a href="http://blog.vickiboykis.com/wlb/2012/10/how-the-other-half-eats/" target="_blank">super-hard</a> for me: <a href="http://blog.vickiboykis.com/wlb/2012/08/my-first-and-last-massage/" target="_blank">relax</a>.
+  There was just no way to tell whether Philly would be hit hard or experience rain storms. So Mr. B made the decision, because I am a terrible decision-maker. &#8220;We go,&#8221; he said, &#8220;and the worst case scenario is that we have a romantic drive through Mississippi, Alabama, and up the East Coast in a leisurely 20 hours.&#8221; But the rest of the weekend I didn&#8217;t think about Sandy too much because I was trying to do something <a href="https://vkblog.github.io/2012/10/how-the-other-half-eats/" target="_blank">super-hard</a> for me: <a href="https://vkblog.github.io/2012/08/my-first-and-last-massage/" target="_blank">relax</a>.
 </p>
 
 <p style="text-align: left;">
@@ -52,7 +52,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-31-at-7.25.29-AM.png"><img class="aligncenter  wp-image-7754" title="Screen shot 2012-10-31 at 7.25.29 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-31-at-7.25.29-AM.png" alt="" width="400" height="143" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/Screen-shot-2012-10-31-at-7.25.29-AM.png"><img class="aligncenter  wp-image-7754" title="Screen shot 2012-10-31 at 7.25.29 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/Screen-shot-2012-10-31-at-7.25.29-AM.png" alt="" width="400" height="143" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -68,7 +68,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-31-at-7.28.43-AM.png"><img class="aligncenter  wp-image-7755" title="Screen shot 2012-10-31 at 7.28.43 AM" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/Screen-shot-2012-10-31-at-7.28.43-AM.png" alt="" width="409" height="284" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/Screen-shot-2012-10-31-at-7.28.43-AM.png"><img class="aligncenter  wp-image-7755" title="Screen shot 2012-10-31 at 7.28.43 AM" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/Screen-shot-2012-10-31-at-7.28.43-AM.png" alt="" width="409" height="284" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -108,7 +108,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_105934.jpg"><img title="IMG_20121029_105934" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_105934-768x1024.jpg" alt="" width="430" height="574" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_105934.jpg"><img title="IMG_20121029_105934" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_105934-768x1024.jpg" alt="" width="430" height="574" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -116,11 +116,11 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_090906.jpg"><img class="aligncenter  wp-image-7760" title="IMG_20121029_090906" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_090906-768x1024.jpg" alt="" width="461" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_090906.jpg"><img class="aligncenter  wp-image-7760" title="IMG_20121029_090906" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_090906-768x1024.jpg" alt="" width="461" height="614" /></a>
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_105934.jpg"><br /> </a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_105934.jpg"><br /> </a>
 </p>
 
 <p style="text-align: left;">
@@ -160,7 +160,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121028_105057.jpg"><img class="aligncenter  wp-image-7757" title="IMG_20121028_105057" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121028_105057-768x1024.jpg" alt="" width="461" height="614" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121028_105057.jpg"><img class="aligncenter  wp-image-7757" title="IMG_20121028_105057" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121028_105057-768x1024.jpg" alt="" width="461" height="614" /></a>
 </p>
 
 <p style="text-align: left;">
@@ -180,7 +180,7 @@ New Orleans is amazingly beautiful for an American city and has an very distinct
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_075446.jpg"><img class="aligncenter  wp-image-7758" title="IMG_20121029_075446" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2012/10/IMG_20121029_075446-768x1024.jpg" alt="" width="377" height="502" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_075446.jpg"><img class="aligncenter  wp-image-7758" title="IMG_20121029_075446" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2012/10/IMG_20121029_075446-768x1024.jpg" alt="" width="377" height="502" /></a>
 </p>
 
 <p style="text-align: left;">

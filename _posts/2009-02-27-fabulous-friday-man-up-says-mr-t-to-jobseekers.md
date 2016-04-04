@@ -4,7 +4,7 @@ title: 'Fabulous Friday: Man up, says Mr. T to jobseekers'
 date: 2009-02-27T14:29:37+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=167
+guid: https://vkblog.github.io/?p=167
 permalink: /2009/02/fabulous-friday-man-up-says-mr-t-to-jobseekers/
 categories:
   - Uncategorized
@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/mrt-stained-glass1.jpg"><img class="size-full wp-image-169 alignnone" title="mrt-stained-glass1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/02/mrt-stained-glass1.jpg" alt="mrt-stained-glass1" width="300" height="395" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/02/mrt-stained-glass1.jpg"><img class="size-full wp-image-169 alignnone" title="mrt-stained-glass1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/02/mrt-stained-glass1.jpg" alt="mrt-stained-glass1" width="300" height="395" /></a>
 </p>
 
 <p style="text-align: center;">

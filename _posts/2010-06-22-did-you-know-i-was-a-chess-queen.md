@@ -4,7 +4,7 @@ title: Did You Know I Was a Chess Queen?
 date: 2010-06-22T08:04:16+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=3173
+guid: https://vkblog.github.io/?p=3173
 permalink: /2010/06/did-you-know-i-was-a-chess-queen/
 categories:
   - Uncategorized
@@ -28,4 +28,4 @@ The problem here is that, as a Russian, I am expected to play [excellent chess t
 
 However,  since I have almost zero logic skills (the kind that would make you consider a career in computer programming and, say, create programs to steal fractions of a cent over time,) I am stuck losing every single time.  So, until Mr. B gets his act together, I will be forced to continuously play the games as depicted below, in hopes that I will be in shape to play for [the big bucks](http://www.chesstour.com/wo10.htm).  Someone has to make the money in this family.
 
-[<img class="aligncenter size-full wp-image-3172" title="Page_1" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/Page_14.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2010/06/Page_14.jpg)
+[<img class="aligncenter size-full wp-image-3172" title="Page_1" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/06/Page_14.jpg" alt="" width="612" height="792" />](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2010/06/Page_14.jpg)

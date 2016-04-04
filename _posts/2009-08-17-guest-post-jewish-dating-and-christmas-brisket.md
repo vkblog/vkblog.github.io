@@ -4,7 +4,7 @@ title: 'Guest Post: Jewish dating and Christmas brisket'
 date: 2009-08-17T11:31:41+00:00
 author: Vicki
 layout: post
-guid: http://blog.vickiboykis.com/wlb/?p=1065
+guid: https://vkblog.github.io/?p=1065
 permalink: /2009/08/guest-post-jewish-dating-and-christmas-brisket/
 categories:
   - Uncategorized
@@ -26,7 +26,7 @@ tags:
 </div>
 
 <div style="margin: 1ex; text-align: left;">
-  <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/24chrismukkah.jpg"><img class="aligncenter size-full wp-image-1067" title="24chrismukkah" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/24chrismukkah.jpg" alt="24chrismukkah" width="486" height="282" /></a>
+  <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/24chrismukkah.jpg"><img class="aligncenter size-full wp-image-1067" title="24chrismukkah" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/24chrismukkah.jpg" alt="24chrismukkah" width="486" height="282" /></a>
 </div>
 
 <div style="margin: 1ex; text-align: left;">
@@ -51,7 +51,7 @@ tags:
   </p>
   
   <p style="text-align: center;">
-    <a href="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/gp_blt_jdate.jpg"><img class="size-full wp-image-1068 aligncenter" title="gp_blt_jdate" src="https://raw.githubusercontent.com/veekaybee/wlb/gh-pages/assets/images/2009/08/gp_blt_jdate.jpg" alt="gp_blt_jdate" width="216" height="396" /></a>
+    <a href="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/gp_blt_jdate.jpg"><img class="size-full wp-image-1068 aligncenter" title="gp_blt_jdate" src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2009/08/gp_blt_jdate.jpg" alt="gp_blt_jdate" width="216" height="396" /></a>
   </p>
   
   <p style="text-align: left;">
