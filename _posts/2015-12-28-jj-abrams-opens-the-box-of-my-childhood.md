@@ -152,9 +152,9 @@ These retreads should have been familiar, comforting, like a warm blanket on a c
 
 In the original Star Wars, there is magnetism and humor, both intentional and not. The viewer is assumed to be competent from the beginning. What other movie today would be ballsy enough to put a scrolling block of text that viewers had to read and understand before jumping into a complicated mix of characters and events?
 
-In Disney&#8217;s Star Wars, as in many other movies today, the audience is assumed to be stupid. The constant winks to the old trilogy as not homages, but desperate attempts to make the new trilogy seem legitimate, desperate to make the bridge and make the money flow.  Finn&#8217;s overwrought mannerisms looks embarrassing compared to Han Solo&#8217;s original wry humor.
+In Disney&#8217;s Star Wars, as in many other movies today, the audience is assumed to be stupid. The constant winks to the old trilogy as not homages, but desperate attempts to make the new trilogy seem legitimate, desperate to make the bridge and make the money flow.  Finn&#8217;s overwrought mannerisms looks embarrassing compared to Han Solo&#8217;s original wry humor.
 
-The dismantling of the heart of Star Wars by MBAs eager to cash in on the <a href="http://www.bloomberg.com/bw/articles/2013-03-07/how-disney-bought-lucasfilm-and-its-plans-for-star-wars" target="_blank">$4 billion merchandising machine</a> that is, at its core, a genuine human story of fragile triumph, is a horrible thing to watch.  Because it is so antithetical to the original nature of what Lucas intended.
+The dismantling of the heart of Star Wars by MBAs eager to cash in on the <a href="http://www.bloomberg.com/bw/articles/2013-03-07/how-disney-bought-lucasfilm-and-its-plans-for-star-wars" target="_blank">$4 billion merchandising machine</a> that is, at its core, a genuine human story of fragile triumph, is a horrible thing to watch.  Because it is so antithetical to the original nature of what Lucas intended.
 
 &#8220;I’ve never been that much of a money guy,” he says in an interview about the sale. “I’m more of a film guy, and most of the money I’ve made is in defense of trying to keep creative control of my movies.&#8221;
 
@@ -162,4 +162,24 @@ Granted, most of his creative choices are questionable. He rewrote the script to
 
 But it&#8217;s obvious that the original movies, are made, at their core, of passion, ingenuity, and love. That there is a dedication to the characters (especially from Harrison Ford, <a href="http://www.huffingtonpost.com/2012/11/08/harrison-ford-han-solo_n_2097347.html" target="_blank">who rewrote most of his own lines</a>,) and a respect for the rules of the universe, and especially the Force.
 
-This current Star War
+This current Star Wars is undoubtedly about mining that genuine trail of goodwill and <a href="https://medium.com/@hassanisms/if-i-was-in-charge-of-marketing-star-wars-a9a9c0276158#.bvtsabnk5" target="_blank">simply turning it into money</a>. There are <a href="http://imgur.com/gallery/R2zYkAj" target="_blank">Star Wars oranges</a>, for God&#8217;s sake.
+
+I walked out of the movie theater feeling like Abrams had failed.  And, like the prequels before him, he had left smudge prints all over my beautiful silverware, my vases, my Waterford crystal. <a href="http://www.ftrain.com/wwic.html" target="_blank">Why wasn&#8217;t I consulted</a>?
+
+The more I think about the changing nature of the entertainment industry and the constant need for monetization and profits in the face of an industry that is leaking money as consumer choices open up, the more amazed I am that anything good gets made at all anymore.
+
+Why can&#8217;t it be like in the good old days of 1977, I thought as I researched this article and people&#8217;s original reactions to the movies. But, as I read more and more, I became confused, and scared.
+
+I&#8217;m scared that, if I had  seen the original movies at age 30, if I would not have liked them. The original, archival NPR review pegs the movie as fluff and wonderful entertainment that &#8220;<a href="http://comicbook.com/2015/12/16/original-star-wars-review-from-npr/" target="_blank">kids can take their parents to</a>.&#8221;  Multiple reviews allude to it as &#8220;<a href="http://shadowpublications.com/essay-a-haters-perspective-on-star-wars/" target="_blank">corny</a>.&#8221; I mean, just look at this original poster. Jesus.
+
+[<img class="aligncenter size-medium wp-image-10109" src="http://blog.vickiboykis.com/wp-content/uploads/2015/12/19fk32sw3nt1wjpg-580x816.jpg" alt="19fk32sw3nt1wjpg" width="580" height="816" />](http://blog.vickiboykis.com/wp-content/uploads/2015/12/19fk32sw3nt1wjpg.jpg)
+
+I&#8217;m scared that maybe what had changed was not Star Wars, but me.  Maybe the problem was that, since I was 12, I&#8217;ve gotten cynical. I&#8217;ve been rejected from multiple jobs, kicked around in the real world, and found out <a href="http://blog.vickiboykis.com/2014/07/dont-pageclick-on-this/" target="_blank">how online advertising works</a> and that the <a href="http://blog.vickiboykis.com/2013/06/being-american/" target="_blank">NSA exists</a>. I understand motivations.  I understand money, and I understand that no one is doing this movie out of the goodness of their hearts. Almost nothing in this world is pure for me anymore.
+
+So maybe, the terrifying part is that I am too old for unadulterated, unbridled joy and belief of the kind I felt when I watched Luke draw his lightsaber for the first time, and maybe it&#8217;s that this movie isn&#8217;t for me. Maybe,  behind all the machinations and Bob Iger and Kathleen Kennedy sitting anxiously on their piles of money, there is some idea that the old magic is back.
+
+But, I did one last test for whether this movie is the real deal. I listened to the kids at the movie theater, for the same kind of reactions as the girl gasping with disbelief at Darth Vader being Annakin Skywalker, to shrieks of delight of the kind when Leia and Luke escaped the stormtroopers by swinging across that chasm, of kids making lightsaber noises.
+
+And sadly, I heard nothing for Finn or Poe or Rey or any of the rest of the actors now tasked with carrying forward this enormous legacy into an endless, exhausting loop of theme park rides, voiceovers, magazine covers, and talk show appearances.
+
+The loudest clapping I heard was when Chewie and Han Solo appeared, old and gray, tired of blasters and escapades, and the loudest shriek when Kylo Ren pierced Han through, destroying the last of the memories of our collective hero, Harrison Ford falling into the chasm of oblivion, checking out with his money, leaving the rest of the heroes screaming into the darkness, trying to fill the void of the greatness that was my first love.
