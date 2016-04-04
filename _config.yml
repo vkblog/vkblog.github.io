@@ -9,6 +9,9 @@ baseurl:          ''
 
 title:            Woman. Legend.Blog
 
+#Disqus comment
+comments: true
+
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
   This blog has it all: Russian despair, American cynicism, and Nutella. Welcome!
