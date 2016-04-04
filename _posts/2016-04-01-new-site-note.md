@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Technical note: New site!
+title: New site
 ---
 
 Hi! It's been a while. A couple months, in fact. 
