@@ -32,7 +32,7 @@ As I spent more and more time with books, after high school, I swore off math fo
 
 Instead of being mysterious, mathematical models now became systems of processes I could use to understand the world and explain it. [Black swan events.](https://en.wikipedia.org/wiki/Black_swan_theory) [The pareto principle.](https://en.wikipedia.org/wiki/Pareto_principle) [Decision trees](https://en.wikipedia.org/wiki/Decision_tree). All are important concepts that are reflected in very real human behavior: The collapse of the stock market, how the medical system functions, how child development works, why it always takes a little bit of time for food to come at a restaurant, what today's weather will be, how fast you can lose or gain weight, how much you should save for retirement, why a Beyonce concert ticket costs so much. 
 
-I hate sounding like a dorky magazine that's trying really hard to get kids into math and science, but once I realize that math really is all around us, I started thinking about it much more. 
+I hate sounding like a dorky magazine that's trying really hard to get kids into math and science, but once I realized that math really is all around us, I started thinking about it much more. 
 
 Spending time with books means having a conversation with their authors. The best authors talk to you and you learn something new from them, coming away from a book as you would from a friend, refreshed, replenished.  
 
