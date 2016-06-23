@@ -39,7 +39,7 @@ As wonderful as the West seemed to ordinary Russians, it was something to be sus
 
 Russia has always yearned for the culture and cache that Western life has provided and has tried to mold its life around Western culture.  Russia loves American culture and copies it every step of the way. Check out the following shows: [Воронины](https://www.youtube.com/watch?v=KRCnU94TlOQ&index=2&list=PL0CB0FF8FD33C893C), aka Everyone Loves Raymond, and [Интерны](http://tnt-online.ru/Interny/s01e01), aka Scrubs, to name a few. 
 
-There is a [late-night show directly modeled ] (https://www.youtube.com/watch?v=IDbj3rVDMOc) off Leno and SNL, where they interview Hollywood stars.  There are Russian rappers who have only one name and rap about BMWs (while wearing Adidas.) 
+There is a [late-night show directly modeled](https://www.youtube.com/watch?v=IDbj3rVDMOc) off Leno and SNL, where they interview Hollywood stars.  There are Russian rappers who have only one name and rap about BMWs (while wearing Adidas.) 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/mI0i-0GSl-M" frameborder="0" allowfullscreen></iframe>
 
