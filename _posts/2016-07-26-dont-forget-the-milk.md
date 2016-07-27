@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Don't forget the milk
