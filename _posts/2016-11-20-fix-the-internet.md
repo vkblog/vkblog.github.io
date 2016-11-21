@@ -43,7 +43,7 @@ The other serious problem with Twitter is that it, in the words of [Titus Androm
 
 This is not just me wringing my hands about technology and Kids Today. I've been on Twitter since 2009 and it's been one of the most important things in my life. I've met future coworkers, friends, and been to places I wouldn't have gone because of conversations I've had on it. I love Twitter. But these days, I am also terrified of its mob mentality  
 
-Medium, while longer-form and less schizophrenic, is just as dangerous. It, like Twitter, is a a proprietary platform (although encourages Creative Commons licensing). It was initially started by Evan Williams, also of Twitter, and interestingly enough, as an alternative to the 140-character limit. It started as a really great idea with good intentions. There are some [really](https://medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063#.6nqwueqah)interesting [articles](https://medium.com/message/that-way-we-re-all-talking-now-49e255037f15#.ue1c5huhy). 
+Medium, while longer-form and less schizophrenic, is just as dangerous. It, like Twitter, is a a proprietary platform (although encourages Creative Commons licensing). It was initially started by Evan Williams, also of Twitter, and interestingly enough, as an alternative to the 140-character limit. It started as a really great idea with good intentions. There are some [really](https://medium.com/@SeanBlanda/the-other-side-is-not-dumb-2670c1294063#.6nqwueqah) interesting [articles](https://medium.com/message/that-way-we-re-all-talking-now-49e255037f15#.ue1c5huhy) on the platform. 
 
 Unfortunately, the people Williams initially invited to the platform initially were all Silicon Valley insiders and their friends, and the original articles they wrote were very tech industry inside-baseball, (just check out the [top stories of all time](https://medium.com/@DaveSchools/the-60-most-recommended-medium-stories-of-all-time-80a0febc5ac6#.rmhemdzbv)),and [privileged.](https://medium.com/the-mission/8-things-every-person-should-do-before-8-a-m-cc0233e15c8d#.t5quj2g18).  
 
@@ -76,7 +76,7 @@ Here are the best news, writing and content-curation sites (defined as most inte
 
 Most of these sites either accept donations or have subscriptions.The sites that have ads are vetted extremely carefully. Most have fully-devoted editorial staff, or a very good way to build community to encourage quality comments. Some cost money to join as a member and leave comments.  None are owned by enormous conglomerate media companies (the New Yorker being the exception that proves the rule.) All of them are independent. 
 
-This brings up an important question that we didn't really stop to think about when building the web as it is today:  [who pays for high quality information?](https://tierion.com/blog/who-pays-for-the-decentralized-web/)? 
+This brings up an important question that we didn't really stop to think about when building the web as it is today:  [who pays for high quality information?](https://tierion.com/blog/who-pays-for-the-decentralized-web/) 
 
 And my answer is that it has to be us.
 
