@@ -41,7 +41,7 @@ The media, which failed us during the election, has continued to vacillate betwe
 
 I wrote back in 2013, 
 
-	The worst part of this is not that I specifically am right, but that history is right, and it always repeats itself in various shades and flavors of Stalinism and is repeating itself today, just not in Europe.  People just have a hard time listening to history. But if you do it closely enough, it will tell you everything that’s going to happen in the future.
+>The worst part of this is not that I specifically am right, but that history is right, and it always repeats itself in various shades and flavors of Stalinism and is repeating itself today, just not in Europe.  People just have a hard time listening to history. But if you do it closely enough, it will tell you everything that’s going to happen in the future.
 
 And the cacophony of media voices flooding the information vacuum has made it impossible to discern whether we are actually repeating something, and if so, what. 
 
