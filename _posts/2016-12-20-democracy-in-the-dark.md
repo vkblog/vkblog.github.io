@@ -7,13 +7,6 @@ layout: post
 [Source. ](http://teacher.scholastic.com/activities/immigration/tour/stop1.htm)
 
 
----
-title: Humor in the dark 
-layout: post
----
-
-![image](immigration.jpg)
-[Source. ](http://teacher.scholastic.com/activities/immigration/tour/stop1.htm)
 
 
 "Where do you think they'll send us when The Deportations start," I ask Mr. B, taking a bite of baklava. It's a weeknight in early December and the cold comes quickly and permeates the dark corners of the house.  We are sitting in the kitchen, drinking tea. The toddler is upstairs fast asleep, firmly clutching her lovey in one hand. 
