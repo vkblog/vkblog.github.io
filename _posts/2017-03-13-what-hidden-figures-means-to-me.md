@@ -73,7 +73,7 @@ A funny thing happened when my daughter became interested in space: the moon sto
 
 Which brings me to the third way that Hidden Figures has brought me meaning: for me as an American, it meant a great deal.
 
-![alt text](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/splashdown.png)
+![alt text](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/splashdown.jpg)
 
 There is something about having children that makes you very vulnerable, very scared for the future. And I imagined the next generation of Americans feeling that America is  a place that, instead of placing people on the moon, is known for practicing [democracy in the dark](http://blog.vickiboykis.com/2016/12/20/democracy-in-the-dark/), and I became disappointed.
 
