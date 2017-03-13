@@ -39,8 +39,10 @@ It means, "to the stars through difficulty," and has been my guiding motto ever 
 My current fight is to be able to spend as much time with my child as I possibly can, still continue to grow in my career, make soup every Saturday, and have time to daydream about writing blog posts. I get a lot of help, but none of this is extremely easy in the least, and _Hidden Figures_ is one of the last movies in recent memory that portrays the struggle of working women in a way that's not slapstick funny or juxtaposed with some crazy romantic plot. It portrays them as they are. "Call your wives and tell them you're coming home after dinner," Kevin Costner addresses Johnson's team as everyone rushes to their telephones, including Katherine, who is, as a single mother, calling her mother, while the viewer is acutely aware of how unaware Costner is of any family dynamic outside of the nuclear norms of 1950s suburban America.
 
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/nasacommons/7610985594/in/album-72157649059305918/" title="Apollo 11 Bootprint"><img src="https://c1.staticflickr.com/9/8158/7610985594_b095c410f6.jpg" width="500" height="402" alt="Apollo 11 Bootprint"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <br>Second, it's meant a lot to me personally as someone who's recently found the moon.
+
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/nasacommons/7610985594/in/album-72157649059305918/" title="Apollo 11 Bootprint"><img src="https://c1.staticflickr.com/9/8158/7610985594_b095c410f6.jpg" width="500" height="402" alt="Apollo 11 Bootprint"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I mean, obviously, the moon's been there all along. But this idea that the moon represents the peak of human achievement, the beauty of what it meant to wonder about the stars, and the perspective of a world much larger than whatever [daily sensational clickbait](http://blog.vickiboykis.com/2012/12/how-to-watch-internet-news/) we're getting, only came to me recently.
 
@@ -48,7 +50,7 @@ Last summer, I finished reading _The Martian_, which describes how astronaut Mar
 
 Around the same time, Mr. B and I also watched _[The Last Man on the Moon](http://thelastmanonthemoon.com/)_, a documentary,about Gene Cernan, the eleventh person to walk on the moon, and the Apollo missions.
 
-![Gustave Dore A Voyage to the moon](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/eugene-cernan.jpg)
+![Cernan](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/eugene-cernan.jpg)
 [Source](http://www.space.com/35342-eugene-cernan-photos-of-last-man-on-the-moon.html)
 
 
@@ -69,9 +71,11 @@ My fever caught on, and several weeks later, I heard her in her in her crib, wis
 
 A funny thing happened when my daughter became interested in space: the moon stopped being something that was solely mine, and now something that was hers, as well. Whereas before I was thinking of individual human accomplishment, I now understood it in the larger context of what it meant for America to never have gone to the moon in either my lifetime, or hers.
 
-Which brings me to the third way that Hidden Figures has brought me meaning: for me as an American, it meant a great deal.  
+Which brings me to the third way that Hidden Figures has brought me meaning: for me as an American, it meant a great deal.
 
-There is something about having children that makes you very vulnerable, very scared for the future. And I imagined the next generation of Americans, feeling that America is  a place that, instead of placing people on the moon, is known for practicing [democracy in the dark](http://blog.vickiboykis.com/2016/12/20/democracy-in-the-dark/), and I became disappointed.
+![alt text](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/splashdown.png)
+
+There is something about having children that makes you very vulnerable, very scared for the future. And I imagined the next generation of Americans feeling that America is  a place that, instead of placing people on the moon, is known for practicing [democracy in the dark](http://blog.vickiboykis.com/2016/12/20/democracy-in-the-dark/), and I became disappointed.
 
 I thought about what a huge shame it was that we were wasting so much energy, emotion, and money on political bullshit, when we could be spending it going to the moon again.
 
