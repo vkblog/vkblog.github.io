@@ -87,9 +87,9 @@ In spite of all of that, I left the the theater feeling illuminated and elevated
 
 It is about showing mainstream America what it means to succeed as a minority woman in technology, and it's about and what benefits a country gains from everyone's contributions are finally [taken equally](https://www.theatlantic.com/entertainment/archive/2017/01/hidden-figures-and-the-appeal-of-math-in-an-age-of-inequality/513434/).  
 
-And finally, for me, it was about the feeling of  watching Sputnik race across the sky, or watching the Lunar Module coast across the lunar surface. The feeling of remarkable progress in the face of a vast, consuming darkness.  It's about what it means to understand that we are tiny, tiny human specs, just trying to get to the stars.
+And finally, for me, it was about the feeling of  watching Sputnik race across the sky, or watching the Lunar Module coast across the lunar surface. The feeling of remarkable progress in the face of a vast, consuming darkness.  It's about what it means to understand that we are tiny, tiny human specks, just trying to get to the stars.
 
-The night after I saw the movie, I finally slept well, and didn't check Twitter in the morning.
+The night after I saw the movie, I finally slept well. I didn't check Twitter in the morning.
 
 Playlist for this post:
 
