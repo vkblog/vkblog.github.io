@@ -71,7 +71,7 @@ My fever caught on, and several weeks later, I heard her in her in her crib, wis
 
 A funny thing happened when my daughter became interested in space: the moon stopped being something that was solely mine, and now something that was hers, as well. Whereas before I was thinking of individual human accomplishment, I now understood it in the larger context of what it meant for America to never have gone to the moon in either my lifetime, or hers.
 
-Which brings me to the third way that Hidden Figures has brought me meaning: for me as an American, it meant a great deal.
+Which brings me to the third way that _Hidden Figures_ has brought me meaning: for me as an American, it meant a great deal.
 
 ![alt text](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/splashdown.jpg)
 
