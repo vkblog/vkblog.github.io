@@ -1,6 +1,6 @@
 ---
 title: The ghosts of Northeast Philadelphia
-layout:post
+layout: post
 ---
 
 <img src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/graves.png"  height="500">
