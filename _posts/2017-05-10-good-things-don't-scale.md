@@ -1,22 +1,7 @@
-
 ---
-layout: post
 title: Good things don't scale
+layout: post
 ---
-
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-	- [Flyover Country](#flyover-country)
-	- [Welcome to Iceland. Here's some Júníus Meyvant](#welcome-to-iceland-heres-some-jnus-meyvant)
-	- [Iceland is for humans](#iceland-is-for-humans)
-	- [From lice to nice](#from-lice-to-nice)
-	- [Small is weird. Small is good.](#small-is-weird-small-is-good)
-	- [Big is hard - for countries, and the internet, too](#big-is-hard-for-countries-and-the-internet-too)
-	- [Where to now?](#where-to-now)
-	- [This is where I leave you](#this-is-where-i-leave-you)
-	- [Further Reading on Iceland](#further-reading-on-iceland)
-
-<!-- /TOC -->
 
 ![viking](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/viking.jpeg)
 
