@@ -5,7 +5,21 @@ layout: post
 
 ![viking](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/viking.jpeg)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  
 
+- [Flyover Country](#flyover-country)
+- [Welcome to Iceland. Here's some Júníus Meyvant](#welcome-to-iceland-heres-some-j%C3%BAn%C3%ADus-meyvant)
+- [Iceland is for humans](#iceland-is-for-humans)
+- [From lice to nice](#from-lice-to-nice)
+- [Small is weird. Small is good.](#small-is-weird-small-is-good)
+- [Big is hard - for countries, and the internet, too](#big-is-hard---for-countries-and-the-internet-too)
+- [Where to now?](#where-to-now)
+- [This is where I leave you](#this-is-where-i-leave-you)
+- [Further Reading on Iceland](#further-reading-on-iceland)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Flyover Country
 
