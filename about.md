@@ -38,7 +38,7 @@ Before Philly, we used to live in and love Washington, D.C. Before that, Mr. B 
 In real life, I work in [tech](http://veekaybee.github.io/). I also just finished my MBA! 
 
 <p style="text-align: left;">
-  You can email me: <strong>vicki.boykis@gmail.com</strong>. I&#8217;m also on <a href="http://twitter.com/vboykis" target="_blank">Twitter</a>, <a href="http://facebook.com/vicki.boykis" target="_blank">Facebook</a>, <a href="www.linkedin.com/in/vickiboykis/" target="_blank">Linkedin</a>, and <a href="http://www.goodreads.com/user/show/6490545-vicki" target="_blank">Goodreads</a>.
+  You can email me: <strong>vicki.boykis@gmail.com</strong>. I&#8217;m also on <a href="http://twitter.com/vboykis" target="_blank">Twitter</a>, <a href="http://facebook.com/vicki.boykis" target="_blank">Facebook</a>, <a href="http://www.linkedin.com/in/vickiboykis/" target="_blank">Linkedin</a>, and <a href="http://www.goodreads.com/user/show/6490545-vicki" target="_blank">Goodreads</a>.
 </p>
 
 <p style="text-align: left;">
