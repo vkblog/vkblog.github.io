@@ -3,6 +3,13 @@ title: What Hidden Figures means to me
 layout: post
 ---
 
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@vboykis">
+<meta name="twitter:creator" content="@vboykis">
+<meta name="twitter:title" content="What Hidden Figures means to me">
+<meta name="twitter:description" content="In trying to deal with today's reality, I've become obsessed with the moon landing.">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/splashdown.jpg">
+
 ![Gustave Dore A Voyage to the moon](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/moon-voyage.jpg)
 
 Lately, I've been waking up with a low-level anxiety that doesn't seem to go away.  Granted, I am Russian — and I do wake up every day scrolling through Twitter — but the combination of the news, the grind of everyday life as a working professional with a toddler braving out her first winter in the germ haven that is daycare, and the national mood have made me feel that there is an electric undercurrent of stress constantly percolating under the surface of my life.
