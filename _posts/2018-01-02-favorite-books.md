@@ -5,7 +5,7 @@ layout: post
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:creator" content="@vboykis" />
-<meta property="og:url" content="http://bits.blogs.nytimes.com/2011/12/08/a-twitter-for-my-sister/" />
+<meta property="og:url" content="http://blog.vickiboykis.com/2018/01/02/favorite-books/" />
 <meta property="og:title" content="My favorite books of 2017" />
 <meta property="og:description" content="What I've learned over time is that I love books that teach me something about the invisible systems that govern how the world works." />
 <meta property="og:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2017books.png" />
