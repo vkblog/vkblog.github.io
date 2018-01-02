@@ -8,7 +8,8 @@ layout: post
 <meta property="og:url" content="http://blog.vickiboykis.com/2018/01/02/favorite-books/" />
 <meta property="og:title" content="My favorite books of 2017" />
 <meta property="og:description" content="What I've learned over time is that I love books that teach me something about the invisible systems that govern how the world works." />
-<meta property="og:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2017books.png" />
+<meta name="twitter:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2017books.png">
+
 
 ![books](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/2017books.png)
 
