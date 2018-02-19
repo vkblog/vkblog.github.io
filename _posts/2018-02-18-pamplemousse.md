@@ -12,7 +12,7 @@ title: It didn't taste like Pamplemousse
 
 ![seltzer](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/seltzer.jpg)
 
-Everyone I know has been talking about LaCroix. The the [hipster sparkling water](http://fortune.com/2017/07/27/la-croix-trend-millennial/) has been everywhere lately, from tech startups, to the [millennial female-oriented newsletter](http://girlsnightinclub.com/) I subscribe to to pretend I'm still in my 20s and see what all the kids are up to these days.  
+Everyone I know has been talking about LaCroix. The [hipster sparkling water](http://fortune.com/2017/07/27/la-croix-trend-millennial/) has been everywhere lately, from tech startups, to the [millennial female-oriented newsletter](http://girlsnightinclub.com/) I subscribe to to pretend I'm still in my 20s and see what all the kids are up to these days.  
 
 Recently, I decided to try it and see if I could indeed ascend to a higher spiritual plane while drinking it.  I went specifically to my local Whole Foods, where they are super-heavy on selling the stuff recently, picked out a six-pack, and brought it home. 
 
