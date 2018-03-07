@@ -7,7 +7,7 @@ title: On competence
 <meta name="twitter:site" content="@vboykis" />
 <meta name="twitter:title" content="On competence" />
 <meta name="twitter:description" content="I just want to watch my Les Miserables in peace, without Nick Jonas." />
-<meta name="twitter:image" content="(https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/Cosette-sweeping-les-miserables-emile-bayard-1862.jpg" />
+<meta name="twitter:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/Cosette-sweeping-les-miserables-emile-bayard-1862.jpg" />
 
 ![](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/Cosette-sweeping-les-miserables-emile-bayard-1862.jpg)
 
