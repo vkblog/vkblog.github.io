@@ -10,7 +10,7 @@ baseurl:          ''
 title:            Woman. Legend.Blog
 
 #Disqus comment
-comments: true
+comments: false
 
 disqus: womanlegendblog
 
