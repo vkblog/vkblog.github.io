@@ -45,7 +45,7 @@ The town center itself is laid out in an architectural pattern mimicking a small
 
 All of the stores are upscale tenants like Ulta and Nordstrom Rack, and all of the restaurants have menus featuring "local" and "organic" offerings in green sans-serif fonts.  There is a Wegmans nearby, and several sleek, brand-new gyms. There is an upscale beauty salon where overdressed stylists sit near completely empty chairs, playing on their phones, waiting for clients.
 
-After the congested ultra-highways lacing through King of Prussia and the miles of parking lots, it's a refreshing change to see people walking around, small gaggles of kids playing together and running around. But, on a deeper level, it becomes obvious that the Town Center, like many things built from the top down, is souless. 
+After the congested ultra-highways lacing through King of Prussia and the miles of parking lots, it's a refreshing change to see people walking around, small gaggles of kids playing together and running around. But, on a deeper level, it becomes obvious that the Town Center, like many things built from the top down, is soulless. 
 
 At first, it's fun to browse the stores, check out the overpriced yoga leggings and wheat grass shots. 
 But, as you walk through the town center, you realize it was not built for people, but for corporations.
@@ -59,11 +59,11 @@ The King of Prussia Town Center is a fantastic example of what comes about when 
 
 When the primary and overarching goal of a space is to maximize revenue, it automatically cannot be aligned to those of society's needs that are not met by buying Lululemon and organic bronzer. The Current Affairs article above quotes some examples of societies that are further along that path than even us: 
 
-> What would it really feel like to live in a society where almost every single thing is privately owned and priced?  Walking around urban Japan, I feel like I am seeing a society that is several steps closer to that ideal than the United States.Many green spaces are private and gated off (admission is usually around $5). In cafes, each customer must order something promptly or be kicked out; outside your house or office, there is basically nowhere to sit down that will not cost you a little bit of money. 
+> What would it really feel like to live in a society where almost every single thing is privately owned and priced?  Walking around urban Japan, I feel like I am seeing a society that is several steps closer to that ideal than the United States. Many green spaces are private and gated off (admission is usually around $5). In cafes, each customer must order something promptly or be kicked out; outside your house or office, there is basically nowhere to sit down that will not cost you a little bit of money. 
 
 
 In the town center, there are no playgrounds, no libraries, and no civic centers.  No public spaces. But, 
-unfortunately, it's exactly these kinds of public spaces that we we as a society need a bit more of.  We need to be able spend time with each other in public parks, without the pressure of having to buy anything. We need to be able to spend time in libraries, in squares, in civic centers, talking to each other.  
+unfortunately, it's exactly these kinds of public spaces that we as a society need more of.  We need to be able spend time with each other in public parks, without the pressure of having to buy anything. We need to be able to spend time in libraries, in squares, in civic centers, talking to each other.  
 
 Which brings me to our online spaces.  Over the past five years or so, the public places where we conduct conversations online have become landfills of burning trash heaps, dotted by a few freak accidental discussions of clarity where both parties come away having learned something. 
 
@@ -73,13 +73,13 @@ The goals of our largest public spaces in America  are orthogonal to what humans
 
 Both Twitter and Facebook, the largest offenders, have tried in half-hearted ways to make spaces more amenable to people staying in them by "increasing user engagement" for some vague definition of what engagement means. 
 
-Unfortunately, these attempt are built by product managers and C-suite executives, who, like the architects of the Town Center, don't even use their own platforms in the same way most users do. 
+Unfortunately, these attempts are initiated by product managers and C-suite executives, who, like the architects of the Town Center, don't even use their own platforms in the same way most users do. 
 
 Twitter has, inexplicably, decided that [instead of creating a community](https://medium.com/@monteiro/one-persons-history-of-twitter-from-beginning-to-end-5b41abed6c20) where most people feel comfortable sharing thoughts and not being attacked by spammers and harassers, it would increase the character count under the guise of "language flexibility", thus [breaking the main feature](https://blog.twitter.com/official/en_us/topics/product/2017/Giving-you-more-characters-to-express-yourself.html) that made it so attractive in the first place. 
 
 Facebook is led by an executive who [doesn't seem to understand human emotions](http://knowyourmeme.com/memes/fake-mark-zuckerberg-facebook-posts), as evidenced by both the memes comparing him to a robot and the fact that he thinks [Facebook is a social net positive.](http://money.cnn.com/2017/11/29/technology/facebook-social-good-forum/index.html.)
 
-The funny thing, is that both Facebook and Twitter already provide value to people. Just look at how many people have gotten jobs [and met friends](https://twitter.com/Nintendo_Legend/status/937892553080360960) through Twitter, or been part of local communities on Facebook. But, the problem is that these things are intangible and extremely hard to measure, because they are extremely complicated, extremely long-tail, and extremely human. As long as success is measured by only the length of time people stay on the site and click on things, without any differentiation as to whether these things [make people happy or sad](https://www.newyorker.com/tech/elements/how-facebook-makes-us-unhappy), these platforms will not fulfill the basic human needs of real community 100%, and will continue to build towards empty, upscale shopping malls blaring music. Just look at Twitter. It already has a TV that no one watches in the sidebar. 
+The funny thing is that both Facebook and Twitter already provide value to people. Just look at how many people have gotten jobs [and met friends](https://twitter.com/Nintendo_Legend/status/937892553080360960) through Twitter, or been part of local communities on Facebook. But, the problem is that these things are intangible and extremely hard to measure, because they are extremely complicated, extremely long-tail, and extremely human. As long as success is measured by only the length of time people stay on the site and click on things, without any differentiation as to whether these things [make people happy or sad](https://www.newyorker.com/tech/elements/how-facebook-makes-us-unhappy), these platforms will not fulfill the basic human needs of real community 100%, and will continue to build towards empty, upscale shopping malls blaring music. Just look at Twitter. It already has a TV that no one watches in the sidebar. 
 
 How do we fix this? There must be a way to make these platforms work for people
 without dismantling the "late-stage" capitalism that so many denounce these days, and without having another revolutionary war to bring us all in alignment on civic responsibility. 
@@ -95,3 +95,4 @@ And, finally, [we need to build from the ground up](http://blog.vickiboykis.com/
 These are all tiny, tiny solutions to the hole we've managed to dig ourselves into. They're not easy, and they'll take as long to get going as it's taken the ad-based internet to  evolve. 
 
 In the age of media and internet oligopolies, where every media source and  is dependent on Facebook and Twitter clicks to continue fueling their content and everyone is dependent on Facebook to remember birthdays, it's unrealistic to expect that a small, grassroots movement can change a lot, or even anything, but that's what they said about the Continental Army back in the day, too. 
+
