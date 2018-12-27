@@ -72,7 +72,7 @@ I came to Le Guin very late, but damn was this book good. Real good. You can see
 
 Past favorite lists: 
 
-+ [2018](http://blog.vickiboykis.com/2018/01/02/favorite-books/)
++ [2017](http://blog.vickiboykis.com/2018/01/02/favorite-books/)
 + [2016](http://blog.vickiboykis.com/2016/12/26/books-of-2016/)
 + [2014](http://blog.vickiboykis.com/2015/01/my-favorite-books-of-2014/)
 + [2013](http://blog.vickiboykis.com/2013/12/my-favorite-books-of-2013/)
