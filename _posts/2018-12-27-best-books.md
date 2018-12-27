@@ -68,6 +68,15 @@ This book just plain dumb blew me away. There is no other way to say it. This is
 
 I came to Le Guin very late, but damn was this book good. Real good. You can see the influence on Harry Potter and hundreds of other childrens' books. This is a book for children, but it is not written to talk down to them. It speaks to all of us, and what it means to be human. 
 
+**Beartown by Frederick Backman **
+
+I had no idea I was interested in hockey until I read this novel about small town Scandinavian life that revolves around a hockey team that's the town's only hope of survival. Extremely readable and extremely human. 
+
+**A Russian Journal by John Steinbeck **
+
+It's obvious that Steinbeck is a good writer, but you don't really know for sure until a writer writes about something that you know a lot about. A Russian Journal is Steinbeck's frustrated attempt to get past the sensationalism of Russia in the headlines (sound familiar?) 50+ years ago, and report honestly on what he sees there. 
+
+
 
 
 Past favorite lists: 
