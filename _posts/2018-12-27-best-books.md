@@ -61,7 +61,7 @@ We've had quite a year in tech lately. All of a sudden, it seems, people have di
 
 **The People in the Trees by Haniya Yanagihara**
 
-This book just plain dumb blew me away. There is no other way to say it. This is a Novel. Yanagihara created an entire universe, a character who you hate but can't feel sorry for, a moral dilemma that has you wondering what you would do in the narrator's shoes, and has wrought a sparkling Pacific culture almost rom the ground up.  Please read this book to recognize the true power of wriitng. 
+This book just plain dumb blew me away. There is no other way to say it. This is a Novel. Yanagihara created an entire universe, a character who you hate but also can't help but feel sorry for, a moral dilemma that has you wondering what you would do in the narrator's shoes, and has wrought a sparkling Pacific culture almost rom the ground up.  Please read this book to recognize the true power of writing. 
 
 
 **A Wizard of Earthsea by Ursula K. Le Guin**
