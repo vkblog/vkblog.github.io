@@ -14,7 +14,7 @@ title: The luxury of opting out of digital noise
 <img src="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/sleeping-woman-1935.jpg" alt="drawing" width="300px"/>
 
 
-Recently, Ottessa Moshfegh released a new critically-acclaimed novel, ["My Year of Rest and Relaxation"](https://www.goodreads.com/book/show/36203391-my-year-of-rest-and-relaxation.) The story is about a young, thin, and pretty (as she tells us herself many times) Columbia graduate in her mid-20s, in the year 2000. In the midst of a booming and glittering New York City, she's still consumed by the deaths of her hideously neglectful parents, her abusive on-again/off-again boyfriend, and her meaningless job at an art gallery.  She mopes, blocks out her "best friend", and comes to the conclusion that she can't really deal with the world anymore.  
+Recently, Ottessa Moshfegh released a new critically-acclaimed novel, ["My Year of Rest and Relaxation"](https://www.goodreads.com/book/show/36203391-my-year-of-rest-and-relaxation). The story is about a young, thin, and pretty (as she tells us herself many times) Columbia graduate in her mid-20s, in the year 2000. In the midst of a booming and glittering New York City, she's still consumed by the deaths of her hideously neglectful parents, her abusive on-again/off-again boyfriend, and her meaningless job at an art gallery.  She mopes, blocks out her "best friend", and comes to the conclusion that she can't really deal with the world anymore.  
 
 Armed with a bevy of prescriptions, and an insane psychiatrist (who never remembers that the narrator's parents are dead), she decides to sleep for a year.
 
