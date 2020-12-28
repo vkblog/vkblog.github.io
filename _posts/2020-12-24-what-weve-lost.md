@@ -9,7 +9,6 @@ layout: post
 <meta property="og:title" content="Alone together in 2020" />
 <meta property="og:description" content="We lost a lot of time in 2020.  " />
 
-
 This started as a Twitter thread, but [one of my long-time goals](http://blog.vickiboykis.com/2016/11/20/fix-the-internet/) has been to not put stuff in Twitter threads, so here it is in longer form. Hopefully this is the start of a nice return to blogging for 2021!
 
 A few days ago, I was putting together our physical photo album for 2020. I do this every year because I'm terrified that [I'm going to lose all of our photos into the digital ether.](http://veekaybee.github.io/2015/06/03/what-do-we-do-with-all-these-photos/)
