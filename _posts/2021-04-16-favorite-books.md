@@ -8,7 +8,7 @@ layout: post
 <meta property="og:url" content="" />
 <meta property="og:title" content="My favorite books of 2020" />
 <meta property="og:description" content="The few I read ww " />
-<meta name="twitter:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/books2019.png">
+<meta name="twitter:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/books2020.png">
 
 
 ![books](https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/books2020.png)
