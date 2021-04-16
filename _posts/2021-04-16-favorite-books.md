@@ -7,7 +7,7 @@ layout: post
 <meta name="twitter:creator" content="@vboykis" />
 <meta property="og:url" content="" />
 <meta property="og:title" content="My favorite books of 2020" />
-<meta property="og:description" content="The few I read ww " />
+<meta property="og:description" content="The few I read were good " />
 <meta name="twitter:image" content="https://raw.githubusercontent.com/vkblog/vkblog.github.io/master/public/img/books2020.png">
 
 
